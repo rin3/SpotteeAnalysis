@@ -1,0 +1,242 @@
+callsign   total 160  80  40  20  15  10
+----------------------------------------
+JA5BJC       149      32  33  27  41  16
+JA3YBK       137      23  35  25  29  25
+JA7YRR        95      14  15  16  31  19
+JE1ZWT        63       4  16   7  23  13
+JI2ZJS        46       6   9   3  19   9
+JJ1ZNF        42          12   9  21    
+JA7NVF        38               6  29   3
+JR1AIB        35       1   6   6  16   6
+JS3CTQ        32           4   5  12  11
+JA3USA        31           6   3  11  11
+JH1AEP        30          30            
+JA8RWU        30              30        
+JI2UNR        27                  27    
+JA7OWD        26                      26
+JA7YAA        25       1   6   5   7   6
+JA2ZJW        25               3  12  10
+JA1PCY        19                  19    
+JG2SON        18                      18
+JA3BOA        17                  17    
+JO1ZYI        16       2           7   7
+JA2BNN        16                  12   4
+JR1MQT        15                  15    
+JH1AGU        14                      14
+JH7XMO        13          13            
+JA1YFG        12           1   4   7    
+JR3NZC        12                  12    
+JF3BFS        12                      12
+JM1NKT        12                      12
+JO7KMB        12                      12
+JA3NTE        11                  11    
+JI1FDF        10              10        
+JA9IPF        10                  10    
+JI3VUB        10                  10    
+JA2KSI        10                  10    
+JE1MMX        10                   1   9
+JH0EQN        10                      10
+JA1KQX         9               1   3   5
+JR3RIY         9                   9    
+JI2KXK         9                   7   2
+JH1AZO         9                   1   8
+JJ2LPV         8           2           6
+JA7ODY         8           1       7    
+JH0HQP         8           1           7
+JE1OHL         8                   6   2
+JF7PHE         8                   2   6
+JJ1RDX         8                       8
+7K3OWM         8                       8
+JE1LFX         7               7        
+JA1VND         7                   7    
+JA2UNR         7                   7    
+JH6QFJ         7                   5   2
+JH1OCC         7                       7
+JA1TMG         6           2   1   3    
+JG2KKG         6               6        
+JA1YPA         6               6        
+JR9NVB         6                   6    
+JA9SCB/1       6                   6    
+JF9JTS         6                   2   4
+7L1JHN         6                       6
+JQ2IQW         6                       6
+JF1IST         5       3   2            
+JA0LBE         5                   5    
+JQ1NGT         5                   5    
+7K4XNN         5                   5    
+JH0RNN         5                   2   3
+JH7BZR         5                   1   4
+JN2QCV         5                   1   4
+JA7MGP         5                   1   4
+JH1UUT         5                       5
+JF2IWW         5                       5
+JH0EPI         4               4        
+7M2PSC         4                   4    
+JQ1BNL         4                   4    
+JM1LRQ         4                   4    
+JA4KKW         4                   4    
+JS1OYN         4                   1   3
+JA6WJL         4                       4
+JA1RPK         4                       4
+JG2TKH         4                       4
+JA7QFU         4                       4
+JN1MKU         4                       4
+JA5MXP         4                       4
+JA7DY          4                       4
+JA8ISU         3   3                    
+JA6YBK         3       1       1       1
+JA2BAY         3           3            
+JJ1JNF         3           1       2    
+JF1OPL         3               1       2
+7L1ETP/1       3                   3    
+JA1CG          3                   3    
+JL3VUL/3       3                   3    
+JH8DEH         3                   3    
+JR3QHQ         3                   3    
+JF2FIU         3                   3    
+JA1BPA         3                       3
+JA3XOG         3                       3
+JJ1LGO         3                       3
+JA7BEW         3                       3
+JE2OTM         2       2                
+JE1SPY         2       2                
+JA5BJK         2       1           1    
+JO1WKO         2       1               1
+JA9FPI         2           2            
+JS1PWV         2           2            
+JA2KVD         2           2            
+7K4PTY         2           1       1    
+JA5BHC         2           1       1    
+JM1LPN         2           1       1    
+JF2IWL         2                   2    
+JH5AVM         2                   2    
+JR1HUA         2                   2    
+JG3UOB/1       2                   2    
+7L1ETP         2                   2    
+JM9LRQ         2                   2    
+JF1JPC         2                   2    
+JM2PSC         2                   2    
+JA4XY          2                   2    
+JK3DGX         2                   2    
+JH9URT         2                   2    
+JJ1DNF         2                   2    
+JG1HQA         2                       2
+JN7IIR         2                       2
+JI1KXL         2                       2
+JE3WVA/3       2                       2
+JM1SMY         2                       2
+JA1OCC         2                       2
+JO1ZYW         2                       2
+JA5GPJ         2                       2
+JH6FTJ         2                       2
+JG2TQH         2                       2
+JA2EAM         1       1                
+JA8CMC         1       1                
+JA3YBT         1       1                
+JA2KIW         1       1                
+JA4DC          1       1                
+JG7IJM         1       1                
+JA1OVD         1       1                
+JA3KZD         1       1                
+JHH7XMO        1           1            
+JA4OEF         1           1            
+JA1IZZ         1           1            
+JI2ZJW         1           1            
+JA4JBZ         1           1            
+JA3BYK         1           1            
+JA2KNW         1           1            
+JE1JWT         1           1            
+JN7NVF         1           1            
+JA9FAP         1           1            
+JA1BDR         1           1            
+JR1ACB         1           1            
+JA1VZZ         1           1            
+JS1PSV         1           1            
+JM1FHL         1           1            
+JA1LNZ         1           1            
+JR1LZK         1           1            
+JJ0K           1               1        
+JA1MNW         1               1        
+JQ2DGT         1               1        
+JA5APU         1               1        
+JR6EZE         1               1        
+JA5BJT         1               1        
+JA8VJ          1               1        
+JJ0KRD         1               1        
+JA5BCJ         1               1        
+JS3CT          1               1        
+JK1EVD         1               1        
+JE3ZWT         1                   1    
+JA2JTN         1                   1    
+JA8YYY         1                   1    
+JA7YYR         1                   1    
+JQ2GYU         1                   1    
+JA3BUC         1                   1    
+JL3JRY         1                   1    
+JF9NVB         1                   1    
+JA1KND         1                   1    
+JP1JIP/7       1                   1    
+JK2DGX         1                   1    
+JI3VLB         1                   1    
+JE1HHL         1                   1    
+JH9KVF         1                   1    
+JK1UVP         1                   1    
+JA4KW          1                   1    
+JQ1GNT         1                   1    
+JR1BDH         1                   1    
+JA3YRR         1                   1    
+JA3YRL         1                   1    
+7K1NCP         1                   1    
+7M2PSN         1                   1    
+JA7YA          1                   1    
+JA3ZJW         1                   1    
+JL3VUL         1                   1    
+JL1MWY         1                   1    
+JH1CCN         1                   1    
+JA2RGW         1                   1    
+JJ1NZF         1                   1    
+JJ2IJU         1                   1    
+JA2KKI         1                   1    
+JA1YFC         1                   1    
+JF1VVR         1                   1    
+JA3BJC         1                   1    
+JR2DOL         1                   1    
+JR5XPG         1                   1    
+JA4RWN         1                   1    
+JF2QNM         1                       1
+JR6EA          1                       1
+JO1WUL         1                       1
+JH1NBN         1                       1
+JE1SLP         1                       1
+JA6EFT         1                       1
+JE1RXJ         1                       1
+JA6RCH         1                       1
+JH1ZWT         1                       1
+JS1NDM         1                       1
+JF2JWW         1                       1
+JQ2IGW         1                       1
+JA3LFK         1                       1
+7K3OWN         1                       1
+JA0EKI         1                       1
+JH7RTQ         1                       1
+8K1A           1                       1
+JA1SLP         1                       1
+JA6BGA         1                       1
+JA1CJP         1                       1
+JN1JFC         1                       1
+JG0TCL         1                       1
+JA3LFK/QRP     1                       1
+JA2ZJY         1                       1
+JA4GXX         1                       1
+JR5IAH         1                       1
+JO7JMB         1                       1
+JA2JYW         1                       1
+JA3YNK         1                       1
+JA4BS          1                       1
+JR0ETA         1                       1
+JA2BHJ         1                       1
+JE1CQT         1                       1
+JH4UTP         1                       1
+JR9OPJ         1                       1
+JL1JHN         1                       1
+JQ1QWA         1                       1

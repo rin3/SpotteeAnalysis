@@ -1,0 +1,45 @@
+  3510.9  JE1CKA/1    31-Oct-2004 2028Z  jcc-1709                    <JA3FYC>
+  7005.8  JA8VGZ      31-Oct-2004 1647Z  599                          <DL4MO>
+  7029.5  JA5BJC      31-Oct-2004 1607Z                              <OK2PAY>
+  7007.1  JA1NUT      31-Oct-2004 1212Z  big sig                       <WB8B>
+ 21070.0  JA1EUL      31-Oct-2004 0910Z                                <SZ1A>
+ 21069.9  JA1EUL      31-Oct-2004 0906Z  BPSK31 AKI Tokyo            <IV3TMT>
+ 18148.0  JA8GYQ      31-Oct-2004 0902Z  59                          <ON4GDB>
+ 24908.0  JA4FKX      31-Oct-2004 0854Z  like a local                 <DL3YM>
+ 24908.0  JA4FKX      31-Oct-2004 0833Z  Band open to JA              <PA1MR>
+ 28010.0  JA1CPZ      31-Oct-2004 0816Z  OP HIRO  CQ                  <F8DGY>
+ 21070.0  JA1WPX      31-Oct-2004 0816Z  PSK                          <DJ1PE>
+ 50017.0  JA6YBR/B    31-Oct-2004 0537Z  569 qsb into of88            <VK6JJ>
+ 21070.1  8N1NSSAI/1  31-Oct-2004 0529Z  PSK31 CQ CQ No Taker        <JF7VVL>
+ 21071.0  8N1NSSAI/1  31-Oct-2004 0457Z  PSK QRV LAST DAY            <JG1GGU>
+ 21081.0  JA5BJC      31-Oct-2004 0330Z                                <AB5K>
+  7000.0  JA0RUG      31-Oct-2004 0016Z  "few"or"a few"? different!  <JA1QTC>
+ 21028.8  JA1NUT      30-Oct-2004 2345Z                                <KU2A>
+ 24896.1  JA1OSN/7    30-Oct-2004 2317Z                                <KU2A>
+ 24902.0  JA1OSN/7    30-Oct-2004 2313Z                              <XE2BSS>
+ 21029.0  JA8BBD      30-Oct-2004 2243Z                                <AC2K>
+ 24905.4  JR1NHD      30-Oct-2004 2241Z  shin 599                     <LW2DX>
+ 24952.0  JQ2IQW      30-Oct-2004 2233Z  CQ 12                       <HP2CWB>
+ 24892.5  JK4CHT      30-Oct-2004 2231Z                                <AC2K>
+ 28015.0  JH8GYV      30-Oct-2004 2224Z  Kiyo Nr Sapporo.            <XE2BSS>
+ 24942.0  JA1CG       30-Oct-2004 2218Z                              <HP2CWB>
+ 24898.8  JA1LZR      30-Oct-2004 2217Z                                <AC2K>
+ 24937.6  JL1MWI      30-Oct-2004 2214Z  CQ                          <HP2CWB>
+ 24958.1  JO1DZA      30-Oct-2004 2212Z  5/9                         <HP2CWB>
+ 10123.5  JA4FKX      30-Oct-2004 2145Z                              <RK3QWA>
+ 10107.9  JE6DOI      30-Oct-2004 2139Z                                <W2QN>
+ 18085.9  JA1OSN/7    30-Oct-2004 1111Z                              <GI4NKB>
+ 18089.0  7M4FMY      30-Oct-2004 1008Z                              <DL6LBI>
+ 21082.4  JR0BAQ/SO2005 30-Oct-2004 0922Z  FSK                          <DJ2PJ>
+ 18082.9  JR1GMK      30-Oct-2004 0915Z  CQ CQ                        <F5PBM>
+ 10106.0  JA1LZR      30-Oct-2004 0855Z  CQ strong                   <PA0WRS>
+ 18076.2  JA7DLE      30-Oct-2004 0848Z  Zen in Hanamaki/Iwate        <F5PBM>
+ 18102.3  JR1TLD      30-Oct-2004 0833Z  BPSK31 Edy Oume             <DL2AYL>
+ 18081.0  JA4AQZ      30-Oct-2004 0705Z  Masa in Shunan               <F5PBM>
+ 18080.1  JA8CMC      30-Oct-2004 0613Z  Tatsu, 589 in SP !!!        <SP9CUX>
+ 14090.0  8N1NSSAI/1  30-Oct-2004 0237Z  RTTY                          <AD0K>
+ 14089.0  8N1NSSAI/1  30-Oct-2004 0224Z                               <K5PSB>
+ 14092.2  8N1NSSAI/1  30-Oct-2004 0219Z  CQ                          <JA1BNW>
+ 14090.0  8N1NSSAI/1  30-Oct-2004 0217Z  RTTY op:JG1GGU              <JA1WSK>
+ 14090.0  8N1NSSAI/1  30-Oct-2004 0212Z  RTTY (correct callsign!)      <W7AY>
+ 24900.3  JA7DLE      30-Oct-2004 0009Z  599                          <K9APW>

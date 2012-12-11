@@ -1,0 +1,3703 @@
+callsign   total 160  80  40  20  15  10
+----------------------------------------
+HC8L         440  41  58  80  68  90 103
+FP/VE7SV     376  75  80  51  63  38  69
+EA8ZS        363  45  42  59  78  64  75
+KH7X         324  20  55  70  58  50  71
+XX9C         310   2  52  55  56  66  79
+VP2E         290  14  53  25  65  55  78
+V26B         278   9  28  27  65  62  87
+PJ2T         267   9  15  30  72  67  74
+MD4K         235  54  31  41  36  38  35
+WP2Z         211  18  13  22  48  58  52
+CU2Z         202       2   7  48  73  72
+9A1A         200  14  41  34  50  33  28
+D4B          195  14   9  19  50  35  68
+FY5KE        190  14  19  18  37  32  70
+VP5X         186  20  25  26  52  35  28
+OT4A         173  20  30  41  38  27  17
+V47KP        167  10   9   7  42  55  44
+CT9L         165   2  10  11  34  39  69
+IH9P         161  17   9  37  26  30  42
+NP3U         160   6   8  15  49  37  45
+DF0HQ        157  11  35  43  30  23  15
+CT8T         156   6  18  40  28  32  32
+GM0B         150  14  29  36  31  21  19
+DF0CG        149  20  17  29  41  28  14
+D44TD        148             148        
+CN2R         146  27  22      28  13  56
+JA5BJC       143      32  33  24  38  16
+6W1RY        143      10  11  40  23  59
+8P1A         141   5  12  14  36  22  52
+TI8M         140   3  21  14  35  36  31
+PS2T         138       1   8  51  33  45
+GM5A         137  18   7  28  41  33  10
+HB0/HB9AON   137  16  17  24  44  15  21
+LT1F         137       6  15  47  34  35
+9Y4ZC        136   3   8  17  34  36  38
+JA3YBK       132      23  34  24  27  24
+VE2IM        129  13  28  13  37  21  17
+A61AJ        125   4  15  14  21  23  48
+IR4X         123      27  26  26  25  19
+3V8BB        115   3   9  33  21  15  34
+4U1ITU       115   1  16  30  27  18  23
+RU1A         113   5  16  36  30  20   6
+T48K         111   5  19  20  17  19  31
+9A7A         109   2  14  28  19  27  19
+C91Z         109              35  14  60
+5H3HK        109              11  16  82
+FG/K9NW      108   2  11   4  31  16  44
+RW2F         107   9  16  19  40  16   7
+FM5BH        107   2  10  15  25  18  37
+5B/AJ2O      104   5   9  11  30  23  26
+ZK1AQT       104       6   7  21  17  53
+P49Y         103   8  12   2  26  17  38
+D70YT/P      103      13  41  27  22    
+UU7J         102   4  16   5  38  24  15
+HI3CCP       101       4  17  17  21  42
+W3LPL        100   4  19  23  24  12  18
+HI3TEJ       100      12   3  25  29  31
+VP9/W4OV      98   7   7   8  15  24  37
+ST2T          98           1  17  12  68
+EA9LZ         97       5  20  19  23  30
+PJ4J          97       1   2  31  12  51
+UP5G          95       4  14  35  19  23
+CQ9K          94   2   6   6  25  26  29
+VK9XD         94           5   6  33  50
+LZ9W          93   7   7  21  27  21  10
+C6DX          93   4   5  10  26  21  27
+GI1W          92  11  11  13  11  27  19
+OT4L          92   2  13  28  16  22  11
+KC1XX         91   9  29  12  16  15  10
+GW4BLE        91   2   7  26  18  19  19
+P40W          88   6   8   9  19  20  26
+JA7YRR        88      14  15  14  28  17
+J49Z          86   3  15  14  13  14  27
+EA5KB         84   5   4  15  27  15  18
+EX9A          83   7   6   3  19  20  28
+HG6N          83   5  11  15  17  24  11
+5U7JB         83              24  21  38
+VY2ZM         81   9  27   7  18  16   4
+9K2HN         81   3  12  14  25   8  19
+OA4O          81   1   6  13  16  19  26
+AH2R          80       5   9  11  26  29
+CE4PBB        80       3   4  21  16  36
+EI7M          77   9  19  10  13  15  11
+OE2S          76   4  13  19  15  16   9
+RK0AXX        76   3  20  15  18  10  10
+HK1XX         76              76        
+UA0AZA        75   3  14  21  26   9   2
+9V1YC         75          12  20  22  21
+PX2A          75              19  12  44
+9J2KC         74                      74
+JU1DX         73   4  10  16  11  15  17
+V55V          73           2  26  17  28
+EY8MM         73              73        
+VY2TT         72   5  15  15  23   7   7
+FS/AH8DX      72   1  11   1  16  13  30
+P40A          72       4   5  24  15  24
+OM8A          71      12  23  14  15   7
+C6AUR         71       4  10  12  33  12
+ZY7C          71       1   8  25  18  19
+9Y4NZ         70                      70
+TM2Y          69   6  11  16  10  15  11
+OK5W          67       3  34  11  11   8
+S50G          67       3  24  14  20   6
+PX5E          67                  67    
+SU9NC         66   1          10  16  39
+ZS5T          66              20   7  39
+4M5DX         65          65            
+ZD8I          65              14  17  34
+VE1JF         64  11  10  18  14   3   8
+SZ1A          64   6  11   1  11  14  21
+NP4Z          64       1   9  12  19  23
+JW5E          64           4  40  18   2
+LR2F          63           8  13  10  32
+LP0H          63           4  19  12  28
+AH6RF         63                      63
+VQ5C          63                      63
+G6PZ          62   5   9  16  12  11   9
+PI4D          62   4   7   5  22  11  13
+VR2BG         62   1       4  13  21  23
+J75J          62           6  10  25  21
+C4W           61   2      13   6   8  32
+K1RX          61   1  16  11  14  11   8
+IR2C          61       9  16  13  13  10
+OM7M          61       7  20  19  14   1
+S50C          61       6  25  13  11   6
+4X0WV         61       1   3  28  14  15
+BV0J          61          14   8  23  16
+KG4WW         61                  61    
+RL3A          60   4   8  19  13  12   4
+IR9U          60   2   4   6  20  10  18
+K1TTT         60      15   5  18  16   6
+S52ZW         60      12   7  13  19   9
+OH0Z          60       9   3  20   6  22
+C6AVV         60       7  17  11  17   8
+M6T           60       6  13   9  22  10
+JE1ZWT        60       4  16   7  22  11
+LY7A          59   3   9  11  23  11   2
+YT9X          59   1   2   4  39  12   1
+VO1AU         59      25   5  12   6  11
+J42T          59      14   4  21   4  16
+LU1HF         59                      59
+NQ4I          58   6   5  10  23   5   9
+G5X           58              24  21  13
+9M2/G4ZFE     58              14  16  28
+HB9H          57   7   6  12  12   7  13
+VC3L          57   6  13  14  10   6   8
+K9NS          57   1   4   5  28  10   9
+HI3NR         57   1       4  14  14  24
+CV5D          56       1   1  19   5  30
+LT0H          56           2  22   9  23
+VE3YAA        55   6  21  10   7   8   3
+TM7F          55   3   4   4  15  15  14
+HG1S          55       5  21  14   7   8
+KL7CQ         55          14  17  23   1
+ZP0R          55           2  16  16  21
+HK3JJH        55              17  19  19
+JD1AMA        55              13  32  10
+ES6Q          54   1  12  10  13  13   5
+VE6FI         54   1   4  14  16   9  10
+DF0RI         54       8  14  13   9  10
+VK4CZ         54       1   1  30   5  17
+KG6DX         54                      54
+SN1D          53   6   6   1   7  11  22
+F6KHM         53   6   3   5  10  16  13
+DJ4PT         53   2   7  10  15  14   5
+K3LR          53       3  13  14  18   5
+ZL6QH         53       1   5  23   7  17
+TF3W          53       1   3  21  14  14
+XE1CQ         52           3   6   9  34
+P43E          52              52        
+TM2T          51   2  13   3  14   9  10
+IU2R          51       3  15  17   9   7
+OE4A          51       2   4  15  12  18
+H6C           51           1   8      42
+VU2WAP        50       3   5  15   2  25
+KH6GMP        50              18   8  24
+VP5T          50                  14  36
+EA9IE         49  12           1  16  20
+PA1T          49   2  16   2  13   7   9
+VE6SV         49   1  16   3   7   9  13
+LX7I          49      49                
+T30T          49           8  22   8  11
+PT2CM         49           2  24  11  12
+ZA/OH2BH      49               2   1  46
+ZP5MAL        49                  49    
+K3FMQ/VE2     48   6   8   2   8  19   5
+IT9ECQ        48       6  15   3  14  10
+VE3RM         48       5   7  21  14   1
+ON4UN         48       3  10   5  15  15
+YB0ZZ         48           6  11  12  19
+CE3BFZ        48           2  17   8  21
+DL2ARD        48              48        
+VK6LW         48              48        
+EA5EA         47       3  18   9   9   8
+V31LZ         47       1          46    
+SN7Q          47          47            
+VP5KE         47          47            
+LQ5H          47              17   2  28
+ZS5GMW        47              12  10  25
+ZV1R          47                      47
+OH0NL         46  46                    
+GM7V          46   3   6   7  12  11   7
+VA4MWA        46   2   6  10  14  11   3
+SO6X          46          46            
+SO2R          46              46        
+PA7MM         45   2  11       9  17   6
+V31MD         45       7   7  11   6  14
+EA1COZ        45          20   9   2  14
+4L6AM         45              45        
+TF4CW         45              45        
+9G5OO         45              14  10  21
+DL0CS         44   2   8   3  12  10   9
+SP3GEM        44      44                
+JI2ZJS        44       6   9   3  17   9
+ZL3TE         44       1   6  14   6  17
+ZL1V          44           4  19   8  13
+AY8A          44           1   9   9  25
+BD5RT         44              44        
+5U7B          44              13  15  16
+HC1JQ         44                  44    
+VE7GL         43   3   9   8   8   9   6
+V6A           43   1       7       8  27
+G1A           43       4   7  10  16   6
+YT0A          43          43            
+F6CTT         43          43            
+DF3CB         43          13  19  11    
+4A1UN         43              43        
+YI9OM         43               8  10  25
+CO8LY         43               1  42    
+LU6ETB        43                      43
+RT9W          42   1   8  16   9   4   4
+OL5Q          42   1   1   8  11   8  13
+S50A          42       3  12   5  15   7
+C40M          42              42        
+ZS1SR         42              11   2  29
+ZV5A          42                      42
+LU5EML        42                      42
+PY2NY         41       1      40        
+MI0LLL        41          41            
+OH8NC         41           1  40        
+LU1FC         41           1  12   8  20
+HS72B         41              17  19   5
+LU1XZ         41               8  13  20
+VE2DX         40      15   7  12   5   1
+F6KQV         40       4   6  10  14   6
+JJ1ZNF        40          12   9  19    
+VK9NS         40           5   9  17   9
+PT5A          40              40        
+T97M          40              40        
+NP3P          40                      40
+OE5T          39   6  12   7   3   7   4
+M4A           39   1  15   7   6   5   5
+VE3EJ         39      10   5   5  12   7
+KH2RU/KP4     39       1              38
+6L0NJ         39           1  13  13  12
+YZ3A          39              39        
+CP6XE         39              17   5  17
+CT7B          39               8   9  22
+ZS9Z          39               6   5  28
+VP5DX         39                  39    
+OZ5E          38   2   3   1  14   9   9
+RK4FF         38   1   6   5  11   8   7
+IO4T          38       8   2  15   7   6
+VK3TZ         38       1   4   8   8  17
+OL7R          38           7  11  14   6
+OH0V          38                  38    
+HP3XBS        38                      38
+DL2FDL        37   3   2   1   5  10  16
+VO1MP         37   1   7   2  10   8   9
+OH7M          37   1   5   1  16  13   1
+ES5TV         37   1   1   7  12   8   8
+TM7Z          37       2      18  11   6
+YP3A          37              37        
+JA7NVF        37               6  28   3
+ZX3S          37               5  16  16
+XE1L          37                      37
+OY9JD         36  36                    
+UA9AYA        36   1   2  15   9   7   2
+SQ6Z          36   1   2  12   3  11   7
+EA1AKS        36      14   1   6   5  10
+VK6DXI        36      10           1  25
+XE2K          36              36        
+WP4EDD        36                  36    
+L44DX         36                      36
+ZS6BRZ        36                      36
+OH1F          35   4   2  10   9   5   5
+LY4A          35   3  10   4   5   6   7
+VA3SK         35   2   8  11   5   7   2
+DJ5MW         35   2       8   8   8   9
+EK6TA         35       1   1  15   7  11
+KP4WW         35          35            
+PW7A          35           1  24   5   5
+YZ9A          35              35        
+LT7Y          35              14   4  17
+YC3BDJ        35                  35    
+OH0I          34   4   7       3  16   4
+HG8L          34   3   2      10  10   9
+G3B           34   1   5   1   7  13   7
+NK7U          34   1   3   5  15   6   4
+DL0TS         34       1  10  12   7   4
+PZ5RA         34       1      16   2  15
+M7Z           34          14  20        
+YV5TX         34              34        
+YV5KG         34              34        
+YT5A          34              34        
+RD3A          34              34        
+9A5Y          34                  34    
+OK1RI         34                  34    
+KB1H          33   1   2      12  11   7
+NB1B          33       9   6   6   5   7
+S57DX         33       3   5  16   5   4
+JR1AIB        33       1   6   6  16   4
+EA6UN         33           6  12   5  10
+HQ2DMR        33           2       3  28
+LU9MBY        33                      33
+RG9A          32   2   1   7  12   7   3
+VE6WZ         32      32                
+YV5OHW        32       3   9   8  12    
+YA7X          32           1       1  30
+S53M          32              32        
+VE2GSO        32              19  10   3
+LU9FDG        32                      32
+VO1TA         31   2   3   3   8   3  12
+VE3XD         31   1   5  15   7   2   1
+N3RS          31       4   5   9  11   2
+VE6AO         31       3   2  11   6   9
+EI9E          31       1   1  14   6   9
+JS3CTQ        31           4   5  11  11
+LY7Z          31              31        
+LT1D          31               9   3  19
+FM5FJ         31                  31    
+CU2AF         31                      31
+8S2F          30   1       2  14   9   4
+YV5LMW        30      30                
+CX5BW         30          30            
+AH6JR         30          30            
+JH1AEP        30          30            
+DH4SBO        30           8   6  14   2
+3Z2GD         30              30        
+VE5MX         30              30        
+UK9AA         30              30        
+EM1HO         30              12   8  10
+ZP6DER        30               7   2  21
+4K7Z          29   2   1      10  10   6
+OK2RZ         29      29                
+K4JA          29       5   5   3   9   7
+ZF2NT         29          12   5   2  10
+JA3USA        29           6   3   9  11
+EA3NW         29           2   9  11   7
+IT9ESW        29           2   7   5  15
+OR4N          29              29        
+CP6UA         29               7   4  18
+S58A          28   1   1   9   6   3   8
+OZ5ESB        28       5   1  15   4   3
+P43P          28          28            
+PY7ZY         28          28            
+RZ9OZO        28           3  10   9   6
+SZ5Z          28                  28    
+SN8V          28                  28    
+9A1P          28                  28    
+YT7A          27          27            
+IT9STX        27              27        
+JA8RWU        27              27        
+R1ANF         27              21   6    
+CX9AU         27               8   6  13
+XQ4EM         27                      27
+YM0T          26  26                    
+S57M          26  26                    
+VE3NE         26   3   7   5   8   2   1
+K7RL          26   1   1   6  10   5   3
+F6DZU         26       5   2   6   5   8
+GM2T          26       1   6   6   5   8
+DK0SU         26       1   2   7  10   6
+EA7RM         26       1   1   7   5  12
+KP4KE/QRP     26          26            
+UX2IO         26          26            
+VE7AV         26              26        
+LV1E          26              11   3  12
+3B8MM         26               7   7  12
+OH2BH         26                  26    
+CX7ACH        26                      26
+LU3HIP        26                      26
+F5VJK         25   3   3   4   2   5   8
+SN7L          25   2   4   1   3   5  10
+RF3A          25   2   2   1   9   7   4
+DC2YY         25   1   2   3   7   4   8
+WH0V          25       9       2   4  10
+KT1V          25       7   1   9   4   4
+SY9Y          25       1   6   9   4   5
+JA7YAA        25       1   6   5   7   6
+DX1DBT        25           5   3   9   8
+EA4KR         25              25        
+EW8MW         25              25        
+YZ1U          25              24   1    
+VQ9OG         25               9   4  12
+J37K          25               7  13   5
+EA7RU         25               5   9  11
+JA2ZJW        25               3  12  10
+TG9ASO        25               2  23    
+OH0R          25                  25    
+JA7OWD        25                      25
+ER3R          24   5   1   2   5   8   3
+G4PWA         24   2           9  13    
+K1KI          24       2   7   3   7   5
+LU1VM         24       2   5   4   6   7
+DF0DX         24       1  13   5   3   2
+HK1JMF        24          23           1
+PR7AB         24           2  18   4    
+IR8P          24              24        
+BN0F          24               5  11   8
+OD5NJ         24               4   8  12
+JT1CO         24                  24    
+JI2UNR        24                  24    
+T96Q          24                      24
+LU9DAG        24                      24
+IV3OWC        23  23                    
+OZ7X          23   4   4   3   5   7    
+VE7SCC        23   1   3   5       8   6
+RK4FD         23   1       6  10   2   4
+YU7AV         23      23                
+S57O          23      23                
+W4RM          23       8   5   5   2   3
+F5RZJ         23       3   3   8   5   4
+TI1Z          23       3   2   1   5  12
+5B/KI0BP      23          18           5
+5Z4YT1CS      23               5   3  15
+SN6C          22  22                    
+DJ2YA         22   2           9   1  10
+F6KBF         22       8   4   6   1   3
+K1IR          22       6   5   5   3   3
+M2W           22       4       2   6  10
+YR9P          22       3       5   6   8
+DL0GL         22       2       4   8   8
+UW2M          22       1   2   7   2  10
+TM2S          22       1   2   5   1  13
+B5RV          22          22            
+IK3UNA        22           4   5   7   6
+OH5Z          22              22        
+W7WA          22              22        
+SP9QMP        22              22        
+CT/DL5IC      22               7  10   5
+P29NB         22               2   7  13
+Z37M          22                  22    
+OK1DX         21  21                    
+OZ1DD         21  21                    
+GW3JXN        21   2   3       4   7   5
+4N200A        21      21                
+K5ZD          21       3   4   7   5   2
+OT4P          21       1   3   8   5   4
+W2RE          21       1   3   4   5   8
+WE3C          21       1   2   9   4   5
+LX1KC         21          21            
+T88QQ         21           4  10   5   2
+N2BJ          21               5   6  10
+EA1WS         21               5   5  11
+XE1MM         21               2  10   9
+ZX2B          21               1  20    
+N7DD          21                  21    
+YI9KT         21                   5  16
+VK6KK         21                   1  20
+PY4ZN         21                      21
+XE2AUB        21                      21
+PY2SBY        21                      21
+LZ1NG         21                      21
+NP4A          20  20                    
+RX3RXX        20   3   3   2   4   8    
+SN5Z          20   3   2   2   3   4   6
+AA1BU         20      20                
+PA0AGA        20       5   2   5   3   5
+DU9RG         20       3   1   6   7   3
+4N0W          20       3   1   4   2  10
+D70YT         20       2  10   3   5    
+AA1K          20       1   3   6   4   6
+EA3RKG        20           4   6   7   3
+KH6FI         20           1   3      16
+RT4I          20              20        
+VE6EX         20              20        
+VE2CVI        20               7  11   2
+LU4AA         20               4      16
+YT1BB         20                  20    
+EA9AM         20                  10  10
+FJ5IF         20                      20
+XE2/K7ZS      20                      20
+XE2TG         19   4   3   5           7
+K7ZSD         19   2   1   2   4   3   7
+IZ6ERS        19   1   3   3   2  10    
+UA9CLB        19   1   1   5   9   3    
+OK7K          19   1   1   1   6  10    
+F8KGM         19   1       7       8   3
+DK5QN         19       3       7   3   6
+UT7QF         19       1          18    
+6K2AVL        19          12   1   5   1
+EA9/OL8R      19           5       2  12
+ED3SSB        19           4   4   7   4
+EA8BVX        19              19        
+SP4R          19              19        
+SV1AAU        19              19        
+LU8XW         19              16   3    
+TC2K4J        19               9   2   8
+VY1MB         19               7   7   5
+LU2EE         19               4   6   9
+IR5T          19                  19    
+EK6CC         19                  19    
+8S7A          19                  19    
+UT2IY         19                  19    
+LU6HPF        19                      19
+CT1EEN        19                      19
+SM6DOI        18  18                    
+EU6EU         18  18                    
+VY2LI         18   1   4       5   6   2
+PA1AT         18      18                
+EO6F          18      18                
+BY6HY         18       2   1       7   8
+F2YT          18       2       4  12    
+K3WW          18       1   1   5   4   7
+UW8M          18       1       3   6   8
+RW0CF         18       1          17    
+SA5W          18          18            
+CQ2T          18           1   1  10   6
+CO6LPB        18              18        
+C56ACA        18              14       4
+CE1RQB        18               4   6   8
+IT9JOF        18               2   6  10
+HP1BYS        18               1      17
+YT7Z          18                  18    
+LR7F          18                  18    
+IO3C          17  17                    
+DL7JAN        17   1       1   6   7   2
+JD1BIA        17       6   1          10
+S53EA         17       3       5   7   2
+YL6W          17       3       4   7   3
+RW9HA         17       1   2  11   3    
+W9RE          17       1   2   4   6   4
+II4A          17       1   1   7       8
+K5NA          17       1       4   3   9
+RV6YZ/6       17          17            
+EA5BY         17           7   4   5   1
+SV1SL         17           6   4   2   5
+OK2FD         17           1  11       5
+KQ2M          17           1   6   7   3
+LA9VDA        17           1   2  10   4
+YC9WZJ        17           1       5  11
+RK1AM         17              17        
+FO5RJ         17              16   1    
+IT9EYA        17               7   8   2
+IZ8CKT        17               6   8   3
+JA1PCY        17                  17    
+XE1CT         17                  17    
+T95LSD        17                  17    
+PP5MQ         17                      17
+CX4DX         17                      17
+YY5RED        17                      17
+OH2RA         16   4   2   1   5   2   2
+PA0IJM        16   3   2   2   3   2   4
+VK3IO         16   2   4  10            
+JT1JA         16      16                
+F6IFR         16       1   1   6   8    
+RZ9SWR        16       1   1   5   4   5
+YL2KO         16       1   1   5   4   5
+5B4PRC        16       1       5   4   6
+G0AEV         16       1              15
+K3ZO          16           1   5   6   4
+IR9M          16              16        
+RA6CM         16              16        
+9M8YY         16              16        
+EA8KK         16              16        
+IR3J          16               9   6   1
+PA5A          16               8   1   7
+LU1YY         16               6   1   9
+EA1BP         16               3   6   7
+LU1HLH        16               3   3  10
+EA7RCT        16               1   3  12
+ZA/OH2PM      16                  16    
+RA9JR         16                  16    
+HR1CP         16                   8   8
+LR4E          16                      16
+XQ4ZW         16                      16
+CX1AV         16                      16
+PY1KX         16                      16
+SV1JG         16                      16
+PA3GCV        15  15                    
+DJ1AA         15   2   3       4       6
+RK9CWB        15   1   6   2   4   2    
+GI0KVQ        15   1   3   3   6   2    
+GW4WXM/P      15   1   2       3   7   2
+ON7GB         15   1   1       5   5   3
+HB9AUS        15   1       1   2   5   6
+VA5DX         15   1              14    
+UT3UA         15      15                
+DL2DBH        15       4       4   7    
+K4ZW          15       3   2   3   3   4
+RO4M          15       2   3   3   2   5
+PI4ZI         15       2   1   4   8    
+LY9Y          15       2       6   2   5
+JO1ZYI        15       2           7   6
+OM5M          15       1   6   2   6    
+W3BGN         15       1   3   6   2   3
+K0TV          15       1   1   4   8   1
+YZ5A          15          15            
+SO9O          15          15            
+S51OI         15          15            
+9A4D          15          15            
+DL1IAO        15           4   6   5    
+DL0KC         15           2  10   3    
+GM3POI        15           2   5   7   1
+ED2BI         15           1   4   3   7
+6Y5IC         15           1   2   4   8
+XE1NVA        15              15        
+Z31GX         15              15        
+OH4A          15              15        
+HG4F          15              15        
+JT1C          15              15        
+PT2ZEG        15               4   5   6
+UN8GV         15               4   3   8
+M0WLF         15               4   1  10
+EA1BLI        15               3   1  11
+M0GTO/P       15                  15    
+IZ8DPL        15                  15    
+JA3BOA        15                  15    
+HG3M          15                  15    
+HC2GT         15                   4  11
+5Z4/YT1CS     15                   4  11
+ED2WW         15                   4  11
+P29KPH        15                   2  13
+UK/JI2MED     15                      15
+CT2GQN        15                      15
+LW7DUC        15                      15
+SA4F          14   1   2   3   4   1   3
+VK2APG        14       2   5   1   2   4
+UA9CDC        14       2   2   5   4   1
+DK3KD         14       2       3   3   6
+UA9JDP        14       1   1   5   7    
+W0AIH         14       1       3   6   4
+M4U           14       1       3   2   8
+K4XS          14          14            
+ZW5B          14          14            
+9A7D          14              14        
+IT9RBW        14              14        
+RA3CO         14              14        
+ZX7U          14              10       4
+AY2O          14               7   6   1
+CN8SG         14               5       9
+S54K          14               3   6   5
+JT3CH         14               2   5   7
+ED1LY         14               2   4   8
+4X6FR         14               1   5   8
+AP2IA         14               1   4   9
+BO0K          14                  11   3
+JA2BNN        14                  10   4
+YY5JRU        14                   8   6
+F5NBX         14                   8   6
+IR2A          14                   5   9
+DU1BP         14                   2  12
+LZ9X          14                      14
+EX2T          14                      14
+VE7NS         14                      14
+JG2SON        14                      14
+EA7FTR        14                      14
+YV4YC         14                      14
+EA5JK         13  13                    
+VE3MGY        13  13                    
+SK6D          13   6           2   3   2
+VE3XN         13   4   3       2   3   1
+VE3KZ         13   3   2       1   6   1
+RN0JJ         13   2   4           1   6
+ES1A          13   2       4   3   2   2
+DL0DX         13   2           6   3   2
+V49A          13      13                
+SI9AM         13       1   2   5   4   1
+OK1QM         13       1   1   3   3   5
+W3PP          13       1   1   1   9   1
+4M5T          13       1       6   6    
+CO2JD         13          13            
+Z32XA         13          13            
+JH7XMO        13          13            
+DJ8UV         13           1   4   3   5
+XE1XOE        13           1   2   4   6
+RA0AA         13           1   1   6   5
+T94DO         13              13        
+VE7XR         13              13        
+SP3SLO        13              13        
+T92D          13              13        
+9A2VR         13              13        
+SM0W          13              13        
+PY2DJ         13              13        
+VY1JA         13               6   4   3
+RK4LWZ        13               6   2   5
+G6M           13               4   2   7
+TR8CA         13               3   2   8
+PY2BRZ        13               3   1   9
+ED1EA         13               2   2   9
+IY4W          13               1   7   5
+CT1BOL        13               1   3   9
+EA4KD         13                  13    
+C4M           13                  13    
+HL2FDW        13                  13    
+CE4B          13                  13    
+EA8ANE        13                  13    
+PY2TO         13                   6   7
+LW1HDJ        13                      13
+F8ASY         13                      13
+F4BHW         13                      13
+EW3EW         12      12                
+IK5ZTW        12      12                
+VE3JAQ        12       2   3   3   2   2
+VA7TT         12       2           4   6
+A52CDX        12       1   1   4   6    
+EA3QA         12       1           2   9
+HA8IB         12          12            
+W2AX          12           5   2   3   2
+KH6/W0CN      12           3       1   8
+9A2L          12           1   5   2   4
+JA1YFG        12           1   4   7    
+G7LRR         12              12        
+EA1MR         12              12        
+YU7ZZ         12              12        
+S58WW         12              12        
+VE7IG         12              12        
+DF6QV         12               9   3    
+PY2TEL        12               9   2   1
+HS0ZEE        12               6       6
+KP4JRS        12               5       7
+VO1ZM         12               4       8
+YW5NN         12               3   3   6
+HL0O          12               2  10    
+SX5R          12               2      10
+PY5JO         12               1      11
+IK2YCW        12                  12    
+JR1MQT        12                  12    
+4L1DA         12                  12    
+9A5D          12                  12    
+CX7BY         12                  12    
+LY6A          12                  12    
+V29NR         12                  12    
+TE1W          12                      12
+JF3BFS        12                      12
+L20E          12                      12
+RU6CQ         12                      12
+W5PR          12                      12
+IZ5EBL        12                      12
+VE3PN         11  11                    
+VE1ZJ         11   4   2   1   1       3
+RA3AJ         11   3   5               3
+RN9SXX        11   2   2       2   4   1
+RA3ATX        11   1   3   2   2   3    
+UT0AZA        11   1   2       1   5   2
+SA5C          11   1   1       6   2   1
+SP4ZO         11      11                
+OK5H          11      11                
+OE6VHF        11       2   1   3   2   3
+SM5Q          11       1       6   1   3
+W7GG          11       1       5   3   2
+PY2GA         11       1       5   3   2
+I2VRN         11          11            
+OL5T          11           2   4   3   2
+KI1G          11           2   2   2   5
+VE6WP         11           2   1   2   6
+K3OO          11           1   3   4   3
+OH6NIO        11           1   2   8    
+TG7M          11              11        
+EA6AZ         11              11        
+EA3AKY        11              11        
+YO3CTK/P      11              11        
+YB2DX         11              11        
+YL2SM         11              11        
+HS0/IK4MRH    11               8       3
+N3AD          11               5   6    
+F6HMQ         11               3   8    
+UN7PCZ        11               2   1   8
+S52OT         11               1   1   9
+J43J          11                  11    
+UV8M          11                  11    
+S50O          11                  11    
+PY2NA         11                  11    
+ZP8EDM        11                   9   2
+K3II          11                   8   3
+LR1F          11                   3   8
+F2JD          11                   3   8
+JM1NKT        11                      11
+JH1AGU        11                      11
+LU6MA         11                      11
+YI9QWO        11                      11
+PY5CGF        11                      11
+PA7A          10   2       8            
+LY2OX         10   1   1       5   2   1
+SM2EKM        10   1       2   3   3   1
+OE8SKQ        10   1               9    
+ON6DP         10   1               4   5
+OE6MBG        10       8   2            
+UV1G          10       4   1   4       1
+UP6P          10       3           4   3
+F6KZC         10       2       3   2   3
+N0NI          10       2       1   4   3
+K3CR          10       1   2   2   1   4
+RK3DZB        10       1       8   1    
+B1Z           10       1           8   1
+IO3Z          10          10            
+T94FC         10          10            
+KP4KE         10          10            
+RX4HZ         10           3   3       4
+OA4A          10           1   2   2   5
+KU1CW         10           1   1   4   4
+NO2R          10           1   1   1   7
+II3M          10              10        
+F6KJX         10              10        
+IK3UMT        10              10        
+OE7AJT        10              10        
+YV4DDK        10              10        
+OH4MDY        10              10        
+UZ5U          10              10        
+PR7FMT        10              10        
+AL9A          10               6   4    
+F8ATS         10               5   3   2
+DL1YD         10               3   5   2
+N1MM          10               3   2   5
+EA1CW         10               3   1   6
+CE4MLN        10               3       7
+ZC4LI         10                  10    
+JA9IPF        10                  10    
+EA8LS         10                  10    
+F8CFU         10                  10    
+YY5YMA        10                  10    
+ZS4U          10                  10    
+S57MTA        10                   3   7
+4L2M          10                      10
+US5D          10                      10
+EA6LP         10                      10
+JO7KMB        10                      10
+JH0EQN        10                      10
+4N1N          10                      10
+LU8EOT        10                      10
+N4BP          10                      10
+HB9ACA        10                      10
+Z33F           9   9                    
+DL7CX          9   9                    
+YZ7A           9   1   2       1   4   1
+SP5KEH         9       9                
+EA3ATM         9       9                
+OM6NM          9       9                
+RA6AU          9       5               4
+VE1OP          9       4           1   4
+W4MYA          9       2   2   2   2   1
+N1RY           9       2       1   5   1
+9A7P           9       2       1   3   3
+N2IC           9       1   3   2   3    
+YR2I           9           9            
+YV4BU          9           9            
+VE5AAD         9           2       3   4
+K8AZ           9           1   6   2    
+XE2AC          9           1   2   4   2
+BA5TT          9               9        
+JI1FDF         9               9        
+KX7M           9               9        
+PR7QI          9               9        
+RA6DB          9               9        
+VY1CQ          9               8   1    
+G4UJS          9               7   2    
+PY7EG          9               6   3    
+RN0CT          9               6   2   1
+PV2M           9               5   4    
+N2MM           9               4   2   3
+HS1PDY         9               4   1   4
+S58AL          9               4       5
+EA8URV         9               3   3   3
+F8KCF          9               3   2   4
+EA1OT          9               3       6
+RW0BG          9               2   5   2
+JA1KQX         9               1   3   5
+PY2KM          9               1   1   7
+LT5Y           9               1   1   7
+PP1CZ          9               1       8
+UA4LCQ/9       9               1       8
+WH0E           9                   9    
+JA3NTE         9                   9    
+JR3NZC         9                   9    
+LY1FW          9                   9    
+S55W           9                   9    
+NH7FY          9                   9    
+F6KCP          9                   9    
+K4EA           9                   9    
+EI4DW          9                   4   5
+VR2XMT         9                   3   6
+EA3DUM         9                   2   7
+ZP5CGL         9                   1   8
+JH1AZO         9                   1   8
+S50K           9                       9
+5B4AHJ         9                       9
+VE8JL          9                       9
+A61AV          9                       9
+XE1ZGG         9                       9
+YI9GT          9                       9
+PY2BT          9                       9
+A45WG          9                       9
+EA7HBP         9                       9
+W4ZV           9                       9
+F8DPN          9                       9
+F5IN           8   6                   2
+K7RI           8   1           1   5   1
+LZ1JY          8       8                
+OM4A           8       8                
+S53S           8       8                
+W6RJ           8       8                
+OL1P           8       6       2        
+VE3ODX         8       3   4   1        
+XE2MX          8       3       1   4    
+XE1AQX         8       2       2   2   2
+W4WS           8       1   1   4   1   1
+W7AT           8       1       6   1    
+ED3TCM         8           8            
+EU1AZ          8           8            
+JJ2LPV         8           2           6
+RK9JWV         8           1   4   1   2
+RX3DCN         8           1       7    
+JA7ODY         8           1       7    
+KV0Q           8           1       4   3
+7S7V           8               8        
+YZ1V           8               8        
+YV5ANF         8               8        
+K2VV           8               8        
+PY2XB          8               8        
+UA4HOX         8               7   1    
+RA3AA          8               6       2
+EA3ELZ         8               5       3
+TI3MAO         8               5       3
+KQ3F           8               4   2   2
+ON6ZK          8               3   5    
+VE5UA/6        8               2       6
+IZ4AFW         8               1   4   3
+Z33A           8                   8    
+UA0WL          8                   8    
+JI3VUB         8                   8    
+JA2KSI         8                   8    
+IH9GPI         8                   8    
+EC8ADU         8                   8    
+OL8M           8                   8    
+N3HBX          8                   8    
+JE1OHL         8                   6   2
+LZ2KV          8                   3   5
+LT1A           8                   3   5
+JF7PHE         8                   2   6
+4Z5LA          8                   1   7
+LU3MAM         8                       8
+KC2FVN/V44     8                       8
+ZS5SAM         8                       8
+YO3JW          8                       8
+4Z4DX          8                       8
+YO2LZP         8                       8
+DS2PQP         8                       8
+JJ1RDX         8                       8
+LU6FOV         8                       8
+T99W           8                       8
+9A5KV          8                       8
+OE3I           8                       8
+9M6US          8                       8
+G3BJ           7   7                    
+VA3OC          7   3   3               1
+US0Q           7   3       3   1        
+5B4/AJ2O       7   1               3   3
+S52W           7       7                
+ER0ND          7       7                
+9A4W           7       7                
+RK0LWW         7       4               3
+OR5EU          7       2       4   1    
+N9RV           7       1   3   2   1    
+PG3N           7       1   2           4
+PA4A           7       1       4   1   1
+LY9A           7       1       3   3    
+M8C            7       1       1   3   2
+K6IDX          7       1       1   3   2
+K2DM           7       1       1   2   3
+MM1DHU         7       1       1   2   3
+DA0DIG         7       1           1   5
+SP9ERV         7       1               6
+EA1/EA9CP      7           7            
+HR1RBM         7           6   1        
+ON4AEK         7           5   2        
+DS5KJR         7           3   1   2   1
+F5MSE          7           2   2   3    
+IS0HQJ         7           2   2       3
+EA7HY          7           2   2       3
+IR3A           7           1   2   4    
+VE7XF          7           1   2   4    
+HA9RT          7           1   2       4
+31-Oct-2004    7           1           6
+JH0HQP         7           1           6
+ZL4PW          7               7        
+EX2X           7               7        
+RV9FQ          7               7        
+JE1LFX         7               7        
+LZ5W           7               7        
+FK/IV3FSG      7               7        
+IT9RJE         7               7        
+HS8AC          7               6       1
+UA3AB          7               5       2
+RU0AW          7               3   3   1
+F6IPQ          7               3   1   3
+MI6X           7               3       4
+NN2W           7               2   5    
+LU7DR          7               2   4   1
+N2RM           7               2   3   2
+EA1HV          7               2   3   2
+ON7RN          7               2   2   3
+DK1MAX         7               2       5
+KH0/JA1TVE     7               1   6    
+VE2/K3FMQ      7               1   5   1
+SP9LJD         7               1   5   1
+HA9RU          7               1   1   5
+DL2DX          7               1       6
+IZ7EDQ         7                   7    
+JR3RIY         7                   7    
+4F1MEU         7                   7    
+SL0W           7                   7    
+LZ2JA          7                   7    
+JI2KXK         7                   5   2
+JH6QFJ         7                   5   2
+ON6WA          7                   2   5
+N6RFM          7                   1   6
+JE1MMX         7                   1   6
+7K3OWM         7                       7
+K4WI           7                       7
+CE6DFY         7                       7
+9L/M0FDH       7                       7
+GW8CMU         7                       7
+VK4NEF         7                       7
+DJ1ZU          7                       7
+EA1YB          7                       7
+4X6DK          7                       7
+RU0SU          7                       7
+CE6TBN         7                       7
+JH1OCC         7                       7
+SP3LWP         7                       7
+ON5CD          7                       7
+4X4DZ          7                       7
+OZ1HXQ         6   6                    
+7X0AD          6   6                    
+YV2IF          6   6                    
+7X2RO          6   5           1        
+XE1VIC         6   4   2                
+RV1CC          6   2   4                
+OL6P           6   2               4    
+SO5O           6   1   1       4        
+VK3DZM         6       6                
+LX1UN          6       6                
+ON6AA          6       6                
+S53XX          6       6                
+PY2WC          6       6                
+HB9CIP         6       4   2            
+N7UA           6       4       2        
+ED5TEA         6       3   3            
+OR4P           6       2   1       3    
+9V1GO          6       2               4
+UA3TCJ         6       1   5            
+ED4MAJ         6       1   5            
+YL1S           6       1       2   3    
+VA2TG          6       1           3   2
+EA8KV          6       1           3   2
+IK4QJF         6       1           2   3
+DL8OH          6       1           1   4
+ON6UU          6       1               5
+VY0AA          6       1               5
+EA9CP/1        6           6            
+IQ3ME/P        6           6            
+IZ4COW         6           6            
+ON4JZ          6           4   1   1    
+RK0AZC         6           4   1       1
+EY8AW          6           4       2    
+VE2AYU         6           2   3       1
+RV4HC          6           2   2   1   1
+JA1TMG         6           2   1   3    
+DF4RD          6           1   4   1    
+VE5SF          6           1   2   1   2
+YU7KW          6           1           5
+PS8NF          6               6        
+LU3CQ          6               6        
+UN7JX          6               6        
+HI8ROX         6               6        
+DK3FW          6               6        
+PY2ZR          6               6        
+EW6AF          6               6        
+JA1YPA         6               6        
+SP3SLA         6               6        
+LU7DP          6               5       1
+N1UR           6               3   3    
+IQ2LS          6               3   1   2
+W3FV           6               3   1   2
+CE3NR          6               3       3
+IZ6BXV         6               2   3   1
+W0YR/4         6               2   1   3
+PY3PA          6               1   5    
+W6YX           6               1   4   1
+LZ2DF          6               1   2   3
+NE3F           6               1       5
+IR8M           6                   6    
+YY5PER         6                   6    
+BY4BZB         6                   6    
+WL7EF          6                   6    
+ED7VG          6                   6    
+JA1VND         6                   6    
+OK1AXB         6                   6    
+NG2X           6                   6    
+JR9NVB         6                   6    
+JA2UNR         6                   6    
+EA8TX          6                   4   2
+EY8/F5NHJ      6                   4   2
+IK2EGL         6                   3   3
+BX4AN          6                   3   3
+LW2DFH         6                   2   4
+IS0IGV         6                   2   4
+DL0OV          6                   2   4
+JF9JTS         6                   2   4
+WK6I           6                   2   4
+EK6GB          6                   1   5
+LU1BJW         6                   1   5
+HG8Z           6                       6
+PU2VYT         6                       6
+TA3ET          6                       6
+PP5UA          6                       6
+EA7GV          6                       6
+PY3YD          6                       6
+V51AS          6                       6
+EA5AJX         6                       6
+CT3HF          6                       6
+5R8FU          6                       6
+EA5YJ          6                       6
+JQ2IQW         6                       6
+TA1FA          6                       6
+PQ2Q           6                       6
+OK1AVY         6                       6
+W7IZL          5   5                    
+S54W           5   5                    
+LY7M           5   5                    
+UT3SA          5   5                    
+HA6NL          5   5                    
+OH3XR          5   3               2    
+VE3WG          5   1   1       1   1   1
+DL7IO          5   1       1       2   1
+DJ0IF          5   1           3   1    
+LY3UM          5   1                   4
+IO1T           5       5                
+EU1PA          5       5                
+VK3PA          5       5                
+K7SSS          5       5                
+HL3AMO         5       5                
+DL4NAC         5       5                
+RW6AN          5       5                
+OH6XX          5       5                
+JF1IST         5       3   2            
+RL4W           5       2   2           1
+N8VW           5       2       1   2    
+EW4MM          5       2           3    
+RW3WWW         5       1   2   2        
+RK9CZO         5       1   1   2   1    
+YO3RU          5       1   1   1   2    
+Z36W           5       1   1           3
+DL2OBO         5       1       4        
+EA6AFE         5       1           3   1
+G0MTN          5       1           2   2
+CO6E           5           5            
+YW1A           5           5            
+PP7ZZ          5           5            
+ES7GM          5           5            
+UA0SR          5           3       1   1
+V31MV          5           2   3        
+K5PTC          5           2   2   1    
+W1US           5           1   3   1    
+K1AK           5           1   1   2   1
+DS2CYI         5           1       2   2
+HA8A           5           1           4
+I8NHJ          5               5        
+SQ2R           5               5        
+JG2KKG         5               5        
+VO2NS          5               5        
+EA1CUB         5               5        
+LU2BA          5               5        
+US7IGF         5               5        
+EX8AA          5               5        
+UN7QF          5               5        
+ZP3CTW         5               4   1    
+SP6NIC         5               4   1    
+UA9CMQ         5               4       1
+W7VJ           5               3   2    
+PA7FM          5               3   2    
+RU0AB          5               3       2
+K4PV           5               3       2
+UA9AFA         5               2   3    
+PJ4/W9NJY      5               2       3
+RZ4FA          5               2       3
+DL0RSG         5               1   4    
+EA6TC          5               1   1   3
+I2SVA          5               1   1   3
+LX1JH          5               1       4
+ZS6JM          5               1       4
+IZ2FDU         5                   5    
+G3PJV          5                   5    
+VA6RC          5                   5    
+SP9ODY         5                   5    
+RZ3EC          5                   5    
+JA0LBE         5                   5    
+RK9CWW         5                   5    
+VK4UC          5                   5    
+HM8A           5                   5    
+OK1DXB         5                   5    
+JQ1NGT         5                   5    
+AF6DX          5                   4   1
+DJ6AJ          5                   4   1
+W8ZA           5                   4   1
+W8MJ           5                   3   2
+BY6DX          5                   2   3
+AA4V           5                   2   3
+9V1UV          5                   2   3
+VE9DX          5                   2   3
+DK0ALK         5                   1   4
+HL0ERE         5                   1   4
+JH7BZR         5                   1   4
+JN2QCV         5                   1   4
+JA7MGP         5                   1   4
+LU9GDN         5                       5
+YL0A           5                       5
+NN1N           5                       5
+CN8NS          5                       5
+VU2XO          5                       5
+CT2GWZ         5                       5
+NA5S           5                       5
+LR1A           5                       5
+JF2IWW         5                       5
+9J2SZ          5                       5
+LU5ENM         5                       5
+UA3ABJ         5                       5
+EA4DAT         5                       5
+DL4CF          5                       5
+EA7IA          5                       5
+YA0Y           5                       5
+HB9AFI         5                       5
+CT3GV          5                       5
+KH2R/KP4       5                       5
+GM7TUD         5                       5
+ZL1CDX         5                       5
+HK6DNK         5                       5
+IV3JVJ         5                       5
+PY2RDS         5                       5
+VE3CUI         4   4                    
+SP4XQN         4   4                    
+RW4PL          4   4                    
+SQ8JLA         4   4                    
+OL3Z           4   2   1           1    
+HA5JI          4   2       2            
+GMOB           4   1       1   1   1    
+RK4CW          4       4                
+SM7EHU         4       4                
+RA0BA          4       4                
+PY2YP          4       4                
+9A2U           4       4                
+7S2E           4       4                
+PA3EWP         4       4                
+RK6AXS         4       2   2            
+EA7GXP/P       4       2   2            
+5B/AJ20        4       2   1       1    
+IQ5AA/P        4       1   3            
+WB9Z           4       1   1   1   1    
+CQWW           4       1   1           2
+UR6GWZ         4       1       3        
+OE8YDQ         4       1       2       1
+K2NG           4       1       1   2    
+WA7LT          4       1       1   2    
+EA7HBC         4           4            
+II3L           4           4            
+IU3G           4           4            
+PV8DX          4           4            
+CU3AA          4           4            
+EI3IO          4           4            
+XE9C           4           4            
+SA0P           4           2   1   1    
+GM2Z           4           1   3        
+ZL1ANH         4           1   2       1
+EA6TU          4           1   1   2    
+YC3OX          4           1       3    
+D70YT/5        4           1       3    
+K1NQ           4           1       2   1
+PA6T           4           1       1   2
+TA0U           4               4        
+VE7ABR         4               4        
+EA1EJ          4               4        
+PR7AR          4               4        
+EI4CF          4               4        
+ES4RD          4               4        
+KK1L           4               4        
+JH0EPI         4               4        
+IV3YER         4               4        
+LX0RL          4               4        
+UN6LN          4               4        
+TFCW           4               4        
+GU4CHY         4               4        
+RK9LWA         4               4        
+OR4R           4               4        
+CT1AOZ         4               4        
+OK1KDT         4               4        
+I6FLD          4               3   1    
+RZ9OQ          4               3   1    
+G3VCQ          4               3   1    
+IK2UCK         4               3   1    
+HA9SDA         4               3   1    
+9A4KW          4               3   1    
+DF6JC          4               3       1
+UA6UDV         4               3       1
+EA1APV         4               2   2    
+DK8MZ          4               2   2    
+EA5RM          4               2   1   1
+RX9AM          4               2   1   1
+EA3GHZ         4               2       2
+R9/UR8IF       4               1   3    
+RV6LMG/AM      4               1   3    
+9A9R           4               1   2   1
+I4ABF          4               1   2   1
+NJ4M           4               1   2   1
+SM7CQY         4               1   2   1
+WN9O           4               1   1   2
+N8II           4               1       3
+PJ7/K3TC       4               1       3
+WA4TII         4               1       3
+EA3AM          4               1       3
+JM1LRQ         4                   4    
+EA7DHP         4                   4    
+ZV5E           4                   4    
+JQ1BNL         4                   4    
+DM2GFN         4                   4    
+VR2VRA         4                   4    
+YU1ARC         4                   4    
+JA9SCB/1       4                   4    
+K6XX           4                   4    
+ZA1E           4                   4    
+DL3EA          4                   4    
+JR6TYH/JD1     4                   4    
+EI2VNO         4                   4    
+EA7CWA         4                   4    
+JA4KKW         4                   4    
+N0FW           4                   4    
+K4JNY          4                   4    
+VE3KPU         4                   4    
+RV3ACA         4                   4    
+IT9YHR         4                   4    
+UA0CW          4                   4    
+SV1CER         4                   3   1
+T              4                   3   1
+PY7ZZ          4                   2   2
+K3DI           4                   2   2
+4L4MM          4                   1   3
+W2UP           4                   1   3
+DK5DQ          4                   1   3
+JS1OYN         4                   1   3
+OZ1AA          4                   1   3
+IS0VSG         4                   1   3
+EA3AKA         4                   1   3
+W3EA           4                   1   3
+HG8C           4                   1   3
+N4ZZ           4                   1   3
+BG9TD          4                       4
+UA9HN          4                       4
+JA6WJL         4                       4
+I0/N6CY        4                       4
+9A7DM          4                       4
+G3ORY          4                       4
+VU2DSI         4                       4
+JA7QFU         4                       4
+PW8OO          4                       4
+I1POR          4                       4
+HK4SAN         4                       4
+LW9HAB         4                       4
+LW7DQW         4                       4
+LW8DQ          4                       4
+EA7AA          4                       4
+PY2XTA         4                       4
+K0EJ           4                       4
+JA5MXP         4                       4
+XQ5CIE         4                       4
+DL1DVE         4                       4
+7L1JHN         4                       4
+RW3GU          4                       4
+LU5EUL         4                       4
+LW4DYU         4                       4
+JH1UUT         4                       4
+JA1RPK         4                       4
+F5BBD          4                       4
+9Y4Z           4                       4
+K0HA           4                       4
+SU1SK          4                       4
+DC5WW          4                       4
+VK4EJ          4                       4
+F1RHS          4                       4
+YB5QZ          4                       4
+V44/KC2FVN     4                       4
+EA7NK          4                       4
+EY8WW          4                       4
+W1LLU          4                       4
+JN1MKU         4                       4
+3W3A           4                       4
+ZS2DL          4                       4
+JG2TKH         4                       4
+T77C           3   3                    
+ES2DJ          3   3                    
+YV1DIG         3   3                    
+EA1DDO         3   3                    
+OZ1DX          3   3                    
+PA3FQA         3   3                    
+YO2RR          3   3                    
+JA8ISU         3   3                    
+BV4CT          3   3                    
+VE3XAT         3   2   1                
+VE3DC          3   2       1            
+VE3GLO         3   2               1    
+UA3BS          3   2               1    
+LX1EA          3   2                   1
+VA3DX          3   1       1   1        
+LB8CA          3   1           2        
+UK8GK          3   1           1   1    
+KH7R           3   1               2    
+F6HKA          3   1               1   1
+EA7ATX         3       3                
+UA1OMS         3       3                
+LX9UN          3       3                
+VK3CGR         3       3                
+4L0CR          3       3                
+S57NDT         3       3                
+UT8LN          3       3                
+YU7AU          3       3                
+SP6KFA         3       3                
+RA6AK          3       3                
+W6UC           3       3                
+T93Y           3       3                
+Z33AA          3       2   1            
+UZ5UA          3       2       1        
+XE1GRR         3       2       1        
+SP3PKL         3       2           1    
+EA1AQM/P       3       1   2            
+SM7E           3       1   1           1
+S59N           3       1       1   1    
+JA6YBK         3       1       1       1
+TM5L           3       1       1       1
+RK3DXZ         3       1       1       1
+K2XA           3       1           2    
+AA3B           3       1               2
+HG8N           3       1               2
+VE7SV/FP       3       1               2
+EA7BVA/P       3           3            
+EA7EXM/P       3           3            
+M0MCX          3           3            
+EA9PB/P        3           3            
+S51CK          3           3            
+EI6JK          3           3            
+SO6E           3           3            
+JA2BAY         3           3            
+OH3XA          3           3            
+SP3DOI         3           3            
+YV5SSB         3           3            
+GU4EON         3           3            
+G3SIS          3           3            
+ED5AOP         3           3            
+G4Z            3           3            
+UA0SC          3           3            
+US0LW          3           3            
+BN0J           3           3            
+G8VHB          3           2           1
+UW5U           3           2           1
+UT5IZO         3           2           1
+OE3S           3           2           1
+ER4DX          3           1   2        
+GM4AGG         3           1   2        
+8S4Z           3           1   2        
+CU3GD          3           1   2        
+RN6CD          3           1   2        
+DL1WA          3           1   1   1    
+DU7MHA         3           1   1   1    
+EA6PZ          3           1   1       1
+I4RX           3           1   1       1
+JJ1JNF         3           1       2    
+HI8CCP         3           1       1   1
+ED1VIG         3           1           2
+EW6GF          3               3        
+VU2AU          3               3        
+RA3DNC         3               3        
+ZS1OLI         3               3        
+4X6RA          3               3        
+ZP5DBC         3               3        
+DL3KZA         3               3        
+ZL2AL          3               3        
+S50R           3               3        
+OH8SR          3               3        
+VE9XA          3               3        
+UK8OAU         3               3        
+CE6SAX         3               3        
+TEST           3               2   1    
+CP3UA          3               2   1    
+KT0R           3               2   1    
+RN3ZC          3               2       1
+PY7VI          3               2       1
+N3ZA           3               2       1
+PP5WG          3               2       1
+OL8W           3               2       1
+PF9A           3               2       1
+SM5U           3               2       1
+G0VJG/HI3      3               2       1
+AH6QO          3               2       1
+CT3KN          3               2       1
+EA4RCT         3               2       1
+9M2/G3TMA      3               1   2    
+T42R           3               1   2    
+UA0SE          3               1   2    
+G3LUW          3               1   2    
+RV9CP          3               1   2    
+RK4WWF         3               1   1   1
+30-Oct-2004    3               1   1   1
+CV5E           3               1   1   1
+LU4DXU         3               1   1   1
+UA4FER         3               1   1   1
+K4SSU          3               1   1   1
+JF1OPL         3               1       2
+SP5EWX/7       3               1       2
+AD4EB          3               1       2
+NX9T           3               1       2
+KL2A/W7        3               1       2
+N7TT           3               1       2
+DX             3               1       2
+WX3B           3               1       2
+JR3QHQ         3                   3    
+NC2X           3                   3    
+BY4BSN         3                   3    
+OH6RX          3                   3    
+PA9DX          3                   3    
+UX0IB          3                   3    
+7M2PSC         3                   3    
+LY2DM          3                   3    
+VE7IN          3                   3    
+UT2IO          3                   3    
+4A1AC          3                   3    
+EY7AV          3                   3    
+N2BA           3                   3    
+4L1AN          3                   3    
+7L1ETP/1       3                   3    
+CX4VA          3                   3    
+YB2VTO         3                   3    
+MU0FAL         3                   3    
+TI2VW          3                   3    
+JL3VUL/3       3                   3    
+JH8DEH         3                   3    
+F8CGL          3                   3    
+WA1JMP         3                   3    
+ON6WP          3                   3    
+HB9ODK         3                   3    
+LZ9V           3                   3    
+P43A           3                   3    
+JF2FIU         3                   3    
+OK6A           3                   3    
+EA4BT          3                   3    
+YZ1AU          3                   3    
+UA9AU          3                   3    
+SM6X           3                   3    
+7K4XNN         3                   3    
+BY4BKJ         3                   3    
+NA2U           3                   2   1
+WA1S           3                   2   1
+YV4GLD         3                   2   1
+PY7GK          3                   2   1
+N4UH           3                   2   1
+EA3CCN         3                   2   1
+UV7M           3                   2   1
+W5GM           3                   2   1
+US5II          3                   2   1
+VE6FN          3                   2   1
+K8GL           3                   1   2
+EA8BWW         3                   1   2
+JH0RNN         3                   1   2
+AK1N           3                   1   2
+VE5UF          3                   1   2
+OK1EP          3                       3
+F5VHY          3                       3
+JA1BPA         3                       3
+VE7IO          3                       3
+YT80AT         3                       3
+9H1DE          3                       3
+S58D           3                       3
+HS0ZBS         3                       3
+YB5ZAP         3                       3
+AB4KO          3                       3
+DL9NDS         3                       3
+F4BKV          3                       3
+XE1BY          3                       3
+N8NR           3                       3
+PU3YUW         3                       3
+S79MH          3                       3
+UA0ABK         3                       3
+WX4G           3                       3
+SM6WQB         3                       3
+ET3SID         3                       3
+SP9W           3                       3
+PP8VP          3                       3
+F4ATM          3                       3
+CQ7IUA         3                       3
+JA7BEW         3                       3
+4L4KW          3                       3
+VA6HGS         3                       3
+HK3SGP         3                       3
+IR4R           3                       3
+DU9RJ          3                       3
+W5LCC          3                       3
+G0TSM          3                       3
+8J1MOK         3                       3
+JJ1LGO         3                       3
+CS2HWP         3                       3
+VK2KPP         3                       3
+S59AA          3                       3
+LU7DSY         3                       3
+OM5PM          3                       3
+JA3XOG         3                       3
+IR3Z           3                       3
+LU8EU          3                       3
+UA9OW          3                       3
+P29AJ          3                       3
+W1WEF          3                       3
+NP3QE          3                       3
+RW9CF          3                       3
+EA5GFK         3                       3
+FR1HZ          3                       3
+RW3AH          3                       3
+PI4CC          2   2                    
+YS1RR          2   2                    
+SP9RCL         2   2                    
+HR1AGC         2   2                    
+G3UEG          2   2                    
+C6ANI          2   2                    
+LY2OU          2   2                    
+LY5A           2   2                    
+OK1TP          2   2                    
+VE1ZZ          2   2                    
+T94LW          2   2                    
+OH1VR          2   2                    
+VK6HD          2   2                    
+UA9CBO         2   1   1                
+EW2BX          2   1   1                
+RZ9WXK         2   1   1                
+OH1XX          2   1   1                
+OH2XR          2   1   1                
+CT8C           2   1       1            
+YL7A           2   1       1            
+DL4DBH         2   1           1        
+VE3RCN         2   1           1        
+UT2UZ          2   1               1    
+PA0LOU         2   1               1    
+VE3EBN         2       2                
+OM6EE          2       2                
+VP/VE7SV       2       2                
+CQ             2       2                
+JE1SPY         2       2                
+UY6IM          2       2                
+SP2GKQ         2       2                
+LY1DT          2       2                
+UU4JKY         2       2                
+VA3SWG         2       2                
+S53F           2       2                
+HM4A           2       2                
+S51DX          2       2                
+IS0GQX         2       2                
+OL4W           2       2                
+JE2OTM         2       2                
+K5RX           2       2                
+UA4LA          2       2                
+YT2T           2       2                
+D73YT/P        2       2                
+SN2N           2       2                
+VE6BMX         2       2                
+PID4           2       2                
+SQ9JKS         2       2                
+PA4T           2       2                
+9A9A           2       1   1            
+UN7TX          2       1   1            
+VK6LK          2       1   1            
+EU1AD          2       1       1        
+RN9RZ          2       1       1        
+UR5MNZ         2       1       1        
+RY9C           2       1       1        
+LY4CW          2       1       1        
+OK1DOL         2       1       1        
+C6AX           2       1       1        
+JA5BJK         2       1           1    
+OE2G           2       1           1    
+T4AK           2       1           1    
+G3ZSS          2       1           1    
+VP9/W40V       2       1               1
+VE2JCW         2       1               1
+JO1WKO         2       1               1
+VE2ZM          2       1               1
+DF3CD          2           2            
+ED5MCB         2           2            
+JS1PWV         2           2            
+ZW5BO          2           2            
+ED7ATA         2           2            
+FY4KE          2           2            
+UA3AGW         2           2            
+EA9UR/P        2           2            
+GB2SDM         2           2            
+S54A           2           2            
+YC8TF          2           2            
+HCIL           2           2            
+OH3LX          2           2            
+MIOLLL         2           2            
+DF8AE          2           2            
+EA6TS          2           2            
+IK4ALM         2           2            
+VP4WW          2           2            
+VP5ZE          2           2            
+HA9PP          2           2            
+WA3WSJ/P       2           2            
+IQ5AA          2           2            
+HB9AAL         2           2            
+JA9FPI         2           2            
+JA2KVD         2           2            
+P40P           2           2            
+W2XL           2           2            
+K3BU           2           2            
+D5RV           2           2            
+UA0FGZ         2           2            
+EA9UR/         2           2            
+SP2WKB         2           2            
+UA1ANA         2           2            
+IQ5AA/         2           2            
+ED7THR         2           2            
+EA9CP/EA1      2           2            
+IQ8PD          2           1   1        
+HB9AON         2           1   1        
+DF1IAQ         2           1   1        
+RK3WWA         2           1   1        
+AA5NT          2           1   1        
+HA7A           2           1   1        
+OT4            2           1   1        
+OH6VHF         2           1   1        
+RW9TA          2           1       1    
+JA5BHC         2           1       1    
+SP9KDA         2           1       1    
+DF4CB          2           1       1    
+7K4PTY         2           1       1    
+JM1LPN         2           1       1    
+K5MA           2           1           1
+FG/N9NW        2           1           1
+UA0FDX         2           1           1
+VK2CZ          2           1           1
+EW7LO          2               2        
+W8CZN          2               2        
+DG5AA          2               2        
+TK2K4J         2               2        
+9G5ZS          2               2        
+PA2R           2               2        
+HS22B          2               2        
+RV9JR          2               2        
+EA6/LY1DF      2               2        
+W9EXY          2               2        
+LY1CX          2               2        
+K1KD           2               2        
+RV3FF          2               2        
+ZL2MF          2               2        
+TTM7Z          2               2        
+K6HNZ          2               2        
+UA0YAY         2               2        
+OK1TN/W2       2               2        
+HL2/JH1FXF     2               2        
+CX7BF          2               2        
+V44TD          2               2        
+TE1ST          2               2        
+VK9LW          2               2        
+RZ3AZ          2               2        
+CT1CJJ         2               2        
+S56M           2               2        
+EA1CHZ         2               2        
+DU1EIB         2               2        
+JW4E           2               2        
+OY1JD          2               2        
+IK2IQD         2               2        
+EA3BN          2               2        
+UA0ZDA/MM      2               2        
+W1QK           2               2        
+OH5NE          2               2        
+I2UPG          2               2        
+TI2DLL         2               2        
+XE1CL          2               2        
+SA4A           2               2        
+VA7DP          2               2        
+DJ9RQ          2               2        
+IT9AJP         2               2        
+ON4CCP         2               2        
+9G5HO          2               2        
+4U1UN          2               2        
+KH6X           2               2        
+KY5R           2               2        
+RX9SS          2               2        
+LU3MCJ         2               2        
+T33T           2               2        
+DA0CCC         2               2        
+VK2KYM         2               2        
+YO3BL          2               2        
+SP9MRO/8       2               2        
+PA3ADJ         2               2        
+RW9WT          2               2        
+RKAM           2               2        
+VE6EPK         2               2        
+CO8TW          2               2        
+F5GBS          2               2        
+DL0MAN         2               2        
+DJ7UC          2               2        
+EA8ZZ          2               2        
+HA2JO          2               2        
+UR7EP          2               2        
+IK0YVV         2               2        
+AM7TV          2               2        
+VP9EP          2               1   1    
+II4X           2               1   1    
+RK3BA          2               1   1    
+EA1EMB         2               1   1    
+C40W           2               1   1    
+W0ZT           2               1   1    
+UT6IS          2               1   1    
+YL2CI          2               1   1    
+SP2QG          2               1   1    
+IT9ISW         2               1   1    
+K1ZZ           2               1   1    
+N6RER          2               1   1    
+K4XU           2               1   1    
+UX4E           2               1   1    
+XV3AA          2               1   1    
+RA9ST          2               1   1    
+JT1BZ          2               1       1
+LP7H           2               1       1
+N3II           2               1       1
+EA1CEZ         2               1       1
+PA0IGM         2               1       1
+KI6CG          2               1       1
+NR3X           2               1       1
+LU1EM          2               1       1
+KX1X           2               1       1
+N1DD           2               1       1
+EA3KU          2               1       1
+OK2PBM         2                   2    
+UN7EG          2                   2    
+DH4SOB         2                   2    
+UN8GF          2                   2    
+DF2CK          2                   2    
+BW2/JA2PVE     2                   2    
+UT2IL          2                   2    
+W6PH           2                   2    
+K7SS           2                   2    
+HL4CBI         2                   2    
+JG3UOB/1       2                   2    
+LZ5Z           2                   2    
+HL2ODW         2                   2    
+D70YT/         2                   2    
+EA4VA          2                   2    
+WE2F           2                   2    
+ON7XT          2                   2    
+HK3JJL         2                   2    
+RA6AFB         2                   2    
+K2ONP          2                   2    
+N7VF           2                   2    
+S7A            2                   2    
+YC2BDJ         2                   2    
+HA0HV          2                   2    
+ZA/P/OH2PM     2                   2    
+PT2ND          2                   2    
+JR1HUA         2                   2    
+LN7G           2                   2    
+HL2O           2                   2    
+JA1CG          2                   2    
+YB1TC          2                   2    
+EC1DQK         2                   2    
+YS7A           2                   2    
+EA7VG          2                   2    
+K5YAA          2                   2    
+LX3DX          2                   2    
+XX9AU          2                   2    
+OL4R           2                   2    
+VE3J           2                   2    
+TM3Y           2                   2    
+JM9LRQ         2                   2    
+W1OP           2                   2    
+OH4BNP         2                   2    
+VE2RM          2                   2    
+UA1CKC         2                   2    
+GM7M           2                   2    
+7L1ETP         2                   2    
+JK3DGX         2                   2    
+SV9CVY         2                   2    
+JF2IWL         2                   2    
+KC7V           2                   2    
+ER3CT          2                   2    
+G0LZL          2                   2    
+BV2B           2                   2    
+YO7ARY         2                   2    
+RA0AY          2                   2    
+EX1MM          2                   2    
+W6EEN          2                   2    
+6M0MM          2                   2    
+V73VE          2                   2    
+UA9SP          2                   2    
+JH9URT         2                   2    
+VE9GLF         2                   2    
+G4RRA          2                   2    
+IT9YOR         2                   2    
+N1IK           2                   1   1
+9K2ON          2                   1   1
+HL0U           2                   1   1
+RW9IM          2                   1   1
+EA2BXV         2                   1   1
+VE3GIB         2                   1   1
+W1GD           2                   1   1
+4XOWV          2                   1   1
+K2OWE          2                   1   1
+XV9TH          2                   1   1
+DF4CG          2                   1   1
+KZ2I           2                   1   1
+N4WW           2                   1   1
+3V3BB          2                   1   1
+IK2DZN         2                   1   1
+A6AJ           2                   1   1
+IZ8FDG         2                   1   1
+PP5ZP          2                   1   1
+SSTV           2                       2
+UN4L           2                       2
+PZ1AP          2                       2
+V25C           2                       2
+PY2PD          2                       2
+VK7GN          2                       2
+JN7IIR         2                       2
+IS0IQJ         2                       2
+PY2RH          2                       2
+YK0RJ          2                       2
+HG7T           2                       2
+JA7DY          2                       2
+8Q7LM          2                       2
+UA6HON         2                       2
+F5MOO          2                       2
+LA2DX          2                       2
+PY6KY          2                       2
+EK8WA          2                       2
+UN8GU          2                       2
+F8CIL          2                       2
+IK8VRN         2                       2
+VU2SMN         2                       2
+H6W1RY         2                       2
+CO2KK          2                       2
+VP9/WA4OV      2                       2
+ON7BJ          2                       2
+ZL1TM          2                       2
+UA9FM          2                       2
+DL3ABL         2                       2
+CQ7ITZ         2                       2
+PY2RDM         2                       2
+3VBB           2                       2
+IT9RYJ         2                       2
+YO5OEF         2                       2
+9J20C          2                       2
+TA1AL          2                       2
+VK7KHZ         2                       2
+F8KGH          2                       2
+EY8DQ          2                       2
+D40RI          2                       2
+HA5AWT         2                       2
+9M2/G4GFE      2                       2
+TJ3SL          2                       2
+CT7Z           2                       2
+EA1CCM         2                       2
+NT6AA          2                       2
+PY2SRB         2                       2
+F4EGZ          2                       2
+LA5JX          2                       2
+OH3MMM         2                       2
+G8D            2                       2
+YY1RDX         2                       2
+NL7Z           2                       2
+JG1HQA         2                       2
+K7OX           2                       2
+TI2SD          2                       2
+EA9ZL          2                       2
+W7UT           2                       2
+N8BJQ          2                       2
+AF7O           2                       2
+AY8Y           2                       2
+KT8X           2                       2
+PY2NB          2                       2
+JM1SMY         2                       2
+9V1U           2                       2
+JI1KXL         2                       2
+ZA/ON2BH       2                       2
+9J2QC          2                       2
+PU2TES         2                       2
+5X1GS          2                       2
+LU9MRY         2                       2
+N9RET/BCN      2                       2
+HP3XPS         2                       2
+HP1BY          2                       2
+F4CTJ          2                       2
+HR1RTF         2                       2
+EA3FCQ         2                       2
+GW5NF          2                       2
+UA6LCN         2                       2
+ZS8Z           2                       2
+NA2P           2                       2
+JE3WVA/3       2                       2
+PU2MXU         2                       2
+VA3PL          2                       2
+ZS3C           2                       2
+CA5UBR         2                       2
+EA3FF          2                       2
+M/AB2E         2                       2
+JA1OCC         2                       2
+OL1C           1   1                    
+LN7V           1   1                    
+SP7AWG         1   1                    
+F5BJK          1   1                    
+SP·RCL         1   1                    
+DL1EFD         1   1                    
+RA3AGN         1   1                    
+DL1CC          1   1                    
+OK1DD          1   1                    
+S58M           1   1                    
+G0OFS          1   1                    
+GI3OQR         1   1                    
+OZ5DD          1   1                    
+J45Z           1   1                    
+G8TOK          1   1                    
+UR5ANI         1   1                    
+OE3GCU         1   1                    
+OH3RA          1   1                    
+HA5ZB          1   1                    
+OH3JR          1   1                    
+PA0CG          1   1                    
+UA9CL          1   1                    
+G4JBE          1   1                    
+W7AWA          1   1                    
+RU6YY          1   1                    
+G0VVE          1   1                    
+N0PE           1   1                    
+9K2MU          1   1                    
+ER2G           1   1                    
+RU9TC          1   1                    
+G4JBR          1   1                    
+IN3QBR         1   1                    
+W4TRH          1   1                    
+W7ZL           1   1                    
+SP6IHE         1   1                    
+W7IZO          1   1                    
+HA8FW          1   1                    
+SN0C           1   1                    
+IV3OVC         1   1                    
+KB9OWD         1   1                    
+OG5E           1   1                    
+G3SNN          1   1                    
+LA6WEA         1   1                    
+SP7M           1   1                    
+ON4ATW         1   1                    
+UT0AZA/QRM     1   1                    
+LX2AJ          1   1                    
+HB9HDX         1   1                    
+RV4LC          1   1                    
+RW6MEP         1   1                    
+OH3YI          1   1                    
+FP/VE7WV       1   1                    
+MD4KW          1   1                    
+HA7TM          1   1                    
+UA2FCB         1   1                    
+UT7NY          1   1                    
+IO3K           1   1                    
+9A3RE          1   1                    
+N6IC           1   1                    
+VK3YXC         1       1                
+OH1MIJ         1       1                
+IZ5CMG         1       1                
+FRM            1       1                
+HB9ADK         1       1                
+4N200          1       1                
+EA7CK          1       1                
+DK6UW          1       1                
+S59A           1       1                
+FS/AH6DX       1       1                
+US2WU          1       1                
+F1ISM          1       1                
+JA3YBT         1       1                
+SP3GVM         1       1                
+DF5ZF          1       1                
+JG7IJM         1       1                
+KE1Y           1       1                
+DJ2NR          1       1                
+OA4            1       1                
+TM5HV          1       1                
+RK3AWK         1       1                
+JD1BCA         1       1                
+N8PW           1       1                
+DL0KS          1       1                
+DC3YY          1       1                
+LX71           1       1                
+EA6WX          1       1                
+KT1T           1       1                
+3803DX         1       1                
+OK1KZ          1       1                
+EM5U           1       1                
+DU8RUG         1       1                
+VE4HQ          1       1                
+ES7FU          1       1                
+NA7A           1       1                
+VEDX           1       1                
+ON6DK          1       1                
+DK0UNI         1       1                
+DL4RCK         1       1                
+VK2PO          1       1                
+DJ6OZ          1       1                
+YA7E           1       1                
+RK4CWA         1       1                
+RK0LKK         1       1                
+OM3ID          1       1                
+M3W            1       1                
+G0EVY          1       1                
+RW1CC          1       1                
+ES7FM          1       1                
+EA1KS          1       1                
+F6KBE          1       1                
+DL3ALI         1       1                
+YL2PA          1       1                
+US9PA          1       1                
+K7EC           1       1                
+PE1MMZ         1       1                
+OK1DG          1       1                
+SM6IQD         1       1                
+YZ1EW          1       1                
+VA3POS         1       1                
+VP9X           1       1                
+SP6GEM         1       1                
+EA6BH          1       1                
+F1ELA          1       1                
+3659           1       1                
+OL7A           1       1                
+V3CV           1       1                
+LZ2W           1       1                
+JA2EAM         1       1                
+YB1CA          1       1                
+DL6NBR         1       1                
+JT1???         1       1                
+ZD8BGR         1       1                
+OK1UU          1       1                
+RW1QK          1       1                
+Z35W           1       1                
+RK9KZO         1       1                
+FG/K9NS        1       1                
+SP3OL          1       1                
+YB0AH          1       1                
+G3WXX          1       1                
+SM6D           1       1                
+DF5ZV          1       1                
+DL8HC0         1       1                
+LX1I           1       1                
+OH3WW          1       1                
+SM4PVH         1       1                
+ON5SDO         1       1                
+OH2NIN         1       1                
+HB9IRJ         1       1                
+DU9RUG         1       1                
+SQ2OF          1       1                
+IK3SSJ         1       1                
+LU7A           1       1                
+OH5LF          1       1                
+UT5UIA         1       1                
+OH0            1       1                
+LU3VD          1       1                
+N4IJ           1       1                
+PA3HGT         1       1                
+DL2JAA         1       1                
+SM5RQ          1       1                
+SP3CYY         1       1                
+DS70YT/P       1       1                
+SP6OPZ         1       1                
+F6DZD          1       1                
+FP/VE/SV       1       1                
+S52LW          1       1                
+DL8NFU         1       1                
+IZ5ZTW         1       1                
+SL7O           1       1                
+OM3YK          1       1                
+RA9FNV/MM      1       1                
+HA3OU          1       1                
+I4ENO          1       1                
+HA5VZ          1       1                
+KH6ZM          1       1                
+F5VKK          1       1                
+P48Y           1       1                
+D73YT          1       1                
+DL2LZ          1       1                
+VE1ZF          1       1                
+VE7SSS         1       1                
+EU1UN          1       1                
+F6KVBF         1       1                
+JA3KZD         1       1                
+KH2X           1       1                
+I1EIS          1       1                
+JA8CMC         1       1                
+HG4S           1       1                
+VK6AXI         1       1                
+JA4DC          1       1                
+D70YT/CONTES   1       1                
+TI5            1       1                
+S55A           1       1                
+EI8M           1       1                
+EU4LY          1       1                
+JA2KIW         1       1                
+CT1EAT         1       1                
+YB0A           1       1                
+R3ATX          1       1                
+MM0BQN         1       1                
+UA3TT          1       1                
+W8AF           1       1                
+PX7AZ          1       1                
+HL3AMV         1       1                
+UA9WJV         1       1                
+FP/VE6SV       1       1                
+VE3YYA         1       1                
+SM6GZ          1       1                
+PA0B           1       1                
+IK2ZTW         1       1                
+OK1MNV         1       1                
+DL9MS          1       1                
+JA1OVD         1       1                
+UA1OSM         1       1                
+KHX            1       1                
+YI9D           1       1                
+ER5DX          1       1                
+RA9MN          1       1                
+DK7AN          1       1                
+AA7ML          1       1                
+DF3DAD         1       1                
+LZ2ZY          1       1                
+FP/VE7SC       1       1                
+ZV5OKT         1       1                
+OH2BPI         1       1                
+PA3P           1       1                
+DG0LFG         1       1                
+SM0M           1       1                
+PA1RJ          1       1                
+YO9IF          1       1                
+RW0LKA         1       1                
+WP2X           1           1            
+VK6VZ          1           1            
+G4MVX          1           1            
+JA2KNW         1           1            
+Z32ZM          1           1            
+M0DCM          1           1            
+JA1BDR         1           1            
+4M5AX          1           1            
+IZ8EDG/P       1           1            
+IT9EJW         1           1            
+BOOMING        1           1            
+9A4A           1           1            
+JS1PSV         1           1            
+UA0TCJ         1           1            
+DJ3ST          1           1            
+RU3NDA/P       1           1            
+EA4ECY/P       1           1            
+EA2ASH         1           1            
+IK8JGZ/P       1           1            
+3V8BBB         1           1            
+NP5U           1           1            
+I2FAE          1           1            
+P42P           1           1            
+JR1LZK         1           1            
+JA4OEF         1           1            
+TI5N           1           1            
+OZ0XX          1           1            
+OZ4VM          1           1            
+DL7YS          1           1            
+W1PNR          1           1            
+Y7A            1           1            
+PR7AF          1           1            
+U1A            1           1            
+EA7GXP         1           1            
+IZ1GAR         1           1            
+GB200CLB       1           1            
+HL8L           1           1            
+VE6NE          1           1            
+OK1LV          1           1            
+JA9FAP         1           1            
+RK0AX          1           1            
+EX8M           1           1            
+OK4O           1           1            
+ZL2MS          1           1            
+YR3I           1           1            
+KD3CQ/P        1           1            
+EI30           1           1            
+IK7JNM         1           1            
+ES5TE          1           1            
+JA4JBZ         1           1            
+KN9NS          1           1            
+SK6HD          1           1            
+DL1AK          1           1            
+EI7            1           1            
+IR4A           1           1            
+J44T           1           1            
+JT1            1           1            
+RN4WA          1           1            
+YY5PW          1           1            
+W0O            1           1            
+S53D           1           1            
+YV2BU          1           1            
+VE3GJA         1           1            
+RX0AXX         1           1            
+VU2EE          1           1            
+OL3X           1           1            
+JHH7XMO        1           1            
+EA2BA          1           1            
+YC0JDW/1       1           1            
+YJ3AAA         1           1            
+GB2SBM         1           1            
+G0WMW          1           1            
+JE1JWT         1           1            
+DS3EXX         1           1            
+SQ3Z           1           1            
+VE1JFD         1           1            
+VA7OO          1           1            
+SA5E           1           1            
+OK2BJR         1           1            
+DS5PA          1           1            
+PA0ICM         1           1            
+FT5KE          1           1            
+WA4ITA         1           1            
+DF0HO          1           1            
+KD3CQ          1           1            
+RV3RM          1           1            
+V26BB          1           1            
+LY2IJ          1           1            
+D3BB           1           1            
+KL0YG          1           1            
+YHHC8L         1           1            
+VK3JO          1           1            
+YC8L           1           1            
+D70YT/C        1           1            
+HR1RPM         1           1            
+JA3BYK         1           1            
+F5VIK          1           1            
+JN7NVF         1           1            
+MW5HOC         1           1            
+CO3H           1           1            
+N1DS           1           1            
+W9IND          1           1            
+LT0A           1           1            
+FS/VE7SV       1           1            
+IR3C           1           1            
+CT3CD          1           1            
+UT7IZO         1           1            
+PA0RHA         1           1            
+CX5ZW          1           1            
+W4DR           1           1            
+UA2TCJ         1           1            
+IH9            1           1            
+CO2UD          1           1            
+C6ANR          1           1            
+ES5TW          1           1            
+OK1DWJ         1           1            
+RK0            1           1            
+EDSSB          1           1            
+YT2A           1           1            
+V51E           1           1            
+I5REA          1           1            
+OK1MGW         1           1            
+JA1IZZ         1           1            
+JI2ZJW         1           1            
+PJ2A           1           1            
+LY2A           1           1            
+C06E           1           1            
+VK6VK          1           1            
+C2JD           1           1            
+P43B           1           1            
+JA1VZZ         1           1            
+OM5A           1           1            
+JM1FHL         1           1            
+BD4DW          1           1            
+VK6NU          1           1            
+F3CTT          1           1            
+EA8XS          1           1            
+LIST           1           1            
+QSX            1           1            
+HR4P           1           1            
+YY5BDP         1           1            
+VE3DTQ         1           1            
+SN7            1           1            
+DJ4PJ          1           1            
+IU1A           1           1            
+OT4AF          1           1            
+V31FB          1           1            
+4M2DX          1           1            
+X39C           1           1            
+DS70YT         1           1            
+PJ4PT          1           1            
+S79MZ          1           1            
+EA2BR/1        1           1            
+N9WQ           1           1            
+OE1HMC         1           1            
+9V1RH          1           1            
+JA1LNZ         1           1            
+EA2AVJ/M       1           1            
+F5VUQ          1           1            
+IZ7DMT         1           1            
+OM3A           1           1            
+HC7L           1           1            
+KC2GOW         1           1            
+JR1ACB         1           1            
+OK1JFP         1           1            
+UX2ZO          1           1            
+UA4PK          1           1            
+UT5UML         1           1            
+LA6FJA         1           1            
+B5VR           1           1            
+MI0LL          1           1            
+T4TAK          1           1            
+SQ9MZ          1           1            
+ON7CL          1           1            
+W4NTI          1           1            
+VE2NE          1           1            
+VLK9NS         1           1            
+IZ7FMQ/P       1           1            
+CP4PBB         1           1            
+CTP            1           1            
+GW3XHG         1           1            
+CTEST          1           1            
+KP7YRR         1           1            
+TA1EQ          1           1            
+TI7M           1           1            
+7DX            1           1            
+SK4X           1           1            
+CH2JB          1           1            
+ZS4TX          1           1            
+CU5AAC         1           1            
+142DXDXDX      1               1        
+PY2CM          1               1        
+RX6AH          1               1        
+K5ZO           1               1        
+DF6CB          1               1        
+VG9AFX         1               1        
+GW4GLE         1               1        
+JA1MNW         1               1        
+J757           1               1        
+VK4DX          1               1        
+SP9EWO         1               1        
+JA5BJT         1               1        
+DL2PAN         1               1        
+UU7Q           1               1        
+NP2U           1               1        
+F5SME          1               1        
+VK7VH          1               1        
+UT4EK          1               1        
+OH2VB          1               1        
+F5AJG          1               1        
+XT2PT          1               1        
+D7OYT/P        1               1        
+ON8NC          1               1        
+RA3NK          1               1        
+F5VZK          1               1        
+6W1RT          1               1        
+NA7D           1               1        
+K1BOY          1               1        
+TF4FW          1               1        
+UA9YAY         1               1        
+DL0TZ          1               1        
+EA1EA          1               1        
+9G1AA          1               1        
+S53AL          1               1        
+JR6EZE         1               1        
+L77Y           1               1        
+OR             1               1        
+N6ED           1               1        
+UU8JY          1               1        
+HK1XXA61AJ     1               1        
+UR4PWL         1               1        
+UR5WRQ         1               1        
+RV1AT          1               1        
+V47K           1               1        
+OD4NJ          1               1        
+PY2RZ          1               1        
+LA6MV          1               1        
+DL7ON          1               1        
+YO3KZW         1               1        
+W7ZA           1               1        
+SP6NIK         1               1        
+GW4WX/P        1               1        
+D70YT/P/AY2O   1               1        
+ES4DR          1               1        
+ZL3AJ          1               1        
+9A4VV          1               1        
+NO             1               1        
+SQ3RX          1               1        
+VE3C           1               1        
+VK3FT          1               1        
+ON7BS          1               1        
+VE2OTT         1               1        
+VA2JEI         1               1        
+VE1JS          1               1        
+JZ3A           1               1        
+UW1G           1               1        
+RK3ZZ          1               1        
+I2HXO          1               1        
+9A6NKN         1               1        
+OE7AJE         1               1        
+SP7CFB         1               1        
+UK5U           1               1        
+LU8XWVP5X      1               1        
+DH4SB          1               1        
+SM2Y           1               1        
+KC1X           1               1        
+EA3GFM         1               1        
+F6SHM          1               1        
+FK8HA          1               1        
+NU7J           1               1        
+V4ELG          1               1        
+VK5CV          1               1        
+C49M           1               1        
+CE1RQ          1               1        
+XE1NVE         1               1        
+OH8NS          1               1        
+SB4R           1               1        
+AA4FU          1               1        
+VU2            1               1        
+UX4UA          1               1        
+GM0FGI         1               1        
+VY2LR          1               1        
+N7KU           1               1        
+UX4WV          1               1        
+YB0Z           1               1        
+GW3BLE         1               1        
+VE7KET         1               1        
+C39K           1               1        
+UA5CLB         1               1        
+WX2N           1               1        
+AH8LG          1               1        
+J35J           1               1        
+BA4TT          1               1        
+CXE4PBB        1               1        
+EA8DS          1               1        
+F3WT           1               1        
+L0DX           1               1        
+K3ZM           1               1        
+G3NEO          1               1        
+VE2CEI         1               1        
+UR5FAV         1               1        
+K3QDV          1               1        
+BV6GT          1               1        
+RW6AH          1               1        
+CS5N           1               1        
+EK6TO          1               1        
+IM8A           1               1        
+VE6RFM         1               1        
+VK3KCD         1               1        
+VA2EHL         1               1        
+YV5SG          1               1        
+OH1KD          1               1        
+JA5BCJ         1               1        
+SL0TS          1               1        
+N3             1               1        
+OD5YJ          1               1        
+K3CP           1               1        
+UA9OMT         1               1        
+DL0DRO         1               1        
+YT9A           1               1        
+K1BO           1               1        
+UK8AA          1               1        
+T5A            1               1        
+VP2EEJ         1               1        
+FP/VA7SV       1               1        
+EU2MM          1               1        
+ON7SU          1               1        
+EK3GM          1               1        
+HG9X           1               1        
+FY5KAC         1               1        
+JQ2DGT         1               1        
+RV3ZZ          1               1        
+SP3SL          1               1        
+XE2            1               1        
+GB4PRC         1               1        
+SP4SLA         1               1        
+HS72BH         1               1        
+PR7AYE         1               1        
+N5MV           1               1        
+OK2PAY         1               1        
+K2RET          1               1        
+JS3CT          1               1        
+ZS1WC          1               1        
+VA3NR          1               1        
+RK3DBZ         1               1        
+VK7VE          1               1        
+VE21M          1               1        
+KN5Z           1               1        
+PY2U           1               1        
+PW8MW          1               1        
+LY6W           1               1        
+4V0WV          1               1        
+4X0VV          1               1        
+BD2RT          1               1        
+UR0UL          1               1        
+5U7JG          1               1        
+VE7AYU         1               1        
+RX5AM          1               1        
+YU5ZZ          1               1        
+D44T           1               1        
+LY2FN          1               1        
+CP3XE          1               1        
+V55T           1               1        
+EI9FN          1               1        
+3Z2D           1               1        
+EA1ASG         1               1        
+IT9JHR         1               1        
+STOP           1               1        
+XX9X           1               1        
+D44B           1               1        
+IT9LSW         1               1        
+SP/VE7SV       1               1        
+UR3HC          1               1        
+SK4MP          1               1        
+UA9KJ          1               1        
+PY2ZI          1               1        
+T9/YZ7ED       1               1        
+W3CC           1               1        
+DL2YA          1               1        
+ON5UR          1               1        
+CT2/YOCTK      1               1        
+W6CCP          1               1        
+RD4AA          1               1        
+HI3/G0VGH      1               1        
+D44TT          1               1        
+J7C            1               1        
+SMOW           1               1        
+ST0P           1               1        
+KH7A           1               1        
+ZS9S           1               1        
+5A2JO          1               1        
+K1FWE          1               1        
+VQ9LA          1               1        
+VK3CSJ         1               1        
+WP2            1               1        
+SP6DER         1               1        
+VC6L           1               1        
+W3CF           1               1        
+SA0Q           1               1        
+W8CNZ          1               1        
+FO4RJ          1               1        
+***            1               1        
+NY2J           1               1        
+W9IGJ          1               1        
+HI3/G0VJG      1               1        
+VK5QG          1               1        
+HALT           1               1        
+JA8VJ          1               1        
+OK2BAR         1               1        
+UX7MM          1               1        
+SA3Y           1               1        
+DL11IAO        1               1        
+1DX            1               1        
+VE3FGL         1               1        
+OM6KW          1               1        
+SK6DG          1               1        
+9Y4CZ          1               1        
+TI5X           1               1        
+W9XAN          1               1        
+OH5KW          1               1        
+YV5KJ          1               1        
+5B/A2JO        1               1        
+DL0AO          1               1        
+KH7M           1               1        
+JA5APU         1               1        
+DF3AX          1               1        
+LY4XX          1               1        
+F1SUI          1               1        
+4U1I           1               1        
+L              1               1        
+W7VV           1               1        
+RA3ZH          1               1        
+IK2VFW         1               1        
+CE3CDV         1               1        
+CV5V           1               1        
+DL2FRD         1               1        
+NX5M           1               1        
+UA2CZ          1               1        
+PY5PDC         1               1        
+UA9AX          1               1        
+RA2CM          1               1        
+KL7X           1               1        
+YO3GTK         1               1        
+UX0WV          1               1        
+LA6UH          1               1        
+T97            1               1        
+CE3BRZ         1               1        
+N1RK           1               1        
+VE3SPW         1               1        
+KE2Y           1               1        
+W6TA           1               1        
+V3GQ           1               1        
+YO3CTK/7       1               1        
+SM0R           1               1        
+SV1SIF         1               1        
+S57DA          1               1        
+UW7M           1               1        
+OM8            1               1        
+SQ4MP          1               1        
+RK9ZWB         1               1        
+JK1EVD         1               1        
+RK3UWA         1               1        
+EA7YY          1               1        
+ON4TO          1               1        
+NH6JC          1               1        
+C91CZ          1               1        
+K1MAN          1               1        
+AAA            1               1        
+WA3KVN         1               1        
+VE1XOE         1               1        
+DD3NJ          1               1        
+5U7JP          1               1        
+OH8NK          1               1        
+W1JQ           1               1        
+7P8Z           1               1        
+KR1ST          1               1        
+KL8DX          1               1        
+G0MB           1               1        
+JJ0KRD         1               1        
+PP8EB          1               1        
+YO3CTK         1               1        
+65IC           1               1        
+LU8XXX         1               1        
+ZL1T           1               1        
+4A1UNRA6CM     1               1        
+TF4W           1               1        
+OZ5EV          1               1        
+7Z3A           1               1        
+M4             1               1        
+KI3DS          1               1        
+SM2W           1               1        
+JJ0K           1               1        
+NA2AA          1               1        
+RK9UN          1               1        
+W4CEB          1               1        
+WZ1F           1               1        
+W3IQ           1               1        
+UT0RF          1               1        
+OK1QW          1               1        
+KT2V           1               1        
+4Z7Z           1               1        
+9W             1               1        
+RZ9SW          1               1        
+ON4APU         1               1        
+MI0LJM         1               1        
+V44/NC2N       1               1        
+F4DLL          1               1        
+YO3TC/P        1               1        
+9U7JB          1               1        
+9Y5KE          1               1        
+D70NT          1               1        
+RD9A           1               1        
+LY2OO          1               1        
+YV1KG          1               1        
+UT0VE          1               1        
+XX9V           1               1        
+HBO/HB9AON     1               1        
+RW9UX          1               1        
+V3ZL           1               1        
+N3AM           1               1        
+OT2A           1               1        
+YV5TE          1               1        
+KC3AK          1               1        
+W9EVT          1               1        
+ZY0C           1               1        
+LU3OE          1               1        
+ZS1R           1               1        
+VE2TT          1               1        
+2A1UN          1               1        
+W7FP           1               1        
+9J2BO          1               1        
+F5MMX          1               1        
+VE6            1               1        
+K3ZA           1               1        
+HL5FXP         1               1        
+VE6SF          1               1        
+YL6            1               1        
+SU9UC          1               1        
+G0FAU          1               1        
+T3OT           1               1        
+SV1CIF         1               1        
+DF0VQ          1               1        
+WK2H           1               1        
+N9VWP          1               1        
+4R6AM          1               1        
+OH6NC          1               1        
+SV1AMU         1               1        
+EY8M           1               1        
+HI8PS          1               1        
+HL5AT          1               1        
+ZK2ED          1               1        
+YZ1SM          1               1        
+W2/OK1TN       1               1        
+HL2ADI         1               1        
+VE6EO          1               1        
+RV3DSF         1               1        
+VO1EA          1               1        
+AA4SC          1               1        
+9G5AA          1               1        
+N3HTR          1               1        
+TA2RA          1               1        
+2E0FMS         1               1        
+YZ7ZZ          1               1        
+UT4UXW         1               1        
+Y1AD           1               1        
+W6XR           1               1        
+IT9ST          1               1        
+KF2O           1               1        
+PW9DX          1               1        
+RA0SJ/P        1               1        
+SH2R           1               1        
+DL2NEA         1               1        
+RA3TCO         1               1        
+CE4BPP         1               1        
+YU2A           1               1        
+ST2M           1               1        
+RK9KWI         1               1        
+SO5M           1               1        
+LY2AX          1               1        
+AA7X           1               1        
+RJ9A           1               1        
+RK2FXG         1               1        
+RA4PO          1                   1    
+LY2BIS         1                   1    
+PY5ZHP         1                   1    
+ZP5            1                   1    
+BD2EX          1                   1    
+JL3JRY         1                   1    
+RZ9HQ          1                   1    
+EA9L7          1                   1    
+JA1KND         1                   1    
+JH1TEB/BY1BJ   1                   1    
+AB5K           1                   1    
+DF4HQ          1                   1    
+BY2HIT         1                   1    
+KF6T           1                   1    
+JR1BDH         1                   1    
+HHH            1                   1    
+BG4AKC         1                   1    
+S60            1                   1    
+F4NBX          1                   1    
+EC7ACV         1                   1    
+HS8L           1                   1    
+RK9LYA         1                   1    
+YY55JRU        1                   1    
+UU1JD          1                   1    
+NR0X           1                   1    
+T94LSD         1                   1    
+EAIZS          1                   1    
+EC1AJS         1                   1    
+PY2MR          1                   1    
+3B9MM          1                   1    
+PY5DAL         1                   1    
+WA2C           1                   1    
+VE2/K3MFQ      1                   1    
+UN7PBY         1                   1    
+JE1HHL         1                   1    
+RW3GB          1                   1    
+JA3YRL         1                   1    
+CP6EA          1                   1    
+K7INA          1                   1    
+OH1LWZ/M       1                   1    
+JJ2IJU         1                   1    
+C6AHR          1                   1    
+EA7HDJ         1                   1    
+LU5HD          1                   1    
+YU1IG          1                   1    
+HT1JQ          1                   1    
+HB4H           1                   1    
+DH3IAJ         1                   1    
+OH6IU          1                   1    
+M0TGO/P        1                   1    
+C6X            1                   1    
+VK9XJ          1                   1    
+LZ1HB          1                   1    
+HC3CCP         1                   1    
+RX3RC          1                   1    
+N1DX           1                   1    
+JI3VLB         1                   1    
+VE5EJ          1                   1    
+CO2HR          1                   1    
+PY8AZT         1                   1    
+N2NG           1                   1    
+JR2DOL         1                   1    
+DH0SBO         1                   1    
+YO2LEA         1                   1    
+W0YR/P4        1                   1    
+EA1CS          1                   1    
+OL8R           1                   1    
+K3             1                   1    
+HL1OSB         1                   1    
+JF9NVB         1                   1    
+EC1DQ          1                   1    
+NJ2X           1                   1    
+K3MD           1                   1    
+EA7GXW         1                   1    
+DL7PP          1                   1    
+HC1JC          1                   1    
+N7BB           1                   1    
+V3LLZ          1                   1    
+S51S           1                   1    
+RV9CB          1                   1    
+IZ2EID         1                   1    
+W2GM           1                   1    
+T43W           1                   1    
+JL3VUL         1                   1    
+N3HBZ          1                   1    
+WP4DD          1                   1    
+RV2F           1                   1    
+W6ATV          1                   1    
+RF2A           1                   1    
+TA1DX          1                   1    
+PY3OL          1                   1    
+4U1ITI         1                   1    
+K6SGH          1                   1    
+EA8AN          1                   1    
+MD4L           1                   1    
+VO0K           1                   1    
+EA7ANM         1                   1    
+EC7ALW         1                   1    
+DS5BRE         1                   1    
+HA1ZV/QRP      1                   1    
+V26E           1                   1    
+4F1MEN         1                   1    
+K3UZY          1                   1    
+JH1CCN         1                   1    
+JJ1NZF         1                   1    
+DL1IOT         1                   1    
+WR0DK          1                   1    
+JA3BJC         1                   1    
+OK1II          1                   1    
+NX1Q           1                   1    
+A61J           1                   1    
+F6FTS          1                   1    
+SP5MAL         1                   1    
+BY3CC          1                   1    
+V28B           1                   1    
+YB3BDJ         1                   1    
+RV6LFE         1                   1    
+SP1NQH         1                   1    
+RU6MM          1                   1    
+4L1DD          1                   1    
+EC5AMK         1                   1    
+RA9DA          1                   1    
+VA3OX          1                   1    
+JD1YBJ         1                   1    
+8J3TKZ/3       1                   1    
+DX1DTB         1                   1    
+JL1MWY         1                   1    
+HC3GT          1                   1    
+K2PS           1                   1    
+LZ2ZV          1                   1    
+JF1VVR         1                   1    
+W7YED          1                   1    
+CO8LMY         1                   1    
+EA7HF          1                   1    
+JJ1DNF         1                   1    
+KT3Y           1                   1    
+K3FM/VE2       1                   1    
+JH5AVM         1                   1    
+JA7YYR         1                   1    
+RX3ZX          1                   1    
+FJ2T           1                   1    
+YY5YM          1                   1    
+ZP5GCL         1                   1    
+JA4XY          1                   1    
+AB2DE          1                   1    
+W2PP           1                   1    
+PJ4P           1                   1    
+C6AAV          1                   1    
+V49NR          1                   1    
+VE6TN          1                   1    
+W9NGA          1                   1    
+C6AUF          1                   1    
+JA1TVE/KH0     1                   1    
+BY6HX          1                   1    
+N7ZG           1                   1    
+HS72           1                   1    
+ZL1ALZ         1                   1    
+EA5GEB         1                   1    
+RA9DZ          1                   1    
+VE5ZX          1                   1    
+I8QJU          1                   1    
+K1CXX          1                   1    
+HL2DFW         1                   1    
+JK2DGX         1                   1    
+IZ5CMI         1                   1    
+OH6QU          1                   1    
+ES5HV          1                   1    
+JK1UVP         1                   1    
+S51QN          1                   1    
+4X6UO          1                   1    
+W0/AL7O        1                   1    
+7M2PSN         1                   1    
+JA3ZJW         1                   1    
+KD4POJ         1                   1    
+SV9SL          1                   1    
+UN9LFF         1                   1    
+PA0IVM         1                   1    
+JA4RWN         1                   1    
+DL7GAN         1                   1    
+RV6MLG/AM      1                   1    
+JE3ZWT         1                   1    
+JA2JTN         1                   1    
+K2HG           1                   1    
+UA4AN          1                   1    
+EC1DKQ         1                   1    
+IK2ZJN         1                   1    
+HB0/HB9AMO     1                   1    
+HL2FHW         1                   1    
+GW3JX          1                   1    
+SP9ONY         1                   1    
+YU1EL          1                   1    
+WP4EED         1                   1    
+BG4AJB         1                   1    
+RW9UZZ         1                   1    
+UR8IF          1                   1    
+PT6CM          1                   1    
+S57UYX         1                   1    
+YCDX           1                   1    
+KP2E           1                   1    
+V44/EW1AR      1                   1    
+EZ4XX          1                   1    
+RA9R           1                   1    
+ZK1AQL         1                   1    
+VP5CGL         1                   1    
+IK4ZHH         1                   1    
+EA9ZS          1                   1    
+S56A           1                   1    
+K1UM           1                   1    
+TU5JM          1                   1    
+WP2EDD         1                   1    
+UA1KJ          1                   1    
+BY3ED          1                   1    
+HM8ABROKE      1                   1    
+R9/            1                   1    
+JM2PSC         1                   1    
+ZA/OH2PP       1                   1    
+PF/VE7SV       1                   1    
+CP1FF          1                   1    
+KX1XX          1                   1    
+EC8AUA         1                   1    
+JH9KVF         1                   1    
+IT9ECA         1                   1    
+VP9/W4OV/P     1                   1    
+UA0SMF         1                   1    
+JA3YRR         1                   1    
+DL1NSG         1                   1    
+JA7YA          1                   1    
+EA1BD          1                   1    
+RK6CM          1                   1    
+PY2GZ          1                   1    
+G4AWA          1                   1    
+H3NR           1                   1    
+OH2V           1                   1    
+HB9O           1                   1    
+N0IJ           1                   1    
+LZ1A           1                   1    
+LR7            1                   1    
+NQ54           1                   1    
+EA4EA          1                   1    
+H              1                   1    
+TI3NR          1                   1    
+W3GM           1                   1    
+9G5JH          1                   1    
+J55E           1                   1    
+N6KN           1                   1    
+21DX           1                   1    
+HC2L           1                   1    
+7K1NCP         1                   1    
+E3RM           1                   1    
+RK2LWZ         1                   1    
+S52SWBROKE     1                   1    
+VERNE          1                   1    
+UA4NCI         1                   1    
+KU2M           1                   1    
+HL5UOG         1                   1    
+N2GM           1                   1    
+WL7AF          1                   1    
+OU4UN          1                   1    
+RW0AQ          1                   1    
+VY2ZR          1                   1    
+CORR           1                   1    
+EA7BU          1                   1    
+JF1JPC         1                   1    
+NQ4            1                   1    
+HB9AOU         1                   1    
+EU1SA          1                   1    
+IZ4ZFW         1                   1    
+VE9MY          1                   1    
+HA7RC          1                   1    
+T303           1                   1    
+JA2RGW         1                   1    
+G4UDU          1                   1    
+YL2BJ          1                   1    
+UA4ACP         1                   1    
+XE1J           1                   1    
+JR5XPG         1                   1    
+7Q7HB          1                   1    
+DL5IC          1                   1    
+YP3U           1                   1    
+NE2I           1                   1    
+EA1BIM         1                   1    
+IH9HPI         1                   1    
+UA4CCC         1                   1    
+W3MF           1                   1    
+ON4UM          1                   1    
+JA4KW          1                   1    
+JQ1GNT         1                   1    
+C32T           1                   1    
+K4GNY          1                   1    
+TM2M           1                   1    
+9A4RV          1                   1    
+F1BAV          1                   1    
+VP9/W9OV       1                   1    
+DC2SYI         1                   1    
+JA1YFC         1                   1    
+KB4QLZ         1                   1    
+AB0YW          1                   1    
+UT5IZE         1                   1    
+RK6CK          1                   1    
+BF245          1                   1    
+VI2IM          1                   1    
+VE2CQ          1                   1    
+LR1J           1                   1    
+N7VZU          1                   1    
+JQ2GYU         1                   1    
+JA3BUC         1                   1    
+PA9JB          1                   1    
+9M2/G4ZFX      1                   1    
+UE9CDC         1                   1    
+OT2L           1                   1    
+JP1JIP/7       1                   1    
+W6RCL          1                   1    
+RZ4AG          1                   1    
+ZS'U           1                   1    
+F6EXV          1                   1    
+9V1VC          1                   1    
+RA1OJ          1                   1    
+DF0CQ          1                   1    
+PJ2P           1                   1    
+HG8K           1                   1    
+K5AM           1                   1    
+S53OT          1                   1    
+K7X            1                   1    
+ZX2S           1                   1    
+N5LZ           1                   1    
+K5GN           1                   1    
+9M2/G4XFE      1                   1    
+F4DXX          1                   1    
+5B4AJK         1                   1    
+FY1DW          1                   1    
+UA9QA          1                   1    
+5B2/AJ2O       1                   1    
+M3ESM          1                   1    
+PA7            1                   1    
+5ZR/YT1CS      1                   1    
+AC5AMK         1                   1    
+EA7MM          1                   1    
+JA2KKI         1                   1    
+F5MSB          1                   1    
+DE4SBO         1                   1    
+GD0KDS         1                   1    
+S52SW          1                   1    
+EA0IE          1                   1    
+EC1DMP         1                   1    
+HA1CW          1                   1    
+DX2SYI         1                   1    
+NN3Q           1                   1    
+YV2ZM          1                   1    
+JA8YYY         1                   1    
+F6CLQ          1                   1    
+KH6LC          1                   1    
+K5RR           1                   1    
+IQ2GA          1                   1    
+LZ1QI          1                   1    
+PI9DX          1                   1    
+HK3JRL         1                   1    
+K3TEJ          1                   1    
+ES1QD          1                   1    
+DE4SOB         1                   1    
+VQ9AG          1                   1    
+GI3DZE         1                   1    
+SV3AQR         1                   1    
+EK6KK          1                   1    
+RA0LA          1                   1    
+T4A            1                   1    
+LA1K           1                   1    
+BY6BY          1                   1    
+ZU1CW          1                   1    
+HI3TIJ         1                   1    
+O              1                   1    
+F6DJU          1                   1    
+UA6LUQ         1                       1
+IZ2PGX         1                       1
+GI4VIV         1                       1
+F6EOS          1                       1
+VE7FO          1                       1
+ZP5RA          1                       1
+AJ3G           1                       1
+UR5IFB         1                       1
+PY5PDJ         1                       1
+KG1E           1                       1
+4X4MU          1                       1
+PY2XC          1                       1
+ITEYA          1                       1
+HR3NR          1                       1
+RZ1QZZ         1                       1
+5H3HQ          1                       1
+DL1MAX         1                       1
+T98Q           1                       1
+IQ3GA          1                       1
+PY2ZEG         1                       1
+JO7JMB         1                       1
+ZP5SAT         1                       1
+UN2M           1                       1
+9Y1VC          1                       1
+RA6GW          1                       1
+FJ8IF          1                       1
+UT7QL          1                       1
+DA0IJM         1                       1
+LU4MM          1                       1
+UR5HAC         1                       1
+CU2A           1                       1
+N4CW/1         1                       1
+JL1JHN         1                       1
+UV5U           1                       1
+OH2BH/ZA       1                       1
+LT1T           1                       1
+YI1KT          1                       1
+EK6TA£         1                       1
+ON4ADZ         1                       1
+YC9WCJ         1                       1
+VM0MM          1                       1
+JF2JWW         1                       1
+9Y4EZ          1                       1
+NA2A           1                       1
+OK4W           1                       1
+YO5P           1                       1
+SP8QED         1                       1
+NJ2F           1                       1
+F8DYD          1                       1
+HL0ECL         1                       1
+W3GG           1                       1
+WH2RU/KP4      1                       1
+F5TVG          1                       1
+JE1CQT         1                       1
+W8DX           1                       1
+N4B            1                       1
+IT9ORA         1                       1
+UW2ZM          1                       1
+G3FPQ          1                       1
+N4PQX          1                       1
+BV6HY          1                       1
+OT4W           1                       1
+EA8TE          1                       1
+VO1MPDX        1                       1
+YY5RAD         1                       1
+M0NBY          1                       1
+HP1XBS         1                       1
+T2K4J          1                       1
+HZ0ZEE         1                       1
+CE5BSS         1                       1
+IZ1ASN         1                       1
+EA7RY          1                       1
+UA9OS          1                       1
+S45K           1                       1
+UR4IGP         1                       1
+FJ5IJ          1                       1
+OE5GWP         1                       1
+CT/DL4IC       1                       1
+LA9VAD         1                       1
+ZA1MAR         1                       1
+IZ3UNA         1                       1
+H6N            1                       1
+UA0BA          1                       1
+5B4PRCSH/DX    1                       1
+RL2F           1                       1
+PA5KT          1                       1
+VR6BG          1                       1
+5Z4/YZ1CS      1                       1
+N              1                       1
+JQ2IGW         1                       1
+3D2ER          1                       1
+KV5A           1                       1
+VE1JL          1                       1
+W6KNB          1                       1
+ZL2LE          1                       1
+BH0F           1                       1
+OH2BP          1                       1
+SQ9HQ          1                       1
+5B/I0BP        1                       1
+YV1EJ          1                       1
+KH2RU/KP       1                       1
+KG6GX          1                       1
+ET3SA          1                       1
+HB3XBS         1                       1
+ZS6AW          1                       1
+JA2JYW         1                       1
+N3MX           1                       1
+VR2XLN         1                       1
+JA4BS          1                       1
+OE380XRW       1                       1
+YZ1AA          1                       1
+RN9XX          1                       1
+UY5ZZ          1                       1
+PY5CGL         1                       1
+JH4UTP         1                       1
+X99C           1                       1
+JG2TQH         1                       1
+JQ1QWA         1                       1
+HL1P           1                       1
+CX2DAM         1                       1
+JH1NBN         1                       1
+VU2AWP         1                       1
+LU5INM         1                       1
+IK7YTT         1                       1
+S54ZW          1                       1
+EA9RY          1                       1
+W1EL           1                       1
+XV7TH          1                       1
+I1NVU          1                       1
+DL5DBW         1                       1
+7K3OWN         1                       1
+FY5ZE          1                       1
+LW9HAG         1                       1
+HQ4DMR         1                       1
+VE6RI          1                       1
+VP5TKB1SO      1                       1
+ED1LW          1                       1
+RU0AE          1                       1
+CT9T           1                       1
+UY0MM          1                       1
+ZV1A           1                       1
+F5RDC          1                       1
+VE9LJF         1                       1
+JA5GPJ         1                       1
+JR0ETA         1                       1
+IS0CAK         1                       1
+PZ2A           1                       1
+5H2HK          1                       1
+PY3ML          1                       1
+S              1                       1
+EA5EJE         1                       1
+S57J           1                       1
+HI8PJP         1                       1
+0H0Z           1                       1
+EA8?           1                       1
+K0RH           1                       1
+EA3AON         1                       1
+D4A            1                       1
+AE8ZS          1                       1
+C9Z            1                       1
+YO3CZW         1                       1
+JA0EKI         1                       1
+KH2RU          1                       1
+A7HY           1                       1
+F5TMJ          1                       1
+KH2RU/KB4      1                       1
+EA3KN          1                       1
+OE80XRW        1                       1
+9G5GA          1                       1
+ST3T           1                       1
+YA8X           1                       1
+YA7A           1                       1
+DS2POP         1                       1
+ZA/ON2BH/BUS   1                       1
+IK2ULV         1                       1
+DL7BY          1                       1
+XE2UAB         1                       1
+FM5WE          1                       1
+BG9TNO         1                       1
+JH6FTJ         1                       1
+T48UK          1                       1
+JR9OPJ         1                       1
+NC8V           1                       1
+YB5QB          1                       1
+ZA/PH2BH       1                       1
+RA3AUM         1                       1
+JE1RXJ         1                       1
+DW3HWS         1                       1
+LU9MB          1                       1
+HC2T           1                       1
+JA1CJP         1                       1
+DS3HWS         1                       1
+LY3BH          1                       1
+F8CMF          1                       1
+W1DUK          1                       1
+PW8FNS         1                       1
+PW7Z           1                       1
+ON4ON          1                       1
+JO1ZYW         1                       1
+FR5IZ          1                       1
+HB8L           1                       1
+FS/P/AH8DX     1                       1
+EA3DU          1                       1
+VK6XD          1                       1
+SP6EQZ/9       1                       1
+ED2EBI         1                       1
+HA1KSA         1                       1
+VE5FI          1                       1
+WP2E           1                       1
+4L2AM          1                       1
+UN5G           1                       1
+VL0NJ          1                       1
+WC4E           1                       1
+DJ3YA          1                       1
+UN7GU          1                       1
+K0HW           1                       1
+9G1GO          1                       1
+3V8SF          1                       1
+YO4ATW         1                       1
+DL5XJ          1                       1
+8PIA           1                       1
+YY5AGT         1                       1
+YU9VK          1                       1
+IZ2FOS         1                       1
+UAAYA          1                       1
+HA8RU          1                       1
+W1YY/7         1                       1
+RW3QO          1                       1
+LU8EY          1                       1
+W7WW           1                       1
+W8YX           1                       1
+KC5DUC         1                       1
+JA3YNK         1                       1
+N4HN           1                       1
+VK4TI          1                       1
+RA9WTR         1                       1
+HQ5DMR         1                       1
+OZ1DA          1                       1
+LU1CM          1                       1
+5G9W           1                       1
+XE2/K5ZS       1                       1
+ZZ1NG          1                       1
+K4YT           1                       1
+JR6EA          1                       1
+IK0EIE         1                       1
+KP4/KH2RU      1                       1
+RA3ZZ          1                       1
+YB1AR          1                       1
+OE5JTL         1                       1
+TI7Z           1                       1
+DF2KD          1                       1
+KJ4A           1                       1
+J79J           1                       1
+OM5FA          1                       1
+IK4IEE         1                       1
+F8DBF          1                       1
+DM7Z           1                       1
+AU6HON         1                       1
+CUAF           1                       1
+9K2KC          1                       1
+WE2A           1                       1
+EE5RED         1                       1
+GW0RYT         1                       1
+W1RY           1                       1
+N8OL           1                       1
+9J6SZ          1                       1
+SRI            1                       1
+YO6BHN         1                       1
+L44A           1                       1
+W1AJT/VE3      1                       1
+A6AAJ          1                       1
+IQ8LR          1                       1
+W1XZ           1                       1
+JT1CH          1                       1
+LA4ZB          1                       1
+YI39OM         1                       1
+UY0IR          1                       1
+N6CCE          1                       1
+N3RC           1                       1
+PP4MQ          1                       1
+JA3LFK         1                       1
+SU9N           1                       1
+CX7AJH         1                       1
+JA2ZJY         1                       1
+OL7C           1                       1
+K0AXX          1                       1
+VP             1                       1
+UA9UR          1                       1
+TM3S           1                       1
+K4ZV           1                       1
+HP2XBS         1                       1
+K4ADR          1                       1
+N6QQ           1                       1
+D4T            1                       1
+VK3APG         1                       1
+AB9H           1                       1
+KG9N           1                       1
+PJ7/K2TC       1                       1
+KN5G           1                       1
+NNP3U          1                       1
+LU8OET         1                       1
+LU1TF          1                       1
+DL5RBW         1                       1
+EA2BNU         1                       1
+JA6RCH         1                       1
+ZS6H           1                       1
+5H3HG          1                       1
+DF1DX          1                       1
+Z36MW          1                       1
+PY2T           1                       1
+JH7RTQ         1                       1
+LU1XM          1                       1
+YY4BCD         1                       1
+W4ZW           1                       1
+FG/K8NW        1                       1
+ZS4GMW         1                       1
+DJ5MK          1                       1
+VE3SK          1                       1
+ZP5ZLP         1                       1
+DL8NY          1                       1
+DL5MC          1                       1
+RX3OM          1                       1
+NJ7I           1                       1
+A51YL          1                       1
+Y39OM          1                       1
+N6PEQ          1                       1
+EI2E           1                       1
+N5JB           1                       1
+SV1LG          1                       1
+NH6WZ          1                       1
+YV1E           1                       1
+TC2KJ          1                       1
+LU4A           1                       1
+N4NZ           1                       1
+VO1U           1                       1
+EA4KB          1                       1
+WA6CWM         1                       1
+EA5AGX         1                       1
+EA7TG          1                       1
+N6WS           1                       1
+EA1WZ          1                       1
+FG5RH          1                       1
+VE3AA          1                       1
+CU2X           1                       1
+YY4ALP         1                       1
+HC2OT          1                       1
+IK5AFJ         1                       1
+AH6F           1                       1
+JN1JFC         1                       1
+VP2Z           1                       1
+F5OZF          1                       1
+RW6HJV/6       1                       1
+VQ3C           1                       1
+N0UU           1                       1
+KC3MR          1                       1
+JU9DX          1                       1
+VP2T           1                       1
+LU6EDB         1                       1
+ZS5GMV         1                       1
+ZS6GMW         1                       1
+JF2QNM         1                       1
+CE3GV          1                       1
+SS5SAM         1                       1
+F8A            1                       1
+DL2F           1                       1
+DL4GBA         1                       1
+JA6EFT         1                       1
+JH1ZWT         1                       1
+K7RC           1                       1
+N1BCL          1                       1
+ZS6BZR         1                       1
+JA6BGA         1                       1
+M0WLG          1                       1
+M0M            1                       1
+4N0V           1                       1
+PY2WBY         1                       1
+VK3DXI         1                       1
+TC2K4JTC2K4J   1                       1
+OA0A           1                       1
+DK1NO          1                       1
+FM5DH          1                       1
+UA0AKY         1                       1
+9H1DY          1                       1
+CA2VDQ         1                       1
+JR5IAH         1                       1
+N2NB           1                       1
+LUFDG          1                       1
+3B9FR          1                       1
+W8BIN          1                       1
+IR2X           1                       1
+3HIP           1                       1
+P44W           1                       1
+9V1CC          1                       1
+YL2SW          1                       1
+HI3EJ          1                       1
+W9WI           1                       1
+A61AJJ         1                       1
+F8AAN          1                       1
+AP1A           1                       1
+LZ2PB          1                       1
+NH7U           1                       1
+IZ6ELF         1                       1
+V331MD         1                       1
+ELK6GB         1                       1
+PJ2J           1                       1
+6U7JB          1                       1
+JE1SLP         1                       1
+RK9WV          1                       1
+AH6HH          1                       1
+FP/VE7SU       1                       1
+LU3EML         1                       1
+UZ4E           1                       1
+CX5AV          1                       1
+LU9HF          1                       1
+LT7H           1                       1
+VP9/W43OV      1                       1
+JA1SLP         1                       1
+FP7VE7SV       1                       1
+JG0TCL         1                       1
+RW3WW          1                       1
+8P6A           1                       1
+PY3SBY         1                       1
+JA3LFK/QRP     1                       1
+9Y4C           1                       1
+DL0UI          1                       1
+KB1SO          1                       1
+IQ5AFJ         1                       1
+JA4GXX         1                       1
+OH6GDX         1                       1
+K0FX           1                       1
+RZ9SR          1                       1
+LU7FCV         1                       1
+VE2AUB         1                       1
+LU7H           1                       1
+EA7JB          1                       1
+F6KNL          1                       1
+FJ6IF          1                       1
+EA8/OL8R       1                       1
+5K3HK          1                       1
+RW9RA          1                       1
+L44D           1                       1
+LU9MUB         1                       1
+RX6AM          1                       1
+JO1WUL         1                       1
+EA8AD          1                       1
+KG9DX          1                       1
+HG6DX          1                       1
+DL3SWS         1                       1
+DJ0SU          1                       1
+PY2RS          1                       1
+JS1NDM         1                       1
+EA2RU          1                       1
+CN8NG          1                       1
+VE2AWN         1                       1
+EA4DBS         1                       1
+UR9MC          1                       1
+EA8BMH         1                       1
+LU9DAJ         1                       1
+XE2ML          1                       1
+VY2AA          1                       1
+DU2YA          1                       1
+I2MQP          1                       1
+EW2AA          1                       1
+HS8AC/P        1                       1
+PY5IP          1                       1
+EA7ST          1                       1
+W1RZF          1                       1
+W0JR/4         1                       1
+OP             1                       1
+LU2HIP         1                       1
+CX8DXM         1                       1
+VR2RG          1                       1
+KQ6PK          1                       1
+ST6T           1                       1
+YI1OM          1                       1
+LU7HWM         1                       1
+K1VDF          1                       1
+KH6DX          1                       1
+9J2SJ          1                       1
+YO9WF          1                       1
+K2TE           1                       1
+KH7            1                       1
+7S2W           1                       1
+G4NXG          1                       1
+N5ZK           1                       1
+OH6OS          1                       1
+8K1A           1                       1
+TE1Y           1                       1
+ST2T1          1                       1
+W4ZC           1                       1
+K0TT           1                       1
+ZX7C           1                       1
+DK4QN          1                       1
+VE7TT          1                       1
+EA4DAB         1                       1
+5ZYT1CS        1                       1
+DL0FR          1                       1
+CU2AE          1                       1
+DF4RI          1                       1
+L25H           1                       1
+SM0NCL/3/B     1                       1
+VK4WPX         1                       1
+EA1FBU         1                       1
+JA2BHJ         1                       1
+LU2FC          1                       1
+OD5UG          1                       1
+LU1HUH         1                       1

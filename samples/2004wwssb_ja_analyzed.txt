@@ -1,0 +1,1586 @@
+ 28435.8  JI1KXL      31-Oct-2004 2357Z                               <W7YED>
+ 28353.7  JA7YRR      31-Oct-2004 2356Z                                <K0XD>
+ 21272.8  JE1ZWT      31-Oct-2004 2356Z                              <XE2JSP>
+ 28421.4  JH0HQP      31-Oct-2004 2356Z                                <K0XD>
+ 28488.6  JA3YBK      31-Oct-2004 2356Z                               <W7YED>
+ 14150.0  JG2KKG      31-Oct-2004 2355Z                                <N3AD>
+ 14222.9  JI1FDF      31-Oct-2004 2355Z                                <KS3F>
+ 21317.0  JA3BOA      31-Oct-2004 2355Z                                <W0EK>
+ 28388.8  JG2SON      31-Oct-2004 2356Z                               <W6ZZZ>
+ 21387.3  JA7NVF      31-Oct-2004 2354Z                               <XE2AC>
+ 21428.1  JF1VVR      31-Oct-2004 2354Z                                <W3PT>
+ 28526.8  JH1AGU      31-Oct-2004 2354Z                               <W7YED>
+ 28350.0  JA6EFT      31-Oct-2004 2353Z                              <KE5CTY>
+ 28554.6  JA1CJP      31-Oct-2004 2353Z                               <W7YED>
+ 28622.3  JI2ZJS      31-Oct-2004 2352Z                               <W7YED>
+ 28638.0  JH1OCC      31-Oct-2004 2351Z                               <W7YED>
+ 21325.6  JA3YBK      31-Oct-2004 2350Z                                <K7ZO>
+ 28586.6  7L1JHN      31-Oct-2004 2350Z                               <W7YED>
+ 28573.0  JA3USA      31-Oct-2004 2349Z                               <W7YED>
+ 14181.9  JJ1ZNF      31-Oct-2004 2349Z                                <N3AD>
+ 21425.0  JK1UVP      31-Oct-2004 2352Z                                <KL7R>
+ 21347.0  7K1NCP      31-Oct-2004 2349Z                                <WC7V>
+ 14342.6  JA7YRR      31-Oct-2004 2350Z                               <W2IRT>
+ 21439.0  JA2BNN      31-Oct-2004 2351Z                                <KL7R>
+ 28444.1  JO1ZYI      31-Oct-2004 2347Z                               <W7YED>
+ 14342.6  JA7YRR      31-Oct-2004 2346Z  Loud                          <N3AD>
+ 21293.1  JI2UNR      31-Oct-2004 2346Z                              <XE2JSP>
+ 28350.0  JM1NKT      31-Oct-2004 2346Z                              <KE5CTY>
+ 28353.8  JA7YRR      31-Oct-2004 2347Z                                <KL7R>
+ 14291.2  JA8RWU      31-Oct-2004 2342Z  calling cq easy contact       <N1MQ>
+ 21431.8  JS3CTQ      31-Oct-2004 2342Z                              <WA8CDU>
+ 28622.7  JI2ZJS      31-Oct-2004 2342Z                                <K5WW>
+ 28430.0  JA7OWD      31-Oct-2004 2344Z                                <KL7R>
+ 21434.8  JA2ZJW      31-Oct-2004 2341Z                              <WA8CDU>
+ 28628.1  JA3LFK/QRP  31-Oct-2004 2342Z  CQ CQ                         <W6KY>
+ 21421.9  JA3USA      31-Oct-2004 2341Z                                <KL7R>
+ 28488.8  JA3YBK      31-Oct-2004 2339Z                                <K5WW>
+ 21415.0  JG3UOB/1    31-Oct-2004 2341Z                                <KL7R>
+ 21393.0  JR3RIY      31-Oct-2004 2340Z                                <KL7R>
+ 21317.0  JA3BOA      31-Oct-2004 2338Z                                <K7ZO>
+ 21379.9  JA5BJC      31-Oct-2004 2340Z                                <KL7R>
+ 28436.1  JI1KXL      31-Oct-2004 2338Z                                <K5WW>
+ 21415.1  JG3UOB/1    31-Oct-2004 2337Z                                <AA7A>
+ 21360.8  JA9SCB/1    31-Oct-2004 2339Z                                <KL7R>
+ 21350.0  JR1MQT      31-Oct-2004 2336Z                              <WA8CDU>
+ 21389.9  JA5BJC      31-Oct-2004 2335Z                              <WA8CDU>
+ 28350.0  JH1ZWT      31-Oct-2004 2334Z  59 IN TEXAS TNX             <KE5CTY>
+ 28575.0  JA4GXX      31-Oct-2004 2334Z                               <W7YED>
+ 21363.0  JA7YRR      31-Oct-2004 2332Z                              <WA8CDU>
+ 14314.0  JI1FDF      31-Oct-2004 2331Z                                <AA3B>
+ 28350.0  JH0RNN      31-Oct-2004 2329Z  59 TEXAS TNX                <KE5CTY>
+ 21273.1  JA3NTE      31-Oct-2004 2330Z                                <KL7R>
+ 14342.7  JA7YRR      31-Oct-2004 2327Z                                <AA3B>
+ 28599.3  JE1MMX      31-Oct-2004 2328Z                                <K6GT>
+ 21284.2  JA1CG       31-Oct-2004 2329Z                                <KL7R>
+ 21293.2  JI2UNR      31-Oct-2004 2329Z                                <KL7R>
+ 28567.1  JR1AIB      31-Oct-2004 2326Z                                <K6GT>
+ 28526.9  JH1AGU      31-Oct-2004 2326Z                                <K5NA>
+ 21325.8  JA3YBK      31-Oct-2004 2326Z                                <KL7R>
+ 21338.9  JR3NZC      31-Oct-2004 2326Z                                <KL7R>
+ 28580.0  JM1NKT      31-Oct-2004 2323Z                                <K5NA>
+ 21350.0  JR1MQT      31-Oct-2004 2325Z                                <KL7R>
+ 21363.1  JA7YRR      31-Oct-2004 2324Z                                <KL7R>
+ 21372.5  JA1PCY      31-Oct-2004 2324Z                                <KL7R>
+ 28586.5  7L1JHN      31-Oct-2004 2322Z                                <K5NA>
+ 21379.6  JA5BJC      31-Oct-2004 2324Z                                <KL7R>
+ 28350.0  JE1ZWT      31-Oct-2004 2320Z  59 TEXAS T/U                <KE5CTY>
+ 21319.7  JJ1ZNF      31-Oct-2004 2321Z                              <YV1DIG>
+ 21319.7  JJ1DNF      31-Oct-2004 2320Z                              <YV1DIG>
+ 21293.2  JA2UNR      31-Oct-2004 2320Z  cqww2004                     <PP5ZP>
+ 21385.1  7K4XNN      31-Oct-2004 2323Z                                <KL7R>
+ 14170.0  JG2KKG      31-Oct-2004 2320Z                                <W7VJ>
+ 28599.4  JE1MMX      31-Oct-2004 2320Z                                <K5NA>
+ 14291.0  JA8RWU      31-Oct-2004 2318Z                              <WB2KSI>
+ 14217.0  JA5BJC      31-Oct-2004 2318Z                              <PT2CSM>
+ 21399.0  JI2ZJS      31-Oct-2004 2322Z                                <KL7R>
+ 21247.2  JI2KXK      31-Oct-2004 2318Z  cqww2004                     <PP5ZP>
+ 21422.6  JA3USA      31-Oct-2004 2320Z                                <KL7R>
+ 28369.0  JH6FTJ      31-Oct-2004 2317Z                                <K6GT>
+ 28577.1  JA5GPJ      31-Oct-2004 2316Z                                <K5NA>
+ 28532.1  JO7KMB      31-Oct-2004 2312Z                                <AE9B>
+ 28599.4  JE1MMX      31-Oct-2004 2314Z                               <XE2AC>
+ 14320.5  JI1FDF      31-Oct-2004 2317Z                                <KL7R>
+ 28353.7  JA7YRR      31-Oct-2004 2314Z                                <K3II>
+ 21418.0  7M2PSC      31-Oct-2004 2313Z  Correction                    <K7ZO>
+ 14299.7  JA7YRR      31-Oct-2004 2316Z                                <KL7R>
+ 21387.2  JA7NVF      31-Oct-2004 2313Z  Naomi                         <WX3B>
+ 28567.1  JR1AIB      31-Oct-2004 2314Z                                <K5NA>
+ 21439.1  JA2BNN      31-Oct-2004 2312Z                                <W3PP>
+ 14217.2  JA5BJC      31-Oct-2004 2303Z  strong eastcoast              <W8ZA>
+ 14217.4  JA5BJC      31-Oct-2004 2314Z                                <KL7R>
+ 28526.8  JH1AGU      31-Oct-2004 2312Z                                <K5NA>
+ 21418.0  JM2PSC      31-Oct-2004 2310Z                                <W3PT>
+ 14185.8  JA3YBK      31-Oct-2004 2311Z                                <KL7R>
+ 28444.0  JO1ZYW      31-Oct-2004 2307Z                                <AE9B>
+ 21431.9  JS3CTQ      31-Oct-2004 2308Z                                <W3PT>
+ 28388.8  JG2SON      31-Oct-2004 2308Z                               <VA3DX>
+ 28429.7  JA7OWD      31-Oct-2004 2305Z                                <AE9B>
+ 28473.2  JO7KMB      31-Oct-2004 2308Z                                <K6GT>
+ 21244.2  JF1JPC      31-Oct-2004 2306Z                                <N4WW>
+ 21421.1  JE1ZWT      31-Oct-2004 2306Z                               <K6OWL>
+ 14291.1  JA8RWU      31-Oct-2004 2309Z                                <KL7R>
+ 28388.7  JG2SON      31-Oct-2004 2303Z                                <AE9B>
+ 28350.0  JH0HQP      31-Oct-2004 2301Z                                <AE9B>
+ 28520.0  JH1UUT      31-Oct-2004 2303Z                               <WR0DK>
+ 28537.0  JA7DY       31-Oct-2004 2304Z                                <K5NA>
+ 21439.0  JA2BNN      31-Oct-2004 2300Z                              <WB5WFJ>
+ 21338.3  JR3NZC      31-Oct-2004 2259Z                               <KE1IH>
+ 21293.1  JI2UNR      31-Oct-2004 2258Z                                <KB1H>
+ 21258.8  JA3NTE      31-Oct-2004 2258Z                               <K7EMI>
+ 21167.0  JH0RNN      31-Oct-2004 2257Z                              <YV1DIG>
+ 28342.0  JE1ZWT      31-Oct-2004 2257Z  cqww2004                     <PP5ZP>
+ 28353.6  JA7YRR      31-Oct-2004 2256Z  cqww2004                     <PP5ZP>
+ 21266.9  JH5AVM      31-Oct-2004 2256Z                                <K3MD>
+ 21208.6  JA4XY       31-Oct-2004 2254Z                                <W7GG>
+ 21317.0  JA3BOA      31-Oct-2004 2252Z  loud                         <W4JVN>
+ 21389.7  7K4XNN      31-Oct-2004 2252Z                                <K7ZO>
+ 21385.3  JA1VND      31-Oct-2004 2252Z                                <K7ZO>
+ 21379.7  JA5BJC      31-Oct-2004 2251Z                                <K3MD>
+ 21398.9  JI2ZJS      31-Oct-2004 2250Z                                <K3MD>
+ 21350.0  JR1MQT      31-Oct-2004 2248Z                                <AA3B>
+ 21338.3  JR3NZC      31-Oct-2004 2248Z                               <K6OWL>
+ 28542.0  7K3OWM      31-Oct-2004 2246Z                               <N9KNP>
+ 21325.6  JA3YBK      31-Oct-2004 2246Z                              <YV1DIG>
+ 28586.4  7L1JHN      31-Oct-2004 2246Z                                <AB5K>
+ 21379.5  JA5BJC      31-Oct-2004 2245Z                               <K6OWL>
+ 14291.2  JA8RWU      31-Oct-2004 2245Z                               <W3LPL>
+ 28388.7  JG2SON      31-Oct-2004 2244Z                                <NM5H>
+ 21365.0  JI3VUB      31-Oct-2004 2244Z                                <AA3B>
+ 21319.8  JJ1ZNF      31-Oct-2004 2244Z                              <YV1DIG>
+ 21402.7  JR3RIY      31-Oct-2004 2243Z                                <AA3B>
+ 21375.0  JA9SCB/1    31-Oct-2004 2243Z                                <AA3B>
+ 28561.0  JA7DY       31-Oct-2004 2242Z  cqww2004                     <PP5ZP>
+ 21435.9  JA3USA      31-Oct-2004 2241Z                                <N0AT>
+ 21293.2  JI2UNR      31-Oct-2004 2241Z                              <YV1DIG>
+ 28471.4  JO1ZYI      31-Oct-2004 2238Z                               <PP5ZP>
+ 21349.9  JR1MQT      31-Oct-2004 2238Z                               <K6OWL>
+ 21370.0  JA2KSI      31-Oct-2004 2237Z                               <VA3FM>
+ 21365.0  JI3VUB      31-Oct-2004 2234Z                                <KB1H>
+ 21402.6  JR3RIY      31-Oct-2004 2236Z                               <AK7AT>
+ 21363.0  JA7YRR      31-Oct-2004 2232Z                                <K3MD>
+ 21372.4  JA1PCY      31-Oct-2004 2231Z                                <K3MD>
+ 28388.7  JG2SON      31-Oct-2004 2231Z                                <K5NZ>
+ 21375.0  JA9SCB/1    31-Oct-2004 2231Z                                <K3MD>
+ 21191.6  JI2KXK      31-Oct-2004 2228Z                              <YV1DIG>
+ 21317.0  JA3BOA      31-Oct-2004 2227Z                                <NK7Z>
+ 28526.9  JH1AGU      31-Oct-2004 2224Z                               <PP5ZP>
+ 21370.3  JA2KSI      31-Oct-2004 2224Z                                <W2YR>
+ 28488.5  JA3YBK      31-Oct-2004 2223Z                                <N4WW>
+ 28577.2  JG2TQH      31-Oct-2004 2223Z                               <PP5ZP>
+ 28350.0  JH0RNN      31-Oct-2004 2329Z  59 TEXAS TNX                <KE5CTY>
+ 21273.1  JA3NTE      31-Oct-2004 2330Z                                <KL7R>
+ 14342.7  JA7YRR      31-Oct-2004 2327Z                                <AA3B>
+ 28599.3  JE1MMX      31-Oct-2004 2328Z                                <K6GT>
+ 21284.2  JA1CG       31-Oct-2004 2329Z                                <KL7R>
+ 21293.2  JI2UNR      31-Oct-2004 2329Z                                <KL7R>
+ 28567.1  JR1AIB      31-Oct-2004 2326Z                                <K6GT>
+ 28526.9  JH1AGU      31-Oct-2004 2326Z                                <K5NA>
+ 21325.8  JA3YBK      31-Oct-2004 2326Z                                <KL7R>
+ 21338.9  JR3NZC      31-Oct-2004 2326Z                                <KL7R>
+ 28580.0  JM1NKT      31-Oct-2004 2323Z                                <K5NA>
+ 21350.0  JR1MQT      31-Oct-2004 2325Z                                <KL7R>
+ 21363.1  JA7YRR      31-Oct-2004 2324Z                                <KL7R>
+ 21372.5  JA1PCY      31-Oct-2004 2324Z                                <KL7R>
+ 28586.5  7L1JHN      31-Oct-2004 2322Z                                <K5NA>
+ 21379.6  JA5BJC      31-Oct-2004 2324Z                                <KL7R>
+ 28350.0  JE1ZWT      31-Oct-2004 2320Z  59 TEXAS T/U                <KE5CTY>
+ 21319.7  JJ1ZNF      31-Oct-2004 2321Z                              <YV1DIG>
+ 21319.7  JJ1DNF      31-Oct-2004 2320Z                              <YV1DIG>
+ 21293.2  JA2UNR      31-Oct-2004 2320Z  cqww2004                     <PP5ZP>
+ 21385.1  7K4XNN      31-Oct-2004 2323Z                                <KL7R>
+ 14170.0  JG2KKG      31-Oct-2004 2320Z                                <W7VJ>
+ 28599.4  JE1MMX      31-Oct-2004 2320Z                                <K5NA>
+ 14291.0  JA8RWU      31-Oct-2004 2318Z                              <WB2KSI>
+ 14217.0  JA5BJC      31-Oct-2004 2318Z                              <PT2CSM>
+ 21399.0  JI2ZJS      31-Oct-2004 2322Z                                <KL7R>
+ 21247.2  JI2KXK      31-Oct-2004 2318Z  cqww2004                     <PP5ZP>
+ 21422.6  JA3USA      31-Oct-2004 2320Z                                <KL7R>
+ 28369.0  JH6FTJ      31-Oct-2004 2317Z                                <K6GT>
+ 28577.1  JA5GPJ      31-Oct-2004 2316Z                                <K5NA>
+ 28532.1  JO7KMB      31-Oct-2004 2312Z                                <AE9B>
+ 28599.4  JE1MMX      31-Oct-2004 2314Z                               <XE2AC>
+ 14320.5  JI1FDF      31-Oct-2004 2317Z                                <KL7R>
+ 28353.7  JA7YRR      31-Oct-2004 2314Z                                <K3II>
+ 21418.0  7M2PSC      31-Oct-2004 2313Z  Correction                    <K7ZO>
+ 14299.7  JA7YRR      31-Oct-2004 2316Z                                <KL7R>
+ 21387.2  JA7NVF      31-Oct-2004 2313Z  Naomi                         <WX3B>
+ 28567.1  JR1AIB      31-Oct-2004 2314Z                                <K5NA>
+ 21439.1  JA2BNN      31-Oct-2004 2312Z                                <W3PP>
+ 14217.2  JA5BJC      31-Oct-2004 2303Z  strong eastcoast              <W8ZA>
+ 14217.4  JA5BJC      31-Oct-2004 2314Z                                <KL7R>
+ 28526.8  JH1AGU      31-Oct-2004 2312Z                                <K5NA>
+ 21418.0  JM2PSC      31-Oct-2004 2310Z                                <W3PT>
+ 14185.8  JA3YBK      31-Oct-2004 2311Z                                <KL7R>
+ 28444.0  JO1ZYW      31-Oct-2004 2307Z                                <AE9B>
+ 21431.9  JS3CTQ      31-Oct-2004 2308Z                                <W3PT>
+ 28388.8  JG2SON      31-Oct-2004 2308Z                               <VA3DX>
+ 28429.7  JA7OWD      31-Oct-2004 2305Z                                <AE9B>
+ 28473.2  JO7KMB      31-Oct-2004 2308Z                                <K6GT>
+ 21244.2  JF1JPC      31-Oct-2004 2306Z                                <N4WW>
+ 21421.1  JE1ZWT      31-Oct-2004 2306Z                               <K6OWL>
+ 14291.1  JA8RWU      31-Oct-2004 2309Z                                <KL7R>
+ 28388.7  JG2SON      31-Oct-2004 2303Z                                <AE9B>
+ 28350.0  JH0HQP      31-Oct-2004 2301Z                                <AE9B>
+ 28520.0  JH1UUT      31-Oct-2004 2303Z                               <WR0DK>
+ 28537.0  JA7DY       31-Oct-2004 2304Z                                <K5NA>
+ 21439.0  JA2BNN      31-Oct-2004 2300Z                              <WB5WFJ>
+ 21338.3  JR3NZC      31-Oct-2004 2259Z                               <KE1IH>
+ 21293.1  JI2UNR      31-Oct-2004 2258Z                                <KB1H>
+ 21258.8  JA3NTE      31-Oct-2004 2258Z                               <K7EMI>
+ 21167.0  JH0RNN      31-Oct-2004 2257Z                              <YV1DIG>
+ 28342.0  JE1ZWT      31-Oct-2004 2257Z  cqww2004                     <PP5ZP>
+ 28353.6  JA7YRR      31-Oct-2004 2256Z  cqww2004                     <PP5ZP>
+ 21266.9  JH5AVM      31-Oct-2004 2256Z                                <K3MD>
+ 21208.6  JA4XY       31-Oct-2004 2254Z                                <W7GG>
+ 21317.0  JA3BOA      31-Oct-2004 2252Z  loud                         <W4JVN>
+ 21389.7  7K4XNN      31-Oct-2004 2252Z                                <K7ZO>
+ 21385.3  JA1VND      31-Oct-2004 2252Z                                <K7ZO>
+ 21379.7  JA5BJC      31-Oct-2004 2251Z                                <K3MD>
+ 21398.9  JI2ZJS      31-Oct-2004 2250Z                                <K3MD>
+ 21350.0  JR1MQT      31-Oct-2004 2248Z                                <AA3B>
+ 21338.3  JR3NZC      31-Oct-2004 2248Z                               <K6OWL>
+ 28542.0  7K3OWM      31-Oct-2004 2246Z                               <N9KNP>
+ 21325.6  JA3YBK      31-Oct-2004 2246Z                              <YV1DIG>
+ 28586.4  7L1JHN      31-Oct-2004 2246Z                                <AB5K>
+ 21379.5  JA5BJC      31-Oct-2004 2245Z                               <K6OWL>
+ 14291.2  JA8RWU      31-Oct-2004 2245Z                               <W3LPL>
+ 28388.7  JG2SON      31-Oct-2004 2244Z                                <NM5H>
+ 21365.0  JI3VUB      31-Oct-2004 2244Z                                <AA3B>
+ 21319.8  JJ1ZNF      31-Oct-2004 2244Z                              <YV1DIG>
+ 21402.7  JR3RIY      31-Oct-2004 2243Z                                <AA3B>
+ 21375.0  JA9SCB/1    31-Oct-2004 2243Z                                <AA3B>
+ 28561.0  JA7DY       31-Oct-2004 2242Z  cqww2004                     <PP5ZP>
+ 21435.9  JA3USA      31-Oct-2004 2241Z                                <N0AT>
+ 21293.2  JI2UNR      31-Oct-2004 2241Z                              <YV1DIG>
+ 28471.4  JO1ZYI      31-Oct-2004 2238Z                               <PP5ZP>
+ 21349.9  JR1MQT      31-Oct-2004 2238Z                               <K6OWL>
+ 21370.0  JA2KSI      31-Oct-2004 2237Z                               <VA3FM>
+ 21365.0  JI3VUB      31-Oct-2004 2234Z                                <KB1H>
+ 21402.6  JR3RIY      31-Oct-2004 2236Z                               <AK7AT>
+ 21363.0  JA7YRR      31-Oct-2004 2232Z                                <K3MD>
+ 21372.4  JA1PCY      31-Oct-2004 2231Z                                <K3MD>
+ 28388.7  JG2SON      31-Oct-2004 2231Z                                <K5NZ>
+ 21375.0  JA9SCB/1    31-Oct-2004 2231Z                                <K3MD>
+ 21191.6  JI2KXK      31-Oct-2004 2228Z                              <YV1DIG>
+ 21317.0  JA3BOA      31-Oct-2004 2227Z                                <NK7Z>
+ 28526.9  JH1AGU      31-Oct-2004 2224Z                               <PP5ZP>
+ 21370.3  JA2KSI      31-Oct-2004 2224Z                                <W2YR>
+ 28488.5  JA3YBK      31-Oct-2004 2223Z                                <N4WW>
+ 28577.2  JG2TQH      31-Oct-2004 2223Z                               <PP5ZP>
+ 28488.6  JA3YBK      31-Oct-2004 2223Z                                <K9NS>
+ 28526.8  JH1AGU      31-Oct-2004 2222Z                               <AA5NT>
+ 28521.3  JJ1LGO      31-Oct-2004 2221Z                               <PP5ZP>
+ 21325.3  JA3YBK      31-Oct-2004 2217Z                                <W3YY>
+ 21349.9  JR1AIB      31-Oct-2004 2215Z  25                          <WA2QQF>
+ 21317.1  JA3BOA      31-Oct-2004 2213Z                               <K6OWL>
+ 21372.5  JA1PCY      31-Oct-2004 2210Z                                <K1RX>
+ 28389.0  JG2SON      31-Oct-2004 2209Z  59 TEXAS TNX                <KE5CTY>
+ 21252.0  JR1BDH      31-Oct-2004 2209Z                               <W7YED>
+ 21252.0  JA9SCB/1    31-Oct-2004 2209Z                               <W7YED>
+ 21252.0  JP1JIP/7    31-Oct-2004 2208Z                               <W7YED>
+ 21252.0  JA2JTN      31-Oct-2004 2208Z                               <W7YED>
+ 28392.0  JH1AZO      31-Oct-2004 2208Z                               <W6ZZZ>
+ 21358.3  JA2ZJW      31-Oct-2004 2205Z  call correction               <W6YX>
+ 28424.0  JA7OWD      31-Oct-2004 2204Z  wow band wide open            <WQ3X>
+ 28551.6  JH7BZR      31-Oct-2004 2204Z                                <K5NA>
+ 21415.0  7M2PSC      31-Oct-2004 2203Z                               <W7YED>
+ 21324.9  JA3YBK      31-Oct-2004 2203Z                                <KB1H>
+ 28538.6  JQ1QWA      31-Oct-2004 2203Z                                <K5NA>
+ 21358.3  JA2RGW      31-Oct-2004 2201Z                               <W7YED>
+ 21439.1  JA2BNN      31-Oct-2004 2200Z                                <N3ZA>
+ 28374.6  JI2ZJS      31-Oct-2004 2159Z                                <NM5H>
+ 21293.3  JI2UNR      31-Oct-2004 2158Z                                <N1DG>
+ 21345.2  JE1ZWT      31-Oct-2004 2156Z                                <N3ZA>
+ 28638.0  JH1OCC      31-Oct-2004 2153Z                               <K1TTT>
+ 21282.4  JA1CG       31-Oct-2004 2152Z                               <W7YED>
+ 28424.0  JA7OWD      31-Oct-2004 2152Z                                <K5NA>
+ 21393.4  JA7NVF      31-Oct-2004 2151Z  super sig                     <KN5H>
+ 28532.0  JO7KMB      31-Oct-2004 2150Z                               <K1TTT>
+ 21313.4  JJ1ZNF      31-Oct-2004 2149Z                                <K1RV>
+ 14296.0  JA8RWU      31-Oct-2004 2149Z                                <K1KI>
+ 28395.5  JA3USA      31-Oct-2004 2149Z                                <K5NA>
+ 28392.1  JH1AZO      31-Oct-2004 2149Z                                <K5NA>
+ 21365.0  JI3VUB      31-Oct-2004 2147Z                               <K6OWL>
+ 21393.4  JA7NVF      31-Oct-2004 2146Z                               <VA3DX>
+ 21438.9  JA2BNN      31-Oct-2004 2145Z                                <NK7Z>
+ 21439.0  JA2BNN      31-Oct-2004 2144Z                                <AB5K>
+ 21325.0  JA3YBK      31-Oct-2004 2143Z                              <KD4POJ>
+ 21313.4  JJ1ZNF      31-Oct-2004 2142Z                               <K6OWL>
+ 28424.0  JA7OWD      31-Oct-2004 2141Z                                <K4JA>
+ 28488.5  JA3YBK      31-Oct-2004 2141Z                                <N1SZ>
+ 21361.8  JA7YRR      31-Oct-2004 2139Z                               <W5SSG>
+ 21389.2  JA7YAA      31-Oct-2004 2141Z                               <AK7AT>
+ 21362.0  JA7YRR      31-Oct-2004 2139Z                               <K6OWL>
+ 21303.2  JA1VND      31-Oct-2004 2138Z                                <N4WW>
+ 21384.0  JA2ZJW      31-Oct-2004 2137Z  yl   op                      <W5SSG>
+ 21228.8  JO1ZYI      31-Oct-2004 2137Z                                <N4ZR>
+ 28488.7  JA3YBK      31-Oct-2004 2137Z                                <K1KI>
+ 21393.5  JA7NVF      31-Oct-2004 2136Z                                <AG5W>
+ 21384.0  JA2ZJW      31-Oct-2004 2134Z  call corr                     <AG5W>
+ 21384.0  JA3ZJW      31-Oct-2004 2134Z                                <AG5W>
+ 21380.3  JA5BJC      31-Oct-2004 2132Z                                <AG5W>
+ 28353.8  JA7YRR      31-Oct-2004 2131Z                                <K1KI>
+ 21377.2  JS3CTQ      31-Oct-2004 2130Z                               <K6OWL>
+ 28551.5  JH7BZR      31-Oct-2004 2129Z                                <K5NA>
+ 21325.0  JA3YBK      31-Oct-2004 2125Z                               <PP5ZP>
+  7065.3  JA7YRR      31-Oct-2004 2117Z                               <I1RJP>
+ 21354.7  JA9IPF      31-Oct-2004 2118Z                               <K6OWL>
+ 21228.7  JO1ZYI      31-Oct-2004 2116Z                                <W6TA>
+ 21260.5  JA7NVF      31-Oct-2004 2115Z                                <W6TA>
+ 21325.0  JA3YBK      31-Oct-2004 2114Z                                <W6TA>
+ 21379.7  JA5BJC      31-Oct-2004 2109Z                                <W6TA>
+ 21244.4  JA7NVF      31-Oct-2004 2100Z                                <NK7Z>
+  3803.0  JA5BJC      31-Oct-2004 2038Z  QSX 3724                      <RL3A>
+  7031.8  JA5BJC      31-Oct-2004 2036Z                               <ON6DK>
+  7055.0  JA3YBK      31-Oct-2004 2034Z  deaf                         <DL7YS>
+  7055.3  JA3YBK      31-Oct-2004 2033Z                              <IK0LSV>
+  3803.0  JA5BJC      31-Oct-2004 2022Z  QSX 3764                     <F6BPZ>
+  7055.5  JA3YBK      31-Oct-2004 2016Z                              <IN3QCI>
+  7031.4  JA5BJC      31-Oct-2004 2015Z  z25                         <DH0GHU>
+  3803.0  JA5BJC      31-Oct-2004 2007Z  list. 3764                   <ON6DK>
+  7031.2  JA5BJC      31-Oct-2004 2000Z                               <G4UJS>
+  3804.8  JA3YBK      31-Oct-2004 1945Z  qsx 3736                      <9A4M>
+ 14322.0  JA5BJC      31-Oct-2004 1944Z  NOT BJT                      <AA5NT>
+  3803.0  JA5BJC      31-Oct-2004 1942Z  qsx 3764                      <9A4M>
+  3803.0  JA5BJC      31-Oct-2004 1940Z  qsx 3764.0                  <OE3JTB>
+  7031.2  JA5BJC      31-Oct-2004 1940Z                                <S50C>
+ 14322.0  JA5BJT      31-Oct-2004 1940Z                                <W6TA>
+  3803.0  JA5BJC      31-Oct-2004 1938Z  QSX 3764.00                  <OK1RD>
+ 14221.1  JA3YBK      31-Oct-2004 1940Z                                <KL7R>
+  3802.9  JA5BJC      31-Oct-2004 1930Z  qsx 3762                     <ON4FG>
+  7043.5  JI2ZJS      31-Oct-2004 1926Z                              <IK0LSV>
+  3804.8  JA5BJC      31-Oct-2004 1918Z                              <RA3ATX>
+  3802.8  JA5BJC      31-Oct-2004 1912Z  qsx 3762                     <ON4FG>
+ 14322.1  JA5BJC      31-Oct-2004 1907Z                                <W6YX>
+  7038.0  JA3YBK      31-Oct-2004 1904Z                               <4Z5LA>
+  7030.8  JA5BJC      31-Oct-2004 1901Z                               <LY2IJ>
+  7043.5  JI2ZJS      31-Oct-2004 1859Z  59  #25                     <OE3JTB>
+  7030.8  JA5BJC      31-Oct-2004 1847Z                                <TM2Y>
+  7042.8  JJ1ZNF      31-Oct-2004 1834Z                              <RA3ATX>
+  3803.0  JA5BJC      31-Oct-2004 1835Z  qsx 3762 59                 <SP9UPK>
+  3805.0  JA3YBK      31-Oct-2004 1832Z  QSX 3740                    <SP2EBG>
+  3804.8  JA3YBK      31-Oct-2004 1831Z  QSX 3740                      <RL3A>
+  3802.8  JA5BJC      31-Oct-2004 1830Z  QSX 3762                      <RL3A>
+  7037.9  JA3YBK      31-Oct-2004 1815Z                               <DF8AE>
+  3802.9  JA5BJC      31-Oct-2004 1813Z  3760                          <PA1T>
+  3804.5  JA3YBK      31-Oct-2004 1743Z  3726                          <S50C>
+  7071.1  JA7YAA      31-Oct-2004 1729Z  ww                           <LZ2BE>
+  7072.7  JR1AIB      31-Oct-2004 1727Z                               <DF8AE>
+  7038.0  JA3YBK      31-Oct-2004 1726Z                               <G3YYD>
+  3802.0  JA5BJC      31-Oct-2004 1722Z  3761                         <I4FYF>
+  3801.1  JI2ZJS      31-Oct-2004 1646Z  QSX 3732                      <RL3A>
+  3804.8  JA3YBK      31-Oct-2004 1645Z  QSX 3739                      <RL3A>
+  3803.0  JA5BJC      31-Oct-2004 1644Z  QSX 3759                      <RL3A>
+  7081.0  JJ1ZNF      31-Oct-2004 1643Z                              <RK3NWC>
+  7031.0  JA5BJC      31-Oct-2004 1634Z  strong!                      <ON4FG>
+  7051.0  JH1AEP      31-Oct-2004 1634Z                              <RK3NWC>
+  7072.7  JR1AIB      31-Oct-2004 1630Z                               <DF8AE>
+  7038.0  JA3YBK      31-Oct-2004 1629Z                               <G4WFQ>
+  3801.1  JI2ZJS      31-Oct-2004 1630Z  QSX 3737.0                   <DL7ON>
+  7038.0  JA3YBK      31-Oct-2004 1623Z                                <RL3A>
+  3799.9  JO1WKO      31-Oct-2004 1620Z                                <RL3A>
+  3804.8  JA3YBK      31-Oct-2004 1620Z  QSX 3733.0                   <DL7ON>
+  3802.9  JA5BJC      31-Oct-2004 1619Z  QSX 3762.0                   <DL7ON>
+  3798.8  JA7YRR      31-Oct-2004 1617Z                                <RL3A>
+  3804.9  JA3YBK      31-Oct-2004 1614Z  QSX 3733                      <RL3A>
+  3802.9  JA5BJC      31-Oct-2004 1614Z  QSX 3762                      <RL3A>
+  7086.6  JJ1ZNF      31-Oct-2004 1549Z                               <DF8AE>
+  7031.3  JA5BJC      31-Oct-2004 1546Z                               <DF8AE>
+  7046.4  JN7NVF      31-Oct-2004 1533Z  cq ww contest               <DS4EOI>
+  7048.8  JA7YRR      31-Oct-2004 1532Z  cq ww contest               <DS4EOI>
+  3804.8  JA3YBK      31-Oct-2004 1526Z  QSX 3750.00 cw ww contest 37<DS4EOI>
+  7086.5  JJ1ZNF      31-Oct-2004 1524Z                                <W6TA>
+  3804.8  JA3YBK      31-Oct-2004 1525Z  QSX 3750.0                   <DL7ON>
+  7037.0  JA7YAA      31-Oct-2004 1521Z                                <W6TA>
+  7048.4  JA7YRR      31-Oct-2004 1520Z                                <W6TA>
+  7086.4  JJ1JNF      31-Oct-2004 1518Z                                <W6TA>
+  7031.3  JA5BJC      31-Oct-2004 1518Z                                <W6TA>
+  7086.6  JJ1ZNF      31-Oct-2004 1518Z                                <RL3A>
+  7051.0  JS1PWV      31-Oct-2004 1513Z                                <W6TA>
+  7051.0  JS1PSV      31-Oct-2004 1513Z                                <W6TA>
+  7057.0  JH1AEP      31-Oct-2004 1510Z                                <W6TA>
+  7048.5  JA7YRR      31-Oct-2004 1510Z                                <W6TA>
+  3802.9  JA5BJC      31-Oct-2004 1510Z  qsx 3762                     <RA4LW>
+  7036.0  JA1IZZ      31-Oct-2004 1509Z                                <W6TA>
+  3801.0  JA3YBK      31-Oct-2004 1510Z  loud                         <RA4LW>
+  7036.0  JA1VZZ      31-Oct-2004 1509Z                                <W6TA>
+  7043.2  JA1BDR      31-Oct-2004 1508Z                                <W6TA>
+  7051.0  JS1PWV      31-Oct-2004 1507Z                                <W6TA>
+  7077.9  JI2ZJS      31-Oct-2004 1507Z                                <W6TA>
+  7066.0  JA3YBK      31-Oct-2004 1503Z                                <NK7Z>
+  7037.6  JH7XMO      31-Oct-2004 1447Z                                <K7ZO>
+  7037.5  JH7XMO      31-Oct-2004 1447Z                                <RL3A>
+  7067.0  JA3YBK      31-Oct-2004 1426Z  QSX 7199.0                    <K7ZO>
+  7057.0  JH1AEP      31-Oct-2004 1424Z  QSX 7176.0                    <K7ZO>
+  7037.0  JA5BJC      31-Oct-2004 1415Z                               <DF8AE>
+  7035.0  JE1ZWT      31-Oct-2004 1411Z                              <HL4CJG>
+  7057.1  JH1AEP      31-Oct-2004 1354Z  QSX 7176.1                    <N6RK>
+  7035.0  JE1ZWT      31-Oct-2004 1347Z                                <PA7A>
+  7057.0  JH1AEP      31-Oct-2004 1347Z                                <RL3A>
+  3794.0  JA3YBK      31-Oct-2004 1341Z                                <N6RK>
+  3801.0  JI2ZJS      31-Oct-2004 1338Z  QSX 3819.0                    <N6RK>
+ 14258.0  JA5APU      31-Oct-2004 1326Z                              <RV3DSF>
+  3805.1  JE1SPY      31-Oct-2004 1321Z                                <N6RO>
+  3803.5  JE2OTM      31-Oct-2004 1303Z  QSX 3808.0                    <W6YX>
+  3801.3  JO1ZYI      31-Oct-2004 1302Z                                <W6YX>
+  3799.1  JA5BJC      31-Oct-2004 1257Z                               <RA1OZ>
+ 14169.0  JJ1ZNF      31-Oct-2004 1253Z  CQ                            <TM2Y>
+  7076.3  JA2BAY      31-Oct-2004 1249Z  QSX 7165.00                   <AB5K>
+  3801.3  JO1ZYI      31-Oct-2004 1239Z  59 +10                        <W6YX>
+  3803.5  JE2OTM      31-Oct-2004 1230Z                               <K5PTC>
+  1819.1  JA8ISU      31-Oct-2004 1230Z                                <N9MM>
+  1819.0  JA8ISU      31-Oct-2004 1224Z  tks Kaz 1st Asia160          <N5PHT>
+  3794.0  JA3YBK      31-Oct-2004 1219Z                                <W6YX>
+  3799.0  JA7YRR      31-Oct-2004 1215Z                                <W6YX>
+  3803.5  JA5BJC      31-Oct-2004 1215Z  QSX 3809                      <W6YX>
+  7077.3  JA5BJC      31-Oct-2004 1211Z  QSX 7240.10                  <KE1IH>
+  3799.0  JA7YRR      31-Oct-2004 1159Z                                <K5NA>
+  7068.9  JA3YBK      31-Oct-2004 1154Z  QSX 7244.00                  <KE1IH>
+  7068.9  JA3YBK      31-Oct-2004 1147Z  QSX 7244.0                    <K3II>
+  7066.9  JJ1ZNF      31-Oct-2004 1146Z  QSX 7163.0                    <W6YX>
+ 14144.7  JA3YBK      31-Oct-2004 1145Z                               <DJ9HX>
+  7079.6  JR1AIB      31-Oct-2004 1141Z  QSX 7213.01                   <AG5W>
+  7047.0  JA7YAA      31-Oct-2004 1141Z  QSX 7175.0                    <W6YX>
+  3799.0  JA7YRR      31-Oct-2004 1139Z                               <W3LPL>
+  7054.4  JH7XMO      31-Oct-2004 1138Z  QSX 7174.05                   <AG5W>
+  7054.0  JH7XMO      31-Oct-2004 1137Z  174                           <KZ4V>
+  7052.3  JH1AEP      31-Oct-2004 1136Z  QSX 7165.04                   <AG5W>
+  7054.0  JHH7XMO     31-Oct-2004 1136Z  174                           <KZ4V>
+  7052.2  JH1AEP      31-Oct-2004 1133Z                                <W6YX>
+  7064.0  JA9FPI      31-Oct-2004 1131Z                                <KZ4V>
+  7084.1  JE1ZWT      31-Oct-2004 1130Z  QSX 7267.00                   <N6WS>
+  7077.1  JA5BJC      31-Oct-2004 1130Z  QSX 7243.0                    <W6YX>
+  7064.1  JA9FPI      31-Oct-2004 1130Z  corr                          <K1KI>
+  7064.1  JA9FAP      31-Oct-2004 1129Z                                <K1KI>
+  3794.0  JA3YBK      31-Oct-2004 1127Z                                <K5NA>
+  7071.7  JA2BAY      31-Oct-2004 1126Z  QSX 7165.0                    <W6YX>
+  3801.6  JI2ZJS      31-Oct-2004 1126Z                                <K5NA>
+  3799.1  JA7YRR      31-Oct-2004 1125Z                                <K5NA>
+  3796.2  JA5BJC      31-Oct-2004 1124Z                                <K5NA>
+  7039.2  JA3USA      31-Oct-2004 1116Z  QSX 7244.5                    <W6YX>
+  7049.0  JA7YRR      31-Oct-2004 1113Z                                <W6YX>
+  7052.2  JH1AEP      31-Oct-2004 1112Z  QSX 7165                      <W6YX>
+  7062.5  JI2ZJS      31-Oct-2004 1109Z  QSX 7258                      <W6YX>
+  7068.8  JA3YBK      31-Oct-2004 1107Z  QSX 7244.0 same qsx as p43p   <K9NS>
+  7034.9  JJ2LPV      31-Oct-2004 1103Z  QSX 7180.00                  <K1TTT>
+ 14193.2  JA7NVF      31-Oct-2004 1057Z                                <W6YX>
+  7099.1  JA2BAY      31-Oct-2004 1055Z  QSX 7165.0                   <K5PTC>
+  7077.1  JA5BJC      31-Oct-2004 1052Z  QSX 7243.0                   <KC1XX>
+  7076.8  JA5BJC      31-Oct-2004 1051Z  QSX 7242.9                   <W3LPL>
+  7052.4  JH1AEP      31-Oct-2004 1051Z  QSX 7248.0                   <KC1XX>
+ 14334.5  JA5BJC      31-Oct-2004 1045Z                                <W6YX>
+  7034.9  JJ2LPV      31-Oct-2004 1046Z  QSX 7163.1                    <K5NA>
+ 14288.1  JR1AIB      31-Oct-2004 1031Z                               <DJ9MH>
+  3798.1  JA5BJC      31-Oct-2004 1028Z                                <W6YX>
+  3793.8  JA6YBK      31-Oct-2004 1022Z                                <N6RO>
+  7068.9  JA3YBK      31-Oct-2004 1004Z  QSX 7249.0                    <K5NA>
+ 21341.0  JE1ZWT      31-Oct-2004 0952Z                              <JF1PJK>
+ 14342.5  JE1ZWT      31-Oct-2004 0952Z                               <F4JVG>
+  3799.0  JA5BJC      31-Oct-2004 0950Z                                <W6UC>
+  3794.0  JA3YBK      31-Oct-2004 0941Z                                <W6YX>
+  3793.8  JA3YBK      31-Oct-2004 0940Z                                <K9NS>
+  3794.0  JA3YBT      31-Oct-2004 0939Z  test                          <W6UC>
+  3799.0  JA5BJC      31-Oct-2004 0940Z                              <SM2CEW>
+ 14342.5  JE1ZWT      31-Oct-2004 0930Z  loud!                        <DL8RJ>
+ 21391.0  JM1LPN      31-Oct-2004 0927Z                              <JF1PJK>
+  3796.4  JA5BJC      31-Oct-2004 0916Z  callsign correction           <W6YX>
+  3796.4  JA5BJC      31-Oct-2004 0915Z                                <W7GG>
+  3796.4  JA5BJK      31-Oct-2004 0914Z  10 over 9 here!               <W6YX>
+  3794.0  JA3YBK      31-Oct-2004 0911Z  QSX 3815                      <W6YX>
+  3753.1  JF1IST      31-Oct-2004 0911Z                                <K9NS>
+  3753.0  JF1IST      31-Oct-2004 0904Z                               <K6LLK>
+  7083.5  JM1LPN      31-Oct-2004 0901Z  7219                         <K6III>
+  3796.5  JA5BJC      31-Oct-2004 0859Z                               <VE6WZ>
+ 21423.2  JJ1ZNF      31-Oct-2004 0857Z                              <SP8TJU>
+ 14322.0  JA5BJC      31-Oct-2004 0856Z                              <RV3DSF>
+ 14158.1  JA3YBK      31-Oct-2004 0855Z                                <W6YX>
+  7068.8  JA3YBK      31-Oct-2004 0855Z  qsx 7249                      <K9NS>
+ 21357.8  JA9IPF      31-Oct-2004 0854Z  booming from JA             <IZ7KJC>
+  7060.2  JA7YRR      31-Oct-2004 0854Z  7172 strong in CA            <K6III>
+ 21364.7  JA7NVF      31-Oct-2004 0851Z                              <SP8TJU>
+ 21365.0  JA7NVF      31-Oct-2004 0848Z  good sign.                  <IZ7KJC>
+ 21346.0  JF9JTS      31-Oct-2004 0847Z                              <SP8TJU>
+  7035.0  JA2KNW      31-Oct-2004 0843Z  Out of band                  <ON7CL>
+ 21340.0  JI2UNR      31-Oct-2004 0842Z                              <MI0JZZ>
+ 21362.7  JA3YBK      31-Oct-2004 0838Z                              <DL1SRS>
+ 14322.2  JA5BJC      31-Oct-2004 0837Z                                <W6YX>
+  3753.2  JF1IST      31-Oct-2004 0831Z                                <N6RO>
+ 21387.4  JJ1ZNF      31-Oct-2004 0830Z                               <G3UHU>
+ 21422.3  JA5BJC      31-Oct-2004 0829Z                               <DG5BE>
+ 14343.6  JA3YBK      31-Oct-2004 0829Z                                <W6YX>
+ 21364.7  JA7NVF      31-Oct-2004 0828Z  Japan                       <HB9TNU>
+  7044.6  JA3USA      31-Oct-2004 0830Z  7223 strong in CA            <K6III>
+ 21348.6  JA3NTE      31-Oct-2004 0830Z                              <PE1HWO>
+ 21422.3  JA5BJC      31-Oct-2004 0827Z  25                          <IZ8BGY>
+ 21422.0  JA5BJC      31-Oct-2004 0826Z                              <DG1MHC>
+ 14343.7  JA3YBK      31-Oct-2004 0826Z  59 witk 100W on vertical     <PE2KW>
+ 21346.0  JF9JTS      31-Oct-2004 0825Z                              <PE1HWO>
+ 21365.0  JA7NVF      31-Oct-2004 0822Z                              <DL1SRS>
+ 21357.5  JA9IPF      31-Oct-2004 0821Z  25                          <IZ8BGY>
+ 21387.3  JJ1JNF      31-Oct-2004 0819Z  59                          <SP8BRE>
+ 21422.3  JA5BJC      31-Oct-2004 0818Z                              <DL1SRS>
+ 14343.6  JA3YBK      31-Oct-2004 0817Z                              <DL8NFU>
+ 21348.5  JA3NTE      31-Oct-2004 0815Z  25                          <IZ8BGY>
+ 21387.3  JJ1JNF      31-Oct-2004 0814Z                              <DL1SRS>
+  7068.9  JA3YBK      31-Oct-2004 0814Z  qsx 7249                      <K3LR>
+ 21242.0  JA7ODY      31-Oct-2004 0814Z  zone 25                     <LA5LJA>
+ 21364.1  JA7NVF      31-Oct-2004 0813Z                              <SP8BRE>
+  7068.8  JA3YBK      31-Oct-2004 0814Z  7249 strong in CA            <K6III>
+ 21357.4  JA9IPF      31-Oct-2004 0812Z                              <DL1SRS>
+ 21334.1  JA7YRR      31-Oct-2004 0811Z  25                          <IZ8BGY>
+ 28421.0  JA3YBK      31-Oct-2004 0807Z  z25                          <F1NGP>
+  7094.3  JH1AEP      31-Oct-2004 0806Z  179 strong in CA             <K6III>
+ 21422.4  JA5BJC      31-Oct-2004 0802Z  Japan                       <HB9TNU>
+ 21364.1  JA7NVF      31-Oct-2004 0801Z                               <OH2XX>
+  7064.8  JE1ZWT      31-Oct-2004 0803Z  7222 strong in CA            <K6III>
+ 28421.0  JA3YBK      31-Oct-2004 0758Z                               <DF3TQ>
+ 21363.1  JA3YBK      31-Oct-2004 0756Z  booming                     <IZ7KJC>
+ 21333.5  JA7YRR      31-Oct-2004 0755Z  Japan                       <HB9TNU>
+ 21349.0  JA3NTE      31-Oct-2004 0754Z  GOOD SIGNAL                  <F8DGQ>
+  7078.3  JH7XMO      31-Oct-2004 0752Z  7241                         <K6III>
+  7071.1  JA5BJC      31-Oct-2004 0750Z  1713 strong in CA            <K6III>
+ 21421.5  JA5BJC      31-Oct-2004 0745Z                              <SP8TJU>
+ 28549.5  JF3BFS      31-Oct-2004 0734Z  cq ww                        <F4DSD>
+ 28421.0  JA3YBK      31-Oct-2004 0733Z  CQ WW                        <RA3BB>
+ 28509.1  7K3OWM      31-Oct-2004 0732Z                               <DJ5JK>
+  7094.3  JH1AEP      31-Oct-2004 0733Z  7179 vy strong in CA         <K6III>
+ 28377.0  JA7OWD      31-Oct-2004 0730Z  CQ WW                        <RA3BB>
+  7065.0  JE1ZWT      31-Oct-2004 0728Z  QSX 7222                      <K3LR>
+  7065.0  JE1ZWT      31-Oct-2004 0718Z  now qsx 7219                 <K6KYJ>
+ 21443.0  JQ1NGT      31-Oct-2004 0716Z                              <SP8TJU>
+ 21334.0  JA7YRR      31-Oct-2004 0717Z                              <DL8OBF>
+ 14261.8  JJ1ZNF      31-Oct-2004 0716Z                              <RA3ATX>
+ 21250.5  JI2UNR      31-Oct-2004 0712Z  WAZ 25 wkd easy with GP.     <DD6ZJ>
+  7064.8  JE1ZWT      31-Oct-2004 0709Z  QSX 7225.0                   <W6RKC>
+ 21348.7  JA3NTE      31-Oct-2004 0703Z                              <SP8TJU>
+ 28401.3  JA2ZJW      31-Oct-2004 0703Z  CQ WW                        <RA3BB>
+ 28398.6  JF2JWW      31-Oct-2004 0702Z  CQ WW                        <RA3BB>
+  7093.3  JH1AEP      31-Oct-2004 0701Z  QSX 7179.00                   <W6TA>
+ 28312.5  JS3CTQ      31-Oct-2004 0659Z  CQ WW                        <RA3BB>
+ 28585.1  JG0TCL      31-Oct-2004 0655Z  Listen to him carefully!    <JA1QTC>
+ 28363.5  JA2BNN      31-Oct-2004 0656Z                               <RA6AU>
+ 21370.6  JA7NVF      31-Oct-2004 0654Z                               <UT7QF>
+ 28420.9  JA6YBK      31-Oct-2004 0647Z  open                        <IZ2DPX>
+ 21250.6  JI2UNR      31-Oct-2004 0652Z                              <SP8TJU>
+  7093.4  JH1AEP      31-Oct-2004 0649Z  QSX 7179.00                   <N6WS>
+ 28421.0  JA3YBK      31-Oct-2004 0646Z                                <RL3A>
+ 28536.1  JA3USA      31-Oct-2004 0644Z  CQ WW                        <RA3BB>
+ 28391.0  JH0RNN      31-Oct-2004 0636Z                               <RZ9OS>
+ 21197.6  JA2BNN      31-Oct-2004 0629Z                              <SP8TJU>
+ 21284.7  JJ1ZNF      31-Oct-2004 0628Z                               <UT7QF>
+ 21252.4  JA3NTE      31-Oct-2004 0626Z                               <UT7QF>
+ 21427.1  JL3VUL      31-Oct-2004 0623Z                              <SP8TJU>
+ 28523.0  JL1JHN      31-Oct-2004 0624Z                              <RK3QWA>
+ 28525.0  JA7YAA      31-Oct-2004 0624Z                              <RK3QWA>
+ 28500.0  JS3CTQ      31-Oct-2004 0623Z                              <YI9QWO>
+ 28540.9  JH0EQN      31-Oct-2004 0623Z                              <RK3QWA>
+ 28544.0  JS3CTQ      31-Oct-2004 0622Z                              <RK3QWA>
+ 21390.1  JA1VND      31-Oct-2004 0620Z                              <SP8TJU>
+ 21335.4  JF2FIU      31-Oct-2004 0621Z                               <RU0BB>
+ 21317.0  JR1AIB      31-Oct-2004 0619Z                              <JF1PJK>
+ 21370.4  JR5XPG      31-Oct-2004 0618Z                              <SP8TJU>
+ 21197.6  JA2BNN      31-Oct-2004 0618Z                               <DM3ML>
+ 21361.3  JA2KSI      31-Oct-2004 0615Z                              <SP8TJU>
+ 28350.6  JR0ETA      31-Oct-2004 0613Z                               <9K2HN>
+ 28355.0  JA6RCH      31-Oct-2004 0612Z                                <OM7M>
+ 21354.0  JA1PCY      31-Oct-2004 0612Z                              <JF1PJK>
+ 28361.2  JO1WKO      31-Oct-2004 0611Z                                <OM7M>
+ 21350.7  JA1TMG      31-Oct-2004 0610Z                              <SP8TJU>
+ 28410.0  JA7OWD      31-Oct-2004 0610Z                               <RZ9OS>
+ 28421.0  JA3YBK      31-Oct-2004 0608Z                                <OM7M>
+ 21353.8  JA1PCY      31-Oct-2004 0606Z  59                          <DS4DTG>
+ 21355.8  JF7PHE      31-Oct-2004 0605Z  59                          <DS4DTG>
+ 21353.8  JA1PCY      31-Oct-2004 0606Z                               <UT7QF>
+ 21355.8  JF7PHE      31-Oct-2004 0605Z                               <UT7QF>
+ 21335.6  JF2FIU      31-Oct-2004 0604Z                              <SP8TJU>
+ 21400.2  JL1MWY      31-Oct-2004 0604Z                               <UT7QF>
+ 21316.7  JR1AIB      31-Oct-2004 0603Z                                <OK6A>
+ 28421.0  JA3YBK      31-Oct-2004 0601Z  +10!                         <HA7UG>
+ 28428.0  JA7OWD      31-Oct-2004 0559Z  strong , still can't hr me   <HA7UG>
+ 21311.7  JR3RIY      31-Oct-2004 0558Z                              <SP8TJU>
+ 21290.0  JE1OHL      31-Oct-2004 0556Z                              <SP8TJU>
+ 21208.1  JA3YBK      31-Oct-2004 0549Z                              <SP8TJU>
+ 14260.6  JA3YBK      31-Oct-2004 0546Z  Correction                    <K7ZO>
+ 14186.1  JA1YPA      31-Oct-2004 0546Z                                <W6TA>
+ 14260.5  JA6YBK      31-Oct-2004 0544Z                                <W6TA>
+ 21166.1  JM1LRQ      31-Oct-2004 0537Z                              <SP8TJU>
+ 28520.5  JA3USA      31-Oct-2004 0532Z                              <YO2LYN>
+ 28470.0  JA7NVF      31-Oct-2004 0530Z                              <YO2LYN>
+ 28350.5  JR1AIB      31-Oct-2004 0526Z                              <YO2LYN>
+ 21197.1  JH9URT      31-Oct-2004 0525Z                              <SP8TJU>
+ 14262.0  JJ1ZNF      31-Oct-2004 0509Z                               <PY2NB>
+ 14159.0  JA7YRR      31-Oct-2004 0502Z                                <W6TA>
+ 14259.1  JE1LFX      31-Oct-2004 0500Z                                <W6TA>
+ 28427.8  JA7OWD      31-Oct-2004 0451Z                               <UU0JX>
+ 28485.2  JA3YBK      31-Oct-2004 0450Z                               <RA6AU>
+ 14181.6  JA7NVF      31-Oct-2004 0449Z                                <W6TA>
+ 14259.3  JE1LFX      31-Oct-2004 0448Z                                <W6TA>
+ 28498.2  JA5BJC      31-Oct-2004 0449Z                               <RA6AU>
+ 14315.3  JI2ZJS      31-Oct-2004 0446Z                                <W6TA>
+ 28528.1  JM1NKT      31-Oct-2004 0446Z                               <RA6AU>
+ 28545.7  JG2SON      31-Oct-2004 0444Z                               <RA6AU>
+ 28532.1  JA1BPA      31-Oct-2004 0440Z                               <RA6AU>
+ 14181.4  JA7NVF      31-Oct-2004 0437Z                                <NX5M>
+ 28537.1  JF3BFS      31-Oct-2004 0437Z                               <RA6AU>
+ 28552.1  JA6BGA      31-Oct-2004 0435Z                               <RA6AU>
+ 28556.2  JH1OCC      31-Oct-2004 0432Z                               <RA4LW>
+ 28556.0  JA1OCC      31-Oct-2004 0431Z                               <RA6AU>
+ 14230.4  JA1YFG      31-Oct-2004 0422Z                                <NX5M>
+ 14176.5  JA8VJ       31-Oct-2004 0418Z  stop shout                   <JA8VJ>
+ 21250.6  JA2UNR      31-Oct-2004 0411Z  59                          <DS4DTG>
+ 14296.9  JG2KKG      31-Oct-2004 0411Z                                <NX5M>
+ 28427.9  JA7OWD      31-Oct-2004 0408Z  59                          <DS4DTG>
+ 14318.7  JQ2DGT      31-Oct-2004 0407Z                                <AB5K>
+ 28427.9  JA7OWD      31-Oct-2004 0405Z                               <RW9WY>
+ 14280.9  JA2ZJW      31-Oct-2004 0405Z                                <AB5K>
+ 14254.8  JA1KQX      31-Oct-2004 0403Z                                <AB5K>
+ 14250.9  JA1TMG      31-Oct-2004 0403Z                                <AB5K>
+ 14191.4  JE1ZWT      31-Oct-2004 0400Z  25                            <N6KZ>
+ 21250.6  JA2UNR      31-Oct-2004 0358Z                               <RW9WY>
+ 28445.1  JM1NKT      31-Oct-2004 0353Z                               <9K2HN>
+ 28445.1  JM1NKT      31-Oct-2004 0347Z                               <RZ9OS>
+ 21221.9  JA5BJC      31-Oct-2004 0346Z                               <RA4LW>
+ 14230.6  JA1YFG      31-Oct-2004 0344Z                                <AB5K>
+ 14151.9  JE1LFX      31-Oct-2004 0344Z                                <W6YX>
+ 14159.7  JS3CTQ      31-Oct-2004 0343Z                                <W6YX>
+ 14159.7  JS3CT       31-Oct-2004 0343Z                                <W6YX>
+ 14174.4  JJ0KRD      31-Oct-2004 0343Z                                <W6YX>
+ 28501.9  JA3USA      31-Oct-2004 0344Z                               <RZ9OS>
+ 14174.4  JJ0K        31-Oct-2004 0343Z                                <W6YX>
+ 21358.0  JA1PCY      31-Oct-2004 0337Z                              <JF1PJK>
+ 14202.5  JA7YAA      31-Oct-2004 0336Z                                <W6YX>
+ 14191.4  JE1ZWT      31-Oct-2004 0335Z  QSX 7226.00                   <K6EU>
+ 14253.8  JG2KKG      31-Oct-2004 0332Z                                <W6YX>
+ 14258.1  JA3YBK      31-Oct-2004 0332Z                                <W6YX>
+ 14293.9  JI1FDF      31-Oct-2004 0332Z                                <AB5K>
+ 14264.1  JA5BJC      31-Oct-2004 0332Z                                <W6YX>
+ 14250.0  JH0EPI      31-Oct-2004 0324Z                                <W6YX>
+ 14163.0  JI2ZJS      31-Oct-2004 0323Z                                <AB5K>
+ 14267.0  JR1AIB      31-Oct-2004 0322Z                                <W6YX>
+ 14159.7  JS3CTQ      31-Oct-2004 0322Z                                <AB5K>
+ 14289.4  JA8RWU      31-Oct-2004 0321Z                                <W6YX>
+ 14309.1  JF1OPL      31-Oct-2004 0320Z                                <W6YX>
+ 14230.3  JA1YFG      31-Oct-2004 0321Z                                <K5NA>
+ 14220.1  JA7YRR      31-Oct-2004 0320Z                                <K5NA>
+ 14197.2  JJ1ZNF      31-Oct-2004 0318Z                                <K5NA>
+ 14191.3  JE1ZWT      31-Oct-2004 0317Z                                <K5NA>
+ 14159.6  JS3CTQ      31-Oct-2004 0315Z                                <K5NA>
+ 14296.4  JI1FDF      31-Oct-2004 0306Z                                <NX5M>
+ 28436.0  JE1ZWT      31-Oct-2004 0302Z                               <9K2HN>
+ 14196.0  JJ1ZNF      31-Oct-2004 0251Z                               <K6LLK>
+ 14220.6  JA7YRR      31-Oct-2004 0250Z                                <W6MA>
+ 14250.3  JH0EPI      31-Oct-2004 0239Z                                <W6YX>
+ 14302.7  JA8RWU      31-Oct-2004 0227Z                                <N6KZ>
+ 21254.2  JO1ZYI      31-Oct-2004 0216Z  59                          <DS4DTG>
+ 14220.2  JA7YRR      31-Oct-2004 0214Z                                <W6YX>
+ 14233.4  JA3YBK      31-Oct-2004 0213Z                                <W6YX>
+ 21250.4  JA3BOA      31-Oct-2004 0210Z                               <PY3OL>
+ 28680.0  JA4BS       31-Oct-2004 0204Z  SSTV                         <BV9AA>
+ 21230.5  JA2ZJW      31-Oct-2004 0202Z  59                          <DS4DTG>
+ 14194.5  JJ1ZNF      31-Oct-2004 0202Z                                <NQ4U>
+ 14291.5  JA7YAA      31-Oct-2004 0158Z                                <W6YX>
+ 14194.6  JJ1ZNF      31-Oct-2004 0156Z                                <NX5M>
+ 21311.0  JA1YFC      31-Oct-2004 0151Z  59                          <DS4DTG>
+ 21256.5  JA7NVF      31-Oct-2004 0150Z                               <W6ZZZ>
+ 21230.5  JA2ZJW      31-Oct-2004 0149Z                               <W6ZZZ>
+ 14302.4  JA8RWU      31-Oct-2004 0137Z                                <NX5M>
+ 21431.4  JE1ZWT      31-Oct-2004 0134Z  59                          <DS4DTG>
+ 21431.0  JE1ZWT      31-Oct-2004 0134Z                              <JF1PJK>
+ 28515.0  JA3YBK      31-Oct-2004 0133Z                                <W6YX>
+ 21443.0  JQ1NGT      31-Oct-2004 0134Z                                <K6EU>
+ 21446.8  JL3VUL/3    31-Oct-2004 0133Z                                <K6GT>
+ 21435.5  JR9NVB      31-Oct-2004 0130Z  59                          <DS4DTG>
+ 21435.5  JR9NVB      31-Oct-2004 0131Z                                <K6GT>
+ 21395.4  JS1OYN      31-Oct-2004 0128Z                                <K6GT>
+ 14302.2  JA8RWU      31-Oct-2004 0127Z                                <K1RX>
+ 21311.6  JA1YFG      31-Oct-2004 0127Z                                <K6EU>
+ 21333.0  JA7YRR      31-Oct-2004 0123Z  59                          <DS4DTG>
+ 21381.2  JA1TMG      31-Oct-2004 0122Z  59                          <DS4DTG>
+ 21381.2  JA1TMG      31-Oct-2004 0122Z                                <AB5K>
+ 21333.0  JA7YRR      31-Oct-2004 0121Z  cqww2004                     <PP5ZP>
+ 21353.9  7L1ETP/1    31-Oct-2004 0120Z  59                          <DS4DTG>
+ 14191.2  JE1ZWT      31-Oct-2004 0120Z                                <K1IR>
+ 21353.9  7L1ETP      31-Oct-2004 0118Z                                <NF6R>
+ 21256.9  JA7NVF      31-Oct-2004 0119Z  cqww2004                     <PP5ZP>
+ 14301.7  JA8RWU      31-Oct-2004 0113Z                                <K8ND>
+ 21407.3  JI2UNR      31-Oct-2004 0113Z                                <W6YX>
+ 21368.1  JA7YAA      31-Oct-2004 0112Z                               <K6OWL>
+ 21375.1  JE1OHL      31-Oct-2004 0112Z                                <W6YX>
+ 28386.0  JG1HQA      31-Oct-2004 0111Z                              <6K2AVL>
+ 28557.1  JA2BHJ      31-Oct-2004 0111Z                                <K6GT>
+ 21375.1  JE1HHL      31-Oct-2004 0109Z  59                          <WA0KBZ>
+ 14324.0  JA3YBK      31-Oct-2004 0106Z                              <6K2AVL>
+ 14302.0  JA8RWU      31-Oct-2004 0106Z                              <6K2AVL>
+ 21403.0  JI2ZJS      31-Oct-2004 0104Z  59                          <DS4DTG>
+ 28386.0  JG1HQA      31-Oct-2004 0105Z                               <PY3OL>
+ 21319.1  JH8DEH      31-Oct-2004 0104Z                               <K6OWL>
+ 21350.5  JA5BJC      31-Oct-2004 0103Z  55                          <WA0KBZ>
+ 28382.2  JO1WUL      31-Oct-2004 0103Z                               <PY3OL>
+ 21407.3  JI2UNR      31-Oct-2004 0101Z                                <N5RP>
+ 28408.1  JE1ZWT      31-Oct-2004 0102Z                                <K6GT>
+ 14220.0  JA7YRR      31-Oct-2004 0101Z                                <NT2A>
+ 14324.2  JA3YBK      31-Oct-2004 0100Z  QSX 14125.40                 <VE6AO>
+ 21407.3  JA2UNR      31-Oct-2004 0100Z                                <N3AD>
+ 21371.7  JA3YBK      31-Oct-2004 0059Z                                <N3AD>
+ 21343.9  JA1KQX      31-Oct-2004 0058Z  59                          <WA0KBZ>
+ 28428.0  JA7OWD      31-Oct-2004 0056Z  20 over in texa tnx         <KE5CTY>
+ 14313.2  JI1FDF      31-Oct-2004 0055Z                               <VE3SY>
+ 21232.3  JA3BOA      31-Oct-2004 0053Z                                <N3AD>
+ 21256.1  JA7NVF      31-Oct-2004 0053Z                                <N3AD>
+ 14289.2  JA8RWU      31-Oct-2004 0052Z                                <K7ZO>
+ 28367.7  JE3WVA/3    31-Oct-2004 0051Z                                <W6YX>
+ 21403.0  JI2ZJS      31-Oct-2004 0051Z                              <6K2AVL>
+ 28367.9  JE3WVA/3    31-Oct-2004 0051Z                               <W6RKC>
+ 21218.5  JH8DEH      31-Oct-2004 0040Z                                <W8ZA>
+ 21372.0  JA3YBK      31-Oct-2004 0049Z                              <6K2AVL>
+ 21311.8  JA1YFG      31-Oct-2004 0048Z                                <K5NA>
+ 28435.4  JA7YRR      31-Oct-2004 0044Z                                <W6YX>
+ 28497.1  JR6EA       31-Oct-2004 0043Z                               <W6RKC>
+ 21437.0  JA0LBE      31-Oct-2004 0042Z                                <N3AD>
+ 21430.1  JA4KKW      31-Oct-2004 0042Z                                <N3AD>
+ 21420.5  JR1AIB      31-Oct-2004 0040Z                                <N3AD>
+ 28390.0  JA1KQX      31-Oct-2004 0040Z  59 exas tnx                 <KE5CTY>
+ 21402.9  JI2ZJS      31-Oct-2004 0039Z                                <N3AD>
+ 21397.3  JF9NVB      31-Oct-2004 0039Z                                <N3AD>
+ 21395.3  JA2KSI      31-Oct-2004 0038Z                                <N3AD>
+ 21387.4  JA4RWN      31-Oct-2004 0038Z                                <N3AD>
+ 21315.3  JR1HUA      31-Oct-2004 0036Z  59                          <DS4DTG>
+ 21381.2  JH6QFJ      31-Oct-2004 0037Z                                <N3AD>
+ 21365.1  JR1MQT      31-Oct-2004 0036Z                                <N3AD>
+ 21354.0  7L1ETP/1    31-Oct-2004 0039Z                                <KQ7W>
+ 21430.0  JA4KKW      31-Oct-2004 0039Z                                <KQ7W>
+ 21256.1  JA7NVF      31-Oct-2004 0035Z  Naomi's Loud                  <WX3B>
+ 21354.0  7L1ETP      31-Oct-2004 0036Z                                <N3AD>
+ 21348.9  JQ1BNL      31-Oct-2004 0034Z                                <N3AD>
+ 21343.9  JA1KQX      31-Oct-2004 0034Z                                <N3AD>
+ 14335.6  JE1LFX      31-Oct-2004 0033Z                                <K8AZ>
+ 21430.0  JA4KKW      31-Oct-2004 0033Z                                <WX3B>
+ 28446.0  JO1ZYI      31-Oct-2004 0032Z  fb yl op                    <6K2AVL>
+ 28382.0  JA2BNN      31-Oct-2004 0032Z                                <N6VH>
+ 28510.0  JS1OYN      31-Oct-2004 0031Z  Zone 25                      <KD6UO>
+ 21430.0  JA4KW       31-Oct-2004 0031Z  call?                         <NK9G>
+ 21310.9  JA1YFG      31-Oct-2004 0030Z                                <WX3B>
+ 28510.0  JS1OYN      31-Oct-2004 0030Z                                <W6TA>
+ 28348.0  JQ2IGW      31-Oct-2004 0030Z  59 texas tnx                <KE5CTY>
+ 28504.8  JF3BFS      31-Oct-2004 0029Z                                <W6TA>
+ 14321.0  JA1YPA      31-Oct-2004 0029Z                                <NX1Q>
+ 21344.0  JA1KQX      31-Oct-2004 0029Z                                <WX3B>
+ 21351.5  JJ1ZNF      31-Oct-2004 0029Z                                <WX3B>
+ 21375.1  JE1OHL      31-Oct-2004 0028Z                                <WX3B>
+ 21371.7  JA3YBK      31-Oct-2004 0028Z                                <WX3B>
+ 21258.6  JA2ZJW      31-Oct-2004 0028Z                                <N3AD>
+ 21402.9  JI2ZJS      31-Oct-2004 0027Z                                <WX3B>
+ 21231.5  JA3BOA      31-Oct-2004 0027Z                                <K1IR>
+ 14323.5  JA3YBK      31-Oct-2004 0027Z                              <W1AJT/VE3>
+ 21343.1  JE1ZWT      31-Oct-2004 0030Z                                <KQ7W>
+ 21410.0  JS3CTQ      31-Oct-2004 0026Z                                <NN7L>
+ 21333.0  JA7YRR      31-Oct-2004 0029Z                                <KQ7W>
+ 21430.0  JA4KKW      31-Oct-2004 0025Z                               <WR0DK>
+ 14220.1  JA7YRR      31-Oct-2004 0025Z                                <W2YR>
+ 14180.0  JE1ZWT      31-Oct-2004 0025Z                                <K2LE>
+ 21319.1  JR3NZC      31-Oct-2004 0027Z                                <KQ7W>
+ 21315.3  JR1HUA      31-Oct-2004 0026Z                                <KQ7W>
+ 28539.0  JH0EQN      31-Oct-2004 0021Z                              <6K2AVL>
+ 28376.1  JE1ZWT      31-Oct-2004 0020Z                                <W6TA>
+ 28566.9  JG2TKH      31-Oct-2004 0019Z                               <XE2AC>
+ 28372.0  JA7BEW      31-Oct-2004 0020Z                                <W6TA>
+ 14320.9  JA1YPA      31-Oct-2004 0019Z                               <VA3EC>
+ 28372.1  JA7BEW      31-Oct-2004 0019Z                               <K6OWL>
+ 28539.3  JH0EQN      31-Oct-2004 0017Z                               <XE2AC>
+ 28509.9  JS1OYN      31-Oct-2004 0019Z                                <K6GT>
+ 28324.9  JF9JTS      31-Oct-2004 0017Z                                <W6TA>
+ 28322.0  JQ2IQW      31-Oct-2004 0017Z                                <W6TA>
+ 28313.5  JM1SMY      31-Oct-2004 0016Z                                <W6TA>
+ 21310.9  JA1YFG      31-Oct-2004 0017Z                                <W3MF>
+ 21381.3  JH6QFJ      31-Oct-2004 0014Z                                <WK2W>
+ 21343.1  JE1ZWT      31-Oct-2004 0014Z                                <WX3B>
+ 21366.4  JA7YAA      31-Oct-2004 0014Z                               <K1TTT>
+ 28313.6  JM1SMY      31-Oct-2004 0013Z                                <W6BO>
+ 28469.6  JA1KQX      31-Oct-2004 0012Z                                <W6TA>
+ 28459.0  JN1JFC      31-Oct-2004 0011Z  good signal!!               <LU1DFO>
+ 21406.1  JA1PCY      31-Oct-2004 0010Z                                <WX3B>
+ 21410.0  JS3CTQ      31-Oct-2004 0009Z  LOUD!!!                       <WX3B>
+ 28490.7  JH6QFJ      31-Oct-2004 0009Z                                <W6TA>
+ 28632.0  JN1MKU      31-Oct-2004 0010Z                                <NT6K>
+ 21424.0  JH7BZR      31-Oct-2004 0008Z                                <WX3B>
+ 28390.2  JA1KQX      31-Oct-2004 0009Z                                <KQ7W>
+ 28618.0  JM1NKT      31-Oct-2004 0008Z                                <NT6K>
+ 21439.7  JR9NVB      31-Oct-2004 0007Z                                <WX3B>
+ 28368.0  JF2IWW      31-Oct-2004 0007Z                               <K6OWL>
+ 21447.5  JL3VUL/3    31-Oct-2004 0006Z                                <WX3B>
+ 21354.0  7L1ETP/1    31-Oct-2004 0005Z                                <WX3B>
+ 28507.2  JA7YAA      31-Oct-2004 0006Z                                <K6EU>
+ 28471.3  JA5BJC      31-Oct-2004 0004Z                                <K8AZ>
+ 21348.8  JQ1BNL      31-Oct-2004 0004Z                                <K1IR>
+ 14323.2  JA3YBK      31-Oct-2004 0003Z                                <K3LR>
+ 21310.9  JA1YFG      31-Oct-2004 0002Z                                <K1IR>
+ 21231.6  JA3BOA      31-Oct-2004 0002Z                                <W6TA>
+ 28376.3  JE1ZWT      31-Oct-2004 0002Z                               <PY3OL>
+ 21403.0  JI2ZJS      31-Oct-2004 0001Z                                <KT0R>
+ 21258.9  JA2ZJW      31-Oct-2004 0001Z                                <W6TA>
+ 28370.5  JH1NBN      31-Oct-2004 0000Z                               <PY3OL>
+ 21206.7  JR2DOL      31-Oct-2004 0001Z                                <K3OO>
+ 28364.7  JI2KXK      31-Oct-2004 0000Z                               <PY3OL>
+ 28372.0  JN7IIR      31-Oct-2004 0000Z                                <KQ7W>
+ 21333.1  JA7YRR      30-Oct-2004 2358Z                                <WX3B>
+ 28436.9  JE1CQT      30-Oct-2004 2357Z                               <PY3OL>
+ 21231.5  JA3BOA      30-Oct-2004 2357Z                              <KB9KEG>
+ 28364.6  JI2KXK      30-Oct-2004 2359Z                                <KQ7W>
+ 21333.2  JA7YRR      30-Oct-2004 2356Z                                <KT0R>
+ 21356.2  JM1LRQ      30-Oct-2004 2356Z                               <KC1XX>
+ 28325.1  JF9JTS      30-Oct-2004 2356Z                               <PY3OL>
+ 21353.8  JA9IPF      30-Oct-2004 2355Z                               <KC1XX>
+ 21351.4  JJ1ZNF      30-Oct-2004 2355Z                               <KC1XX>
+ 28427.8  JA7OWD      30-Oct-2004 2356Z                                <K6EU>
+ 21258.8  JA2ZJW      30-Oct-2004 2355Z                                <AA3B>
+ 28324.9  JF9JTS      30-Oct-2004 2357Z                                <KQ7W>
+ 28457.9  JA3USA      30-Oct-2004 2353Z                               <W6RKC>
+ 21420.9  JR1AIB      30-Oct-2004 2352Z                                <W6TA>
+ 21416.1  JR3QHQ      30-Oct-2004 2351Z                                <W6TA>
+ 21319.1  JR3NZC      30-Oct-2004 2351Z                                <AA3B>
+ 21410.0  JS3CTQ      30-Oct-2004 2351Z                                <W6TA>
+ 28546.6  JH1UUT      30-Oct-2004 2352Z                                <NT6K>
+ 28537.9  JN2QCV      30-Oct-2004 2351Z                                <NT6K>
+ 21396.0  JA2KSI      30-Oct-2004 2350Z                                <W6TA>
+ 21403.0  JI2ZJS      30-Oct-2004 2350Z                                <AA3B>
+ 21410.1  JS3CTQ      30-Oct-2004 2349Z                                <AA3B>
+ 21364.9  JR1MQT      30-Oct-2004 2348Z                                <W6TA>
+ 28586.7  JA5MXP      30-Oct-2004 2347Z                                <W6TA>
+ 28582.0  JF7PHE      30-Oct-2004 2347Z                                <W6TA>
+ 21249.9  JE1ZWT      30-Oct-2004 2347Z                                <K3OO>
+ 21333.2  JA7YRR      30-Oct-2004 2346Z                                <AA3B>
+ 21333.2  JA3YRR      30-Oct-2004 2346Z  59 IN OKLA                   <K5WPN>
+ 28562.9  JA3YBK      30-Oct-2004 2346Z                                <W6TA>
+ 28558.6  JH1UUT      30-Oct-2004 2345Z                                <W6TA>
+ 21333.2  JA3YRL      30-Oct-2004 2345Z  59 IN OKLA                   <K5WPN>
+ 28550.1  JJ2LPV      30-Oct-2004 2345Z                                <W6TA>
+ 28490.5  JH6QFJ      30-Oct-2004 2344Z                               <K6OWL>
+ 21333.1  JA7YRR      30-Oct-2004 2344Z                                <K1IR>
+ 28538.0  JN2QCV      30-Oct-2004 2344Z                                <W6TA>
+ 28507.3  JA7YAA      30-Oct-2004 2344Z                                <W6TA>
+ 28482.3  JO1ZYI      30-Oct-2004 2341Z                               <K6OWL>
+ 21440.0  JR9NVB      30-Oct-2004 2341Z                                <K0KX>
+ 28307.6  JR5IAH      30-Oct-2004 2342Z                                <K6EU>
+ 21347.4  JA5BJC      30-Oct-2004 2341Z                                <AA3B>
+ 28457.1  JA3USA      30-Oct-2004 2339Z                               <K6OWL>
+ 21347.6  JA5BJC      30-Oct-2004 2339Z                                <K4JA>
+ 21231.5  JA3BOA      30-Oct-2004 2338Z                               <K1ECD>
+ 21347.4  JA3BJC      30-Oct-2004 2338Z  59 IN OKLA                   <K5WPN>
+ 28566.5  JG2TKH      30-Oct-2004 2338Z                                <W6BO>
+ 21406.1  JA1PCY      30-Oct-2004 2337Z                               <KC1XX>
+ 21347.4  JA3BUC      30-Oct-2004 2337Z  59 IN OKLA                   <K5WPN>
+ 21410.0  JS3CTQ      30-Oct-2004 2337Z                               <KC1XX>
+ 28428.0  JA7OWD      30-Oct-2004 2336Z                                <W6TA>
+ 21437.0  JA2BNN      30-Oct-2004 2334Z                               <KC1XX>
+ 28382.3  JA7NVF      30-Oct-2004 2334Z                                <W6TA>
+ 21347.5  JA5BJC      30-Oct-2004 2333Z                                <K1RX>
+ 28579.2  JA7QFU      30-Oct-2004 2332Z                                <WE9V>
+ 28360.8  JH1AZO      30-Oct-2004 2332Z                                <W6TA>
+ 28336.7  JF3BFS      30-Oct-2004 2331Z                                <W6TA>
+ 21351.4  JJ1ZNF      30-Oct-2004 2333Z                               <W1EBI>
+ 28326.3  JA1RPK      30-Oct-2004 2331Z                                <W6TA>
+ 21347.0  JA5BJC      30-Oct-2004 2332Z  CORRECTION                   <W1EBI>
+ 28591.0  JM1NKT      30-Oct-2004 2329Z                                <W6TA>
+ 28634.5  JH7BZR      30-Oct-2004 2329Z                               <PY3OL>
+ 21347.4  JA5BJK      30-Oct-2004 2331Z                               <W1EBI>
+ 21406.2  JA1PCY      30-Oct-2004 2329Z                               <K1TTT>
+ 28632.1  JN1MKU      30-Oct-2004 2329Z                               <PY3OL>
+ 21402.5  JI2ZJS      30-Oct-2004 2329Z                               <K1TTT>
+ 28594.1  7K3OWM      30-Oct-2004 2329Z                                <WE9V>
+ 28558.6  JH1UUT      30-Oct-2004 2329Z                                <W6TA>
+ 28594.0  7K3OWM      30-Oct-2004 2330Z                                <K6EU>
+ 28550.0  JJ2LPV      30-Oct-2004 2328Z                                <W6TA>
+ 28594.0  7K3OWN      30-Oct-2004 2329Z                                <K6EU>
+ 28538.0  JN2QCV      30-Oct-2004 2328Z                                <W6TA>
+ 28584.1  JA1RPK      30-Oct-2004 2327Z                               <PY3OL>
+ 28582.1  JF7PHE      30-Oct-2004 2327Z                               <PY3OL>
+ 21255.8  JI2UNR      30-Oct-2004 2328Z                               <W2GDJ>
+ 28632.1  JN1MKU      30-Oct-2004 2325Z  cqww2004                     <PP5ZP>
+ 28390.1  JA1KQX      30-Oct-2004 2320Z                               <AB5GU>
+ 21420.9  JR1AIB      30-Oct-2004 2325Z                                <N1IK>
+ 28390.4  JA1KQX      30-Oct-2004 2324Z                               <PY3OL>
+ 28618.2  JJ1RDX      30-Oct-2004 2327Z                                <KQ7W>
+ 28584.0  JA1RPK      30-Oct-2004 2325Z                                <K6EU>
+ 28625.9  JG2SON      30-Oct-2004 2323Z  cqww2004                     <PP5ZP>
+ 28625.9  JG2SON      30-Oct-2004 2326Z                                <KQ7W>
+ 28522.3  JA3XOG      30-Oct-2004 2323Z                               <PY3OL>
+ 28528.4  JE1OHL      30-Oct-2004 2322Z                               <PY3OL>
+ 28584.2  JA1RPK      30-Oct-2004 2322Z  cqww2004                     <PP5ZP>
+ 28632.0  JN1MKU      30-Oct-2004 2325Z                                <KQ7W>
+ 28634.4  JH7BZR      30-Oct-2004 2325Z                                <KQ7W>
+ 21365.2  JR1MQT      30-Oct-2004 2322Z                               <K1TTT>
+ 28446.3  JA7YRR      30-Oct-2004 2323Z                                <NT6K>
+ 28583.0  JH0EQN      30-Oct-2004 2321Z  cqww2004                     <PP5ZP>
+ 28443.4  JA2ZJW      30-Oct-2004 2322Z                                <NT6K>
+ 28583.0  JF7PHE      30-Oct-2004 2321Z  cqww2004                     <PP5ZP>
+ 28507.1  JA7YAA      30-Oct-2004 2322Z                              <WA6OEC>
+ 28594.1  7K3OWM      30-Oct-2004 2320Z                               <PY3OL>
+ 28586.6  JA5MXP      30-Oct-2004 2320Z                                <W6YX>
+ 21255.7  JI2UNR      30-Oct-2004 2322Z  CORRECTION                   <W1EBI>
+ 28582.9  JF7PHE      30-Oct-2004 2320Z                                <W6YX>
+ 21255.8  JA2UNR      30-Oct-2004 2321Z                               <W1EBI>
+ 21312.0  JI3VUB      30-Oct-2004 2319Z                                <WX3B>
+ 28586.7  JA5MXP      30-Oct-2004 2319Z                                <W6TA>
+ 28550.2  JJ2LPV      30-Oct-2004 2319Z  cqww2004                     <PP5ZP>
+ 21231.5  JA3BOA      30-Oct-2004 2320Z                               <W1EBI>
+ 28626.0  JG2SON      30-Oct-2004 2318Z                                <W6TA>
+ 28597.2  JA3YBK      30-Oct-2004 2317Z                                <W6TA>
+ 28566.5  JG2TKH      30-Oct-2004 2316Z                                <W6YX>
+ 28380.2  JE1ZWT      30-Oct-2004 2316Z                               <PY3OL>
+ 28563.5  JS3CTQ      30-Oct-2004 2316Z                                <W6TA>
+ 21319.0  JR3NZC      30-Oct-2004 2316Z                                <W2WG>
+ 28360.8  JH1AZO      30-Oct-2004 2316Z                               <PY3OL>
+ 28550.1  JJ2LPV      30-Oct-2004 2316Z                                <W6TA>
+ 28611.4  JA1BPA      30-Oct-2004 2316Z                               <K6OWL>
+ 21333.2  JA7YRR      30-Oct-2004 2316Z                                <K1KI>
+ 28522.3  JA3XOG      30-Oct-2004 2315Z  cqww2004                     <PP5ZP>
+ 28528.4  JE1OHL      30-Oct-2004 2315Z                                <W6TA>
+ 28627.0  JJ1LGO      30-Oct-2004 2315Z                               <PY3OL>
+ 28522.3  JA3XOG      30-Oct-2004 2315Z                                <W6TA>
+ 28585.2  JA5MXP      30-Oct-2004 2314Z                               <PY3OL>
+ 21429.3  JR3RIY      30-Oct-2004 2313Z                                <WE2F>
+ 28513.8  JM1NKT      30-Oct-2004 2314Z                                <W6TA>
+ 28507.1  JA7YAA      30-Oct-2004 2314Z                                <W6TA>
+ 28470.7  JA5BJC      30-Oct-2004 2316Z                                <KQ7W>
+ 28364.0  JN7IIR      30-Oct-2004 2314Z                                <K6EU>
+ 28439.4  JA3USA      30-Oct-2004 2312Z  cqww2004                     <PP5ZP>
+ 28427.9  JA7OWD      30-Oct-2004 2312Z  cqww2004                     <PP5ZP>
+ 21312.0  JI3VLB      30-Oct-2004 2311Z                                <N6VH>
+ 28593.7  JA7QFU      30-Oct-2004 2311Z                                <W0MU>
+ 21339.7  JQ1BNL      30-Oct-2004 2309Z                                <WE2F>
+ 28563.2  JS3CTQ      30-Oct-2004 2310Z                                <N3AD>
+ 21312.0  JI3VUB      30-Oct-2004 2309Z                               <K1TTT>
+ 28500.6  7L1JHN      30-Oct-2004 2309Z                               <K6OWL>
+ 28627.0  JJ1LGO      30-Oct-2004 2309Z                                <W0MU>
+ 28360.8  JH1AZO      30-Oct-2004 2309Z  cqww2004                     <PP5ZP>
+ 21286.7  JA1YFG      30-Oct-2004 2308Z                                <N6VH>
+ 14293.9  JA8RWU      30-Oct-2004 2308Z                                <K1MZ>
+ 28446.2  JA7YRR      30-Oct-2004 2308Z                                <N3AD>
+ 21311.4  JI3VUB      30-Oct-2004 2308Z                                <W5ZO>
+ 28348.5  JQ2IQW      30-Oct-2004 2308Z  cqww2004                     <PP5ZP>
+ 21311.8  JI3VUB      30-Oct-2004 2306Z                                <WE2F>
+ 28336.4  JF3BFS      30-Oct-2004 2307Z  cqww2004                     <PP5ZP>
+ 28550.2  JJ2LPV      30-Oct-2004 2306Z                               <PY3OL>
+ 28380.2  JE1ZWT      30-Oct-2004 2306Z                               <K1TTT>
+ 28563.4  JS3CTQ      30-Oct-2004 2306Z                               <PY3OL>
+ 28336.5  JF3BFS      30-Oct-2004 2306Z                                <AA3B>
+ 28507.1  JA7YAA      30-Oct-2004 2305Z                                <W0MU>
+ 28382.3  JA7NVF      30-Oct-2004 2305Z                               <K6OWL>
+ 21445.0  7M2PSC      30-Oct-2004 2307Z                               <AK7AT>
+ 28573.1  JO7KMB      30-Oct-2004 2305Z                               <PY3OL>
+ 21311.4  JR3RIY      30-Oct-2004 2304Z                                <N1DG>
+ 28319.9  JH0HQP      30-Oct-2004 2304Z  cqww2004                     <PP5ZP>
+ 28470.6  JA5BJC      30-Oct-2004 2307Z                                <KQ7W>
+ 21272.0  JO1ZYI      30-Oct-2004 2304Z                                <N6VH>
+ 21447.6  JL3VUL/3    30-Oct-2004 2305Z                               <AK7AT>
+ 21249.8  JA7ODY      30-Oct-2004 2303Z                                <N6VH>
+ 28446.2  JA7YRR      30-Oct-2004 2302Z                                <W6YX>
+ 28443.4  JA2ZJW      30-Oct-2004 2302Z                                <W6YX>
+ 28427.9  JA7OWD      30-Oct-2004 2302Z                                <W6YX>
+ 28422.7  JH1AGU      30-Oct-2004 2302Z                                <W6YX>
+ 28320.0  JH0HQP      30-Oct-2004 2300Z                               <K6OWL>
+ 28559.4  JR9OPJ      30-Oct-2004 2301Z                                <K6EU>
+ 21231.5  JA3BOA      30-Oct-2004 2300Z                                <N6VH>
+ 21315.0  JA3USA      30-Oct-2004 2300Z                              <XE2JSP>
+ 28618.8  JJ1RDX      30-Oct-2004 2259Z  cqww2004                     <PP5ZP>
+ 21255.8  JI2UNR      30-Oct-2004 2259Z                                <W2LE>
+ 28360.8  JH1AZO      30-Oct-2004 2259Z                                <W0MU>
+ 28550.2  JJ2LPV      30-Oct-2004 2300Z                                <K6EU>
+ 28597.6  JA3YBK      30-Oct-2004 2257Z  cqww2004                     <PP5ZP>
+ 21415.6  JF2FIU      30-Oct-2004 2257Z                                <K9NS>
+ 28336.5  JF3BFS      30-Oct-2004 2257Z                                <W6YX>
+ 21347.1  JA5BJC      30-Oct-2004 2257Z                                <N0AT>
+ 28573.1  JO7KMB      30-Oct-2004 2257Z  cqww2004                     <PP5ZP>
+ 28427.9  JA7OWD      30-Oct-2004 2256Z                                <NT6K>
+ 28563.4  JS3CTQ      30-Oct-2004 2254Z  cqww2004                     <PP5ZP>
+ 21351.4  JJ1ZNF      30-Oct-2004 2253Z                                <N3NR>
+ 28546.8  JI2ZJS      30-Oct-2004 2252Z  cqww2004                     <PP5ZP>
+ 21371.7  JA3YBK      30-Oct-2004 2252Z                                <K1MZ>
+ 28524.6  JE1MMX      30-Oct-2004 2252Z  cqww2004                     <PP5ZP>
+ 21374.5  7K4XNN      30-Oct-2004 2250Z                                <WE2F>
+ 28524.8  JE1MMX      30-Oct-2004 2250Z                                <K6EU>
+ 28630.0  JA3LFK      30-Oct-2004 2247Z  qrp station                   <W6VA>
+ 28470.7  JA5BJC      30-Oct-2004 2247Z  cqww2004                     <PP5ZP>
+ 21319.0  JR3NZC      30-Oct-2004 2247Z                                <K0KP>
+ 21314.9  JA3USA      30-Oct-2004 2246Z                                <K1MZ>
+ 21354.0  JA9IPF      30-Oct-2004 2248Z                               <W2IRT>
+ 21420.8  JR1AIB      30-Oct-2004 2246Z                                <N1MM>
+ 28563.4  JS3CTQ      30-Oct-2004 2245Z                                <K2LE>
+ 28443.5  JA2ZJW      30-Oct-2004 2244Z  cqww2004                     <PP5ZP>
+ 21280.5  JI2KXK      30-Oct-2004 2241Z                                <K1MZ>
+ 21351.5  JJ1ZNF      30-Oct-2004 2241Z                                <W1NK>
+ 21353.8  JA9IPF      30-Oct-2004 2241Z                                <N3MX>
+ 21354.0  JA9IPF      30-Oct-2004 2239Z                               <XE2AC>
+ 21286.6  JA1YFG      30-Oct-2004 2239Z                               <K1TTT>
+ 21254.7  JI2UNR      30-Oct-2004 2237Z                                <W6YX>
+ 21374.6  JA1VND      30-Oct-2004 2237Z                                <K5WW>
+ 28470.6  JA5BJC      30-Oct-2004 2236Z                                <W1BK>
+ 28443.3  JA2ZJW      30-Oct-2004 2235Z                                <W1BK>
+ 28428.0  JA7OWD      30-Oct-2004 2233Z                               <XE2AC>
+ 21241.8  JO1ZYI      30-Oct-2004 2234Z                                <K1MZ>
+ 21231.6  JA3BOA      30-Oct-2004 2234Z                              <W1AJT/VE3>
+ 28572.1  JO7KMB      30-Oct-2004 2232Z                                <NT6K>
+ 28443.3  JA2ZJW      30-Oct-2004 2229Z                                <N3AD>
+ 28439.1  JA3USA      30-Oct-2004 2229Z                                <N3AD>
+ 28427.7  JA7OWD      30-Oct-2004 2228Z                                <N3AD>
+ 28542.5  JS3CTQ      30-Oct-2004 2229Z                                <NT6K>
+ 28535.0  JE1ZWT      30-Oct-2004 2228Z                                <NT6K>
+ 14294.0  JA8RWU      30-Oct-2004 2226Z  cqww2004                     <PP5ZP>
+ 28427.8  JA7OWD      30-Oct-2004 2226Z                                <K3OO>
+ 28542.4  JS3CTQ      30-Oct-2004 2226Z                               <K6OWL>
+ 14281.4  JA3YBK      30-Oct-2004 2226Z  cqww2004                     <PP5ZP>
+ 28547.7  JI2ZJS      30-Oct-2004 2225Z                               <K6OWL>
+ 14293.9  JA8RWU      30-Oct-2004 2225Z                                <K8AZ>
+ 28567.0  JJ1RDX      30-Oct-2004 2224Z                               <K6OWL>
+ 28367.8  JF2IWW      30-Oct-2004 2224Z                                <K3OO>
+ 28509.1  7K3OWM      30-Oct-2004 2224Z                                <NT6K>
+ 21333.5  JA7YRR      30-Oct-2004 2221Z                               <VE1SK>
+ 28572.0  JO7KMB      30-Oct-2004 2221Z                                <N1SZ>
+ 21364.6  JL3JRY      30-Oct-2004 2220Z                                <K8AZ>
+ 28470.7  JA5BJC      30-Oct-2004 2219Z                                <NT6K>
+ 21353.8  JA9IPF      30-Oct-2004 2217Z                               <VE1SK>
+ 28509.0  7K3OWM      30-Oct-2004 2217Z                                <K1IR>
+ 21309.7  JA1VND      30-Oct-2004 2213Z                                <K1RX>
+ 21309.6  JA1VND      30-Oct-2004 2213Z                                <W6YX>
+ 28476.0  JQ2IQW      30-Oct-2004 2213Z                               <K6OWL>
+ 14281.2  JA3YBK      30-Oct-2004 2212Z                               <N8WXQ>
+ 21231.5  JA3BOA      30-Oct-2004 2211Z                                <N1RK>
+ 28470.8  JA5BJC      30-Oct-2004 2211Z                                <K3II>
+ 21405.1  JA7NVF      30-Oct-2004 2210Z                                <W0ZD>
+ 21309.7  JA1KND      30-Oct-2004 2209Z                                <K8AZ>
+ 28525.6  JA3YBK      30-Oct-2004 2208Z                                <W1BK>
+ 21405.3  JA7NVF      30-Oct-2004 2207Z                               <W1DDD>
+ 14293.3  JA8RWU      30-Oct-2004 2206Z                                <N3ZA>
+ 21254.7  JI2UNR      30-Oct-2004 2203Z                                <K1RX>
+ 21433.7  JI2ZJS      30-Oct-2004 2201Z                              <W1AJT/VE3>
+ 28428.0  JA7OWD      30-Oct-2004 2200Z                                <W0MU>
+ 21297.4  JA1PCY      30-Oct-2004 2159Z                                <K8AZ>
+ 28535.1  JE1ZWT      30-Oct-2004 2157Z                                <W0MU>
+ 28546.0  JF7PHE      30-Oct-2004 2157Z                               <K6OWL>
+ 21213.4  JH1CCN      30-Oct-2004 2156Z                                <K8AZ>
+ 21405.6  JA7NVF      30-Oct-2004 2156Z                              <W1AJT/VE3>
+ 28470.7  JA5BJC      30-Oct-2004 2156Z                                <K6EU>
+ 28445.1  JA7YRR      30-Oct-2004 2153Z                                <K5WW>
+ 28431.2  JA2ZJY      30-Oct-2004 2155Z                                <N3BB>
+ 21333.5  JA7YRR      30-Oct-2004 2153Z                                <W6YX>
+ 21372.0  JA3YBK      30-Oct-2004 2152Z                              <W1AJT/VE3>
+ 28431.3  JA2ZJW      30-Oct-2004 2152Z                               <K6OWL>
+ 28422.8  JH1AGU      30-Oct-2004 2152Z                                <N3BB>
+ 21371.7  JA3YBK      30-Oct-2004 2149Z                                <W1BK>
+ 21280.6  JI2KXK      30-Oct-2004 2149Z                                <N6VH>
+ 21433.7  JI2ZJS      30-Oct-2004 2148Z                               <XE2AC>
+ 21441.1  JA0LBE      30-Oct-2004 2147Z                               <XE2AC>
+ 21238.9  JE1ZWT      30-Oct-2004 2143Z                                <N6VH>
+ 28549.8  JH0EQN      30-Oct-2004 2141Z                               <W6RKC>
+ 14318.1  JA5BJC      30-Oct-2004 2141Z                                <W0BR>
+ 28431.2  JA2JYW      30-Oct-2004 2138Z                               <XE2AC>
+ 28534.1  JJ1RDX      30-Oct-2004 2140Z                                <NT6K>
+ 28422.7  JH1AGU      30-Oct-2004 2138Z                               <XE2AC>
+ 21254.7  JI2UNR      30-Oct-2004 2136Z                               <W8CNL>
+ 28525.4  JA3YBK      30-Oct-2004 2136Z                                <K6EU>
+ 28525.4  JA3YNK      30-Oct-2004 2136Z                                <K6EU>
+ 21353.9  JA9IPF      30-Oct-2004 2134Z                                <NN3Q>
+ 21347.4  JA5BJC      30-Oct-2004 2133Z                                <NN3Q>
+ 28534.0  JJ1RDX      30-Oct-2004 2132Z                                <K5WW>
+ 21433.4  JI2ZJS      30-Oct-2004 2132Z                                <W1BK>
+ 21280.5  JI2KXK      30-Oct-2004 2127Z                                <W1BK>
+ 21426.8  JA1PCY      30-Oct-2004 2128Z                               <AK7AT>
+ 21347.5  JA5BJC      30-Oct-2004 2122Z                               <K6OWL>
+ 14293.8  JA8RWU      30-Oct-2004 2120Z                                <W6YX>
+ 28431.3  JA2ZJW      30-Oct-2004 2119Z                                <K5WW>
+ 28422.7  JH1AGU      30-Oct-2004 2116Z                                <K5WW>
+ 21300.0  JA7YAA      30-Oct-2004 2116Z                                <N3AD>
+ 21254.8  JI2UNR      30-Oct-2004 2105Z                                <N3AE>
+ 21419.8  JA7MGP      30-Oct-2004 2111Z                               <K6OWL>
+  7097.8  JH1AEP      30-Oct-2004 2110Z  not listening for usa         <K1KI>
+  7057.3  JA3YBK      30-Oct-2004 2110Z                              <IN3QCI>
+ 21347.5  JA5BJC      30-Oct-2004 2107Z                               <AK7AT>
+ 21433.5  JI2ZJS      30-Oct-2004 2104Z                               <K6OWL>
+ 21396.8  JF2IWL      30-Oct-2004 2101Z                               <K6OWL>
+  7098.6  JA5BJC      30-Oct-2004 2058Z                              <IN3QCI>
+  7046.0  JA4JBZ      30-Oct-2004 2057Z  ur only 10W st!!!           <JA4QTC>
+ 21333.1  JA7YRR      30-Oct-2004 2059Z                               <AK7AT>
+ 21242.3  JO1ZYI      30-Oct-2004 2052Z                               <K6OWL>
+ 21269.6  JA7NVF      30-Oct-2004 2047Z                               <K6OWL>
+ 14216.3  JA2ZJW      30-Oct-2004 2045Z                                <W6YX>
+ 14224.7  JA7YAA      30-Oct-2004 2044Z                                <W6YX>
+  7036.8  JA5BJC      30-Oct-2004 2044Z                              <IN3QCI>
+  3803.2  JA5BJC      30-Oct-2004 2039Z  QSX 3728.0                  <DL1HCM>
+  7036.7  JA5BJC      30-Oct-2004 2038Z                              <IN3QCI>
+ 21365.5  JJ2IJU      30-Oct-2004 2035Z                               <K6OWL>
+ 21346.3  JE1MMX      30-Oct-2004 2031Z                               <K6OWL>
+  3803.2  JA5BJC      30-Oct-2004 2031Z  qsx 3728                     <F5NTV>
+  7057.0  JA3BYK      30-Oct-2004 2028Z                               <DK4NJ>
+  7036.5  JA5BJC      30-Oct-2004 2020Z                              <DL5MEV>
+  3792.3  JA2KIW      30-Oct-2004 2018Z  Off-band inJA !             <JA1QTC>
+ 21269.5  JA2ZJW      30-Oct-2004 2021Z                                <KQ7W>
+  7086.2  JI2ZJS      30-Oct-2004 2010Z                              <OK1FDR>
+  7056.9  JA3YBK      30-Oct-2004 2007Z                              <DL5MEV>
+  7036.5  JA5BJC      30-Oct-2004 2004Z                               <DM3ML>
+ 21303.3  JA3YBK      30-Oct-2004 1955Z                               <K6OWL>
+  7092.6  JA7YRR      30-Oct-2004 1949Z                               <RW9WA>
+  7084.3  JJ1ZNF      30-Oct-2004 1946Z                               <RW9WA>
+ 14337.9  JA3YBK      30-Oct-2004 1945Z                                <W6YX>
+  7037.3  JA5BJC      30-Oct-2004 1916Z                               <YU1RE>
+  7037.3  JA5BJC      30-Oct-2004 1856Z  ww                           <LZ2BE>
+  7046.2  JA3YBK      30-Oct-2004 1856Z  ww                           <LZ2BE>
+  3802.9  JA5BJC      30-Oct-2004 1812Z  LSN 3735.0                   <RW9WA>
+  3804.9  JA3YBK      30-Oct-2004 1809Z  LSN 3740.0                   <RW9WA>
+  3802.9  JA5BJC      30-Oct-2004 1803Z  qsx 3735                      <RL3A>
+  3804.8  JA3YBK      30-Oct-2004 1801Z  qsx 3740                      <RL3A>
+  7056.3  JH7XMO      30-Oct-2004 1750Z                               <RW9WA>
+  7070.0  JI2ZJW      30-Oct-2004 1741Z                               <RW9WA>
+  7050.5  JH1AEP      30-Oct-2004 1738Z                               <RW9WA>
+  7042.6  JA7YAA      30-Oct-2004 1735Z                               <RW9WA>
+  7050.5  JA7YAA      30-Oct-2004 1715Z                              <RA9FTM>
+ 14344.4  JA1YPA      30-Oct-2004 1645Z                                <PI4D>
+  7057.6  JH1AEP      30-Oct-2004 1631Z                                <S50C>
+ 14280.8  JA2ZJW      30-Oct-2004 1534Z                                <N6VH>
+  3797.5  JA7YRR      30-Oct-2004 1532Z                               <RA6AU>
+ 14233.5  JA3YBK      30-Oct-2004 1522Z                               <DL8RJ>
+  7073.0  JA5BJC      30-Oct-2004 1521Z                               <ON6DK>
+  7037.1  JS3CTQ      30-Oct-2004 1521Z                                <W6TA>
+  7072.8  JA5BJC      30-Oct-2004 1515Z                                <W6TA>
+  7072.8  JA5BHC      30-Oct-2004 1515Z                                <W6TA>
+  7059.5  JR1LZK      30-Oct-2004 1514Z                                <W6TA>
+  7040.6  JA2KVD      30-Oct-2004 1514Z                              <RK9CZO>
+  7066.8  JH1AEP      30-Oct-2004 1513Z                                <W6TA>
+  7078.3  JI2ZJS      30-Oct-2004 1512Z                                <W6TA>
+ 14292.0  JA5BJC      30-Oct-2004 1510Z                               <RW9WA>
+  7054.3  JA1YFG      30-Oct-2004 1503Z                                <W6TA>
+  7067.0  JH1AEP      30-Oct-2004 1502Z                                <W6TA>
+  7072.8  JA5BJC      30-Oct-2004 1502Z                                <W6TA>
+  7085.4  JA1LNZ      30-Oct-2004 1501Z                                <W6TA>
+  7040.8  JA2KVD      30-Oct-2004 1459Z                                <W6TA>
+  7065.4  JA7YRR      30-Oct-2004 1456Z                                <W6TA>
+ 14344.4  JA8RWU      30-Oct-2004 1457Z                                <PI4D>
+  7073.0  JA5BJC      30-Oct-2004 1455Z                                <W6TA>
+  7088.4  JS3CTQ      30-Oct-2004 1455Z                                <W6TA>
+  7037.5  JA3USA      30-Oct-2004 1453Z                                <W6TA>
+  7066.8  JH1AEP      30-Oct-2004 1445Z                                <PA7A>
+  7073.0  JA5BJC      30-Oct-2004 1441Z  ....very loud..              <DF8QB>
+  7088.5  JS3CTQ      30-Oct-2004 1441Z  QSX 7254.0                    <W7VJ>
+  3796.0  JA7YRR      30-Oct-2004 1440Z  QSX 3765                      <W6YX>
+  7072.8  JA5BJC      30-Oct-2004 1435Z                                <PA7A>
+  7075.0  JA3YBK      30-Oct-2004 1433Z                                <PA7A>
+  3796.1  JA7YRR      30-Oct-2004 1432Z  QSX 3765.0                    <RO4M>
+  7073.0  JA5BJC      30-Oct-2004 1429Z                               <RW9WA>
+ 14322.0  JA5BJC      30-Oct-2004 1421Z                               <OH2XX>
+  3802.1  JA5BJC      30-Oct-2004 1411Z  QSX 3764.0                    <RO4M>
+  3799.9  JG7IJM      30-Oct-2004 1409Z                                <W7VJ>
+ 14155.5  JK1EVD      30-Oct-2004 1408Z  cq                            <YZ1U>
+  3793.0  JE1SPY      30-Oct-2004 1407Z                                <W7VJ>
+ 14167.0  JR1AIB      30-Oct-2004 1403Z                               <OH2XX>
+ 14116.7  JA3YBK      30-Oct-2004 1356Z                               <OH2XX>
+  3798.4  JI2ZJS      30-Oct-2004 1352Z                                <K5RC>
+  7073.0  JA5BJC      30-Oct-2004 1349Z                              <RK6AXS>
+  7034.4  JH7XMO      30-Oct-2004 1348Z  qsx 7244                      <PA7A>
+  3804.9  JA3YBK      30-Oct-2004 1340Z                                <W6YX>
+  7041.0  JA3USA      30-Oct-2004 1331Z  qrx 7222                      <NB6U>
+  3796.9  JE1ZWT      30-Oct-2004 1328Z                                <W6YX>
+  3802.2  JA5BJC      30-Oct-2004 1327Z                                <W6YX>
+  3799.5  JA7YRR      30-Oct-2004 1327Z  listening 3765                <KH2X>
+  3798.3  JI2ZJS      30-Oct-2004 1326Z  QSX 3820.0                    <W6YX>
+  7072.9  JA5BJC      30-Oct-2004 1326Z                               <RW9WA>
+  7074.9  JA3YBK      30-Oct-2004 1325Z  QSX 7223                      <W5GN>
+ 14247.2  JA5BJC      30-Oct-2004 1323Z  59+20                        <F6BGC>
+ 14169.4  JS3CTQ      30-Oct-2004 1319Z  59+                          <F6BGC>
+  7034.5  JH7XMO      30-Oct-2004 1315Z  QSX 7243.0                    <W5GN>
+  7044.0  JJ1ZNF      30-Oct-2004 1313Z  QSX 7178.0                    <W5GN>
+  7050.0  JA1TMG      30-Oct-2004 1308Z  QSX 7177.0                    <W5GN>
+  7076.9  JA7YAA      30-Oct-2004 1306Z  QSX 7198.5                    <W5GN>
+  7050.0  JA3YBK      30-Oct-2004 1301Z  QSX 7245.0                    <K9NS>
+  7078.5  JI2ZJS      30-Oct-2004 1258Z  QSX 7244                      <W6YX>
+  3799.5  JA7YRR      30-Oct-2004 1251Z  QSX 3765                      <W6YX>
+  3797.0  JE1ZWT      30-Oct-2004 1248Z                                <K5UO>
+  7055.1  JA7YRR      30-Oct-2004 1247Z  QSX 7255                      <W6YX>
+  7057.6  JE1ZWT      30-Oct-2004 1247Z  QSX 7247.0                    <W6YX>
+ 14292.7  JA3YBK      30-Oct-2004 1240Z                                <W6YX>
+ 14299.1  JA8RWU      30-Oct-2004 1239Z                                <W6YX>
+ 14313.4  JA5BJC      30-Oct-2004 1239Z                                <W6YX>
+  1821.5  JA8ISU      30-Oct-2004 1238Z                                <W7LR>
+  3804.9  JA3YBK      30-Oct-2004 1236Z  QSX 3815                      <W6YX>
+  3801.4  JR1AIB      30-Oct-2004 1236Z  QSX 3809.0                    <W6YX>
+  3802.0  JA7YAA      30-Oct-2004 1235Z  QSX 3779.0                    <W6YX>
+  3797.0  JE1ZWT      30-Oct-2004 1233Z                                <W6YX>
+ 14161.4  JE1LFX      30-Oct-2004 1229Z                                <W6YX>
+  7067.0  JH1AEP      30-Oct-2004 1225Z  QSX 7248.0                   <W3LPL>
+ 14190.4  JA7NVF      30-Oct-2004 1214Z                                <AE9B>
+  7075.9  JS3CTQ      30-Oct-2004 1217Z                                <N3BB>
+  3802.4  JA3YBK      30-Oct-2004 1214Z                                <W6YX>
+  7072.0  JA5BJC      30-Oct-2004 1215Z                                <N3BB>
+  7057.0  JR1ACB      30-Oct-2004 1212Z  7215                          <KZ4V>
+ 14190.4  JA7NVF      30-Oct-2004 1219Z                               <ON6SM>
+  7047.0  7K4PTY      30-Oct-2004 1209Z  QSX 7208.0                   <W3LPL>
+  7035.7  JH7XMO      30-Oct-2004 1204Z  QSX 7244                      <W6YX>
+  7055.1  JA7YRR      30-Oct-2004 1201Z  QSX 7255                      <W6YX>
+  7057.5  JR1AIB      30-Oct-2004 1201Z  QSX 7215                      <W6YX>
+  7062.9  JA1TMG      30-Oct-2004 1155Z  QSX 7228                      <W6YX>
+  7066.9  JH1AEP      30-Oct-2004 1154Z  QSX 7248                      <W6YX>
+  3803.0  JA7YRR      30-Oct-2004 1153Z  QSX 3782.0   Local QRM on 38 <K5PTC>
+  7043.4  JA3USA      30-Oct-2004 1152Z  QSX 7243.80                  <K1TTT>
+  3803.0  JA7YRR      30-Oct-2004 1152Z  QSX 3782.0                    <W6YX>
+  7088.0  JI2ZJS      30-Oct-2004 1152Z  QSX 7290.0                   <AA5NT>
+  7050.0  JA3YBK      30-Oct-2004 1142Z  QSX 7245.00                  <K1TTT>
+  7057.7  JA7ODY      30-Oct-2004 1138Z  QSX 7196                      <W6YX>
+  7056.5  JA7YRR      30-Oct-2004 1135Z  QSX 7200                      <W6YX>
+  3802.3  JA3YBK      30-Oct-2004 1134Z                                <W6YX>
+  3804.8  JA3YBK      30-Oct-2004 1129Z  25                            <K7LB>
+  7088.6  JI2ZJS      30-Oct-2004 1130Z  QSX 7213.1                    <N0NI>
+  7075.0  JJ1ZNF      30-Oct-2004 1128Z  QSX 7198.0                    <K5NA>
+  7066.9  JH1AEP      30-Oct-2004 1126Z  qsx 7248                      <K3LR>
+  7072.1  JA5BJC      30-Oct-2004 1126Z  QSX 7217                      <W6YX>
+ 21190.6  JA5BJC      30-Oct-2004 1121Z  Tatsuro                      <DJ7IL>
+  7050.1  JA3YBK      30-Oct-2004 1118Z  QSX 7245                      <W6YX>
+  7043.9  JA3USA      30-Oct-2004 1116Z  QSX 7198                      <W6YX>
+ 28468.6  8K1A        30-Oct-2004 1116Z  WAZ 8                        <DF6PW>
+  7066.7  JH1AEP      30-Oct-2004 1110Z  QSX 7219.00                   <W6TA>
+ 21190.7  JA5BJC      30-Oct-2004 1107Z  LOUD ON MY GP !              <F5PHW>
+ 14156.0  JA8RWU      30-Oct-2004 1058Z  5 =9                        <2E1WHC>
+ 14337.0  JR1AIB      30-Oct-2004 1058Z                              <JF1PJK>
+ 14326.2  JA5BJC      30-Oct-2004 1054Z                              <IZ8DEP>
+  7060.0  JA7YRR      30-Oct-2004 1049Z  QSX 7265.0  Sri no hear me    <AE9B>
+ 14285.7  JA1YFG      30-Oct-2004 1045Z                              <SP3DSC>
+ 14326.5  JA5BJC      30-Oct-2004 1043Z  loud!                        <DL8RJ>
+ 14337.0  JR1AIB      30-Oct-2004 1042Z  loud!                        <DL8RJ>
+ 14156.6  JA8RWU      30-Oct-2004 1040Z                               <HA2VR>
+  7094.2  JH1AEP      30-Oct-2004 1031Z  QSX 7219.0                    <AE9B>
+  7058.0  JE1ZWT      30-Oct-2004 1030Z  QSX 7214.00 CALL CORR.        <W6TA>
+  7058.0  JE1JWT      30-Oct-2004 1029Z  QSX 7214.00                   <W6TA>
+  3796.4  JE1ZWT      30-Oct-2004 1024Z                                <W6UC>
+  7070.0  JF1IST      30-Oct-2004 1019Z  QSX 7.208                   <WA4NFO>
+  3802.9  JA7YRR      30-Oct-2004 1021Z                                <K8IA>
+ 14267.0  JA3YBK      30-Oct-2004 1014Z                               <OM8AA>
+  7094.2  JH1AEP      30-Oct-2004 1009Z  QSX 7219.0                    <K3OO>
+  3803.0  JA7YRR      30-Oct-2004 1001Z  QSX 3775.0                    <W6YX>
+  7076.0  JA7YRR      30-Oct-2004 0950Z  QSX 7220.0                    <K8AZ>
+  7087.0  JR1AIB      30-Oct-2004 0938Z  QSX 7215                    <JF1PJK>
+  7083.2  JH0HQP      30-Oct-2004 0937Z  QSX 7221.00                   <W6TA>
+ 21321.2  JA3YBK      30-Oct-2004 0935Z  25 en français fb           <ON5LGS>
+ 21176.5  JA5BJC      30-Oct-2004 0931Z                               <F6BGC>
+  7067.0  JJ1ZNF      30-Oct-2004 0927Z  QSX 7209.00                   <W6TA>
+  3791.5  JA2EAM      30-Oct-2004 0924Z  Off-band in JA              <JA1QTC>
+  3797.8  JA1OVD      30-Oct-2004 0919Z                                <W6UC>
+  3793.1  JA3KZD      30-Oct-2004 0918Z  Off-band in JA              <JA1QTC>
+  3793.1  JA8CMC      30-Oct-2004 0918Z  Off-band in JA              <JA1QTC>
+  3793.1  JA4DC       30-Oct-2004 0915Z  Off-band in JA              <JA1QTC>
+  7046.0  JE1ZWT      30-Oct-2004 0912Z  QSX 7254.00                   <W6TA>
+  7052.9  JA7YRR      30-Oct-2004 0909Z  QSX 7213.00                   <W6TA>
+  7078.5  JH7XMO      30-Oct-2004 0903Z  qsx 7251                      <W6TA>
+  7046.1  JE1ZWT      30-Oct-2004 0900Z  qsx 7174                      <W6TA>
+  7081.7  JR1AIB      30-Oct-2004 0859Z  QSX 7215.0                   <AA5NT>
+  7066.8  JJ1ZNF      30-Oct-2004 0859Z  QSX 7208.8                    <K8AZ>
+  7093.6  JA3YBK      30-Oct-2004 0858Z  QSX 7248.0                    <K9NS>
+  7093.7  JA3YBK      30-Oct-2004 0857Z  QSX 7248.0                   <AA5NT>
+  7066.9  JJ1ZNF      30-Oct-2004 0854Z  QSX 7209.0                   <AA5NT>
+  7099.0  JF1IST      30-Oct-2004 0850Z  QSX 7188.0                    <NI6T>
+  7077.5  JA4OEF      30-Oct-2004 0838Z  QSX 7215.0                    <W6YX>
+ 14298.0  JA5BJC      30-Oct-2004 0826Z                                <K1IR>
+ 21431.0  JI2ZJS      30-Oct-2004 0822Z                              <DG1SGP>
+ 21428.0  JS3CTQ      30-Oct-2004 0815Z                              <DG1SGP>
+ 21202.8  JR1AIB      30-Oct-2004 0811Z                              <SP8TJU>
+  7051.0  JA3YBK      30-Oct-2004 0811Z  QSX 7215.0                    <NI6T>
+ 21197.2  JF2IWL      30-Oct-2004 0809Z                              <SP8TJU>
+ 14298.0  JA5BJC      30-Oct-2004 0802Z                               <F4JVG>
+ 28428.0  JA7OWD      30-Oct-2004 0758Z  CQ TEST                     <JA1NWD>
+ 28367.6  JG2SON      30-Oct-2004 0758Z  TEST                        <IK7BPV>
+ 14303.0  JA7YRR      30-Oct-2004 0754Z                              <GM0GMN>
+ 14298.0  JA5BJC      30-Oct-2004 0752Z                              <GM0GMN>
+ 14290.0  JA5BJC      30-Oct-2004 0751Z                              <GM0GMN>
+ 28357.0  JF9JTS      30-Oct-2004 0747Z  TEST                        <IK7BPV>
+  7061.9  JE1ZWT      30-Oct-2004 0743Z  QSX 7245.00                   <WD0M>
+  7062.0  JE1ZWT      30-Oct-2004 0743Z  QSX 7245.00                   <WD0M>
+ 14192.0  JA1YPA      30-Oct-2004 0741Z                              <GM0GMN>
+  7062.0  JE1ZWT      30-Oct-2004 0739Z  Zone 25                      <KD6UO>
+  7051.0  JA3YBK      30-Oct-2004 0738Z  qsx 7256                      <W6TA>
+  7092.2  JH1AEP      30-Oct-2004 0738Z  qsx7179                     <KE5CTY>
+  7062.0  JE1ZWT      30-Oct-2004 0736Z  qsx 7255                      <W6TA>
+  7062.0  JE1ZWT      30-Oct-2004 0735Z  QSX 7255.0                    <W6YX>
+  7051.0  JA3YBK      30-Oct-2004 0734Z  QSX 7216.0                    <W6YX>
+  7092.2  JH1AEP      30-Oct-2004 0732Z  qsx 7179                      <W6TA>
+ 21203.0  JR1AIB      30-Oct-2004 0732Z                              <JF1PJK>
+ 21172.0  JE1ZWT      30-Oct-2004 0729Z                              <JF1PJK>
+  7085.5  JH7XMO      30-Oct-2004 0728Z  qsx 7219                      <W6TA>
+  7051.0  JA3YBK      30-Oct-2004 0725Z                                <W6TA>
+  7092.2  JH1AEP      30-Oct-2004 0723Z  qsx 7179                      <W6TA>
+ 28476.9  JA5BJC      30-Oct-2004 0721Z                               <DK0DX>
+  7085.4  JH7XMO      30-Oct-2004 0719Z  qsx 7219                      <W6TA>
+  7051.0  JA3YBK      30-Oct-2004 0719Z  Zone 25                      <KD6UO>
+ 14290.7  JA5BJC      30-Oct-2004 0718Z  lp                           <K2OWE>
+  7051.0  JA3YBK      30-Oct-2004 0717Z  QSX 7216.0                    <W6YX>
+  7051.0  JA3YBK      30-Oct-2004 0717Z  qsx 7216                      <W6TA>
+  7092.1  JH1AEP      30-Oct-2004 0715Z  qsx 7179                      <W6TA>
+  7085.5  JH7XMO      30-Oct-2004 0714Z  QSX 7219.0                    <W6YX>
+  7095.1  JM1FHL      30-Oct-2004 0712Z                                <W6TA>
+  7099.7  JA7YRR      30-Oct-2004 0711Z  qsx 7250                      <W6TA>
+  7050.7  JA3YBK      30-Oct-2004 0702Z  qsx 7216                      <K8IA>
+  7092.3  JH1AEP      30-Oct-2004 0702Z  qsx 7179                      <W6TA>
+ 28477.0  JA5BJC      30-Oct-2004 0659Z                              <SV3EXU>
+ 21333.3  JA7YRR      30-Oct-2004 0651Z                              <SP8TJU>
+ 14220.0  JA1MNW      30-Oct-2004 0634Z  cq cq contest                 <YZ1U>
+ 21382.3  JJ1ZNF      30-Oct-2004 0628Z  contest                     <SV3EXU>
+ 21333.0  JA7YRR      30-Oct-2004 0626Z                                <RL3A>
+ 21292.2  JA5BJC      30-Oct-2004 0618Z                              <SP5ZCC>
+ 21312.9  7K4PTY      30-Oct-2004 0612Z                              <OK1DXB>
+ 21382.3  JJ1ZNF      30-Oct-2004 0613Z  contest                     <SV3EXU>
+ 28550.8  JA6WJL      30-Oct-2004 0609Z                              <RA3ATX>
+ 14322.9  JA7YRR      30-Oct-2004 0549Z                               <W6RKC>
+ 28545.0  JH0EQN      30-Oct-2004 0528Z                              <RA0ALM>
+ 21169.1  JK3DGX      30-Oct-2004 0529Z                              <RA3ATX>
+ 28521.2  JE1SLP      30-Oct-2004 0525Z                              <RA0ALM>
+ 28521.2  JA1SLP      30-Oct-2004 0525Z                              <RA0ALM>
+ 14307.0  JA3YBK      30-Oct-2004 0525Z                               <M3ZYZ>
+ 21405.4  7M2PSN      30-Oct-2004 0515Z                              <UA0QBR>
+ 28436.0  JA7BEW      30-Oct-2004 0511Z                              <RA0ALM>
+ 28428.0  JA7OWD      30-Oct-2004 0511Z                              <RA0ALM>
+ 21306.6  JA7NVF      30-Oct-2004 0511Z                                <K9NS>
+ 14214.6  JH0EPI      30-Oct-2004 0507Z  <n9isn-7 <n9knp              <N9KNP>
+ 14214.6  JH0EPI      30-Oct-2004 0509Z                                <W7VJ>
+ 14255.5  JI1FDF      30-Oct-2004 0508Z                                <KQ7W>
+ 14222.5  JA3USA      30-Oct-2004 0506Z                                <NI6T>
+ 14319.8  JA8RWU      30-Oct-2004 0502Z                                <KQ7W>
+ 14306.0  JA3YBK      30-Oct-2004 0446Z                                <W6TA>
+ 21333.1  JA7YRR      30-Oct-2004 0444Z                                <K9NS>
+ 21337.0  JA5BJC      30-Oct-2004 0444Z                                <K9NS>
+ 14202.2  JA7YRR      30-Oct-2004 0442Z                                <W6TA>
+ 21310.0  JE1ZWT      30-Oct-2004 0440Z                               <RU0BB>
+ 21310.0  JE1ZWT      30-Oct-2004 0429Z                                <K9NS>
+ 14328.1  JR1AIB      30-Oct-2004 0426Z                                <K9JY>
+ 14323.1  JA7YAA      30-Oct-2004 0425Z                                <K9JY>
+ 21364.4  JA3YBK      30-Oct-2004 0425Z  big sig                       <K9NS>
+ 14306.1  JA3YBK      30-Oct-2004 0422Z                               <AA5NT>
+ 14292.6  JA1YPA      30-Oct-2004 0422Z                                <K9JY>
+ 21445.1  JQ1GNT      30-Oct-2004 0422Z  25                           <K6III>
+ 14272.0  JA5BJC      30-Oct-2004 0421Z                                <K9JY>
+ 14315.1  JI2ZJS      30-Oct-2004 0420Z                               <AA5NT>
+ 14319.8  JA8RWU      30-Oct-2004 0419Z                               <AA5NT>
+ 14331.8  JS3CTQ      30-Oct-2004 0417Z                               <AA5NT>
+ 21332.5  JA7YRR      30-Oct-2004 0417Z  CQ Contest                  <HS1OVH>
+ 21364.6  JA3YBK      30-Oct-2004 0416Z                               <RU0BB>
+ 21394.2  JA2ZJW      30-Oct-2004 0411Z                               <RU0BB>
+ 14228.0  JI1FDF      30-Oct-2004 0356Z                                <N6VH>
+ 28498.7  JA7YRR      30-Oct-2004 0352Z                               <PY3OL>
+ 14205.0  JA3USA      30-Oct-2004 0352Z                                <N6VH>
+ 21325.0  JR1MQT      30-Oct-2004 0352Z                                <K7ZO>
+ 14204.7  JA3USA      30-Oct-2004 0352Z                                <K6GT>
+ 28550.8  JA6WJL      30-Oct-2004 0351Z                               <PY3OL>
+ 21337.0  JA5BJC      30-Oct-2004 0350Z  contest                     <XE2JSP>
+ 21387.0  JR9NVB      30-Oct-2004 0348Z                                <K9JY>
+ 21364.6  JA3YBK      30-Oct-2004 0347Z                                <K9JY>
+ 14272.7  JA5BJC      30-Oct-2004 0347Z                               <K7EMI>
+ 14272.7  JA5BCJ      30-Oct-2004 0346Z                                <W6YX>
+ 14184.6  JJ1ZNF      30-Oct-2004 0345Z                                <N6VH>
+ 21332.6  JA7YRR      30-Oct-2004 0342Z  contest                     <XE2JSP>
+ 21256.3  JA2BNN      30-Oct-2004 0341Z                                <K9JY>
+ 21236.0  JE1ZWT      30-Oct-2004 0333Z                                <W6YX>
+ 21336.9  JA5BJC      30-Oct-2004 0332Z                                <K9NS>
+ 28500.0  JI2ZJS      30-Oct-2004 0327Z                              <HS1PDY>
+ 14292.9  JE1LFX      30-Oct-2004 0325Z                                <N6VH>
+ 14323.0  JA7YAA      30-Oct-2004 0321Z                                <K9JY>
+ 21185.2  JK2DGX      30-Oct-2004 0321Z                               <PY3OL>
+ 21367.4  JQ2GYU      30-Oct-2004 0320Z                               <PY3OL>
+ 14310.0  JG2KKG      30-Oct-2004 0320Z                                <K9JY>
+ 21394.6  JA2ZJW      30-Oct-2004 0319Z                               <PY3OL>
+ 14295.9  JA8RWU      30-Oct-2004 0319Z                                <K9JY>
+ 21441.2  JA0LBE      30-Oct-2004 0317Z                               <PY3OL>
+ 21445.2  JQ1NGT      30-Oct-2004 0317Z                               <PY3OL>
+ 21421.0  JS3CTQ      30-Oct-2004 0316Z                               <PY3OL>
+ 21387.0  JI2ZJS      30-Oct-2004 0314Z                               <PY3OL>
+ 21364.7  JA3YBK      30-Oct-2004 0313Z                               <PY3OL>
+ 21351.1  JA3USA      30-Oct-2004 0312Z                               <PY3OL>
+ 14170.4  JA7NVF      30-Oct-2004 0308Z                               <K6LLK>
+ 21238.9  JA7ODY      30-Oct-2004 0301Z                               <PY3OL>
+ 28498.5  JA7YRR      30-Oct-2004 0300Z  TEST                        <PY2MTV>
+ 21301.3  JI2UNR      30-Oct-2004 0255Z                               <PY3OL>
+ 28421.9  JA3YBK      30-Oct-2004 0252Z                               <FY5KE>
+ 21332.4  JA7YYR      30-Oct-2004 0251Z  20 over in tx               <KE5CTY>
+ 21402.9  JH1AZO      30-Oct-2004 0249Z                                <N6VH>
+ 21400.1  JR9NVB      30-Oct-2004 0249Z                                <N6VH>
+ 21238.9  JA7ODY      30-Oct-2004 0249Z                                <AG5W>
+ 21397.0  JN2QCV      30-Oct-2004 0248Z                                <N6VH>
+ 21236.0  JE1ZWT      30-Oct-2004 0247Z                                <AG5W>
+ 21387.3  JI2ZJS      30-Oct-2004 0246Z                                <N6VH>
+ 21351.2  JA3USA      30-Oct-2004 0245Z                                <N6VH>
+ 21355.0  JH9KVF      30-Oct-2004 0245Z                                <N6VH>
+ 21236.0  JE1ZWT      30-Oct-2004 0242Z  25                           <K6III>
+ 21335.6  JR1AIB      30-Oct-2004 0233Z                               <K6III>
+ 28498.5  JA7YRR      30-Oct-2004 0234Z  10 Still Open                 <W6KY>
+ 21445.0  JQ1NGT      30-Oct-2004 0233Z  CQ Contest                  <HS1OVH>
+ 21420.0  JE1OHL      30-Oct-2004 0227Z                               <PY3OL>
+ 28422.0  JA3YBK      30-Oct-2004 0226Z  TEST                        <PY2MTV>
+ 21332.7  JA7YRR      30-Oct-2004 0225Z                               <PY3OL>
+ 21235.9  JE1ZWT      30-Oct-2004 0225Z                                <N6VH>
+ 21325.2  JR1MQT      30-Oct-2004 0225Z                               <PY3OL>
+ 21441.2  JA0LBE      30-Oct-2004 0222Z                                <N6VH>
+ 21420.0  JE1OHL      30-Oct-2004 0221Z                                <N6VH>
+ 21335.6  JR1AIB      30-Oct-2004 0224Z                                <KQ7W>
+ 21349.1  JO1ZYI      30-Oct-2004 0223Z                                <KQ7W>
+ 14202.5  JA7YRR      30-Oct-2004 0221Z                                <K5NA>
+ 21348.7  JR3QHQ      30-Oct-2004 0222Z                                <KQ7W>
+ 21364.5  JA3YBK      30-Oct-2004 0222Z                                <KQ7W>
+ 21301.1  JI2UNR      30-Oct-2004 0218Z                               <K7VIT>
+ 21348.8  JR3QHQ      30-Oct-2004 0215Z                                <K6EU>
+ 28422.2  JA3YBK      30-Oct-2004 0213Z                               <PY3OL>
+ 28482.0  JQ2IQW      30-Oct-2004 0212Z                                <K6EU>
+ 21236.0  JE1ZWT      30-Oct-2004 0208Z                                <AE9B>
+ 14275.9  JI1FDF      30-Oct-2004 0208Z                                <K5NA>
+ 21415.1  JJ1ZNF      30-Oct-2004 0201Z                                <K1GU>
+ 21338.9  JA5BJC      30-Oct-2004 0203Z                                <KQ7W>
+ 21239.0  JA7ODY      30-Oct-2004 0159Z                                <N6VH>
+ 28356.9  JM1NKT      30-Oct-2004 0157Z  Zone 25                      <KD6UO>
+ 21335.8  JR1AIB      30-Oct-2004 0154Z                                <K1GU>
+ 28585.2  JH1OCC      30-Oct-2004 0156Z  Zone 25                      <KD6UO>
+ 28356.9  JM1NKT      30-Oct-2004 0157Z                                <K6EU>
+ 28585.2  JH1OCC      30-Oct-2004 0156Z                                <K6EU>
+ 28544.7  JR1AIB      30-Oct-2004 0155Z                                <K6EU>
+ 21325.0  JR1MQT      30-Oct-2004 0154Z  Zone 25                      <KD6UO>
+ 28527.8  JJ1RDX      30-Oct-2004 0153Z  Zone 25                      <KD6UO>
+ 21325.0  JR1MQT      30-Oct-2004 0151Z                                <K1GU>
+ 28527.8  JJ1RDX      30-Oct-2004 0153Z                                <K6EU>
+ 21301.1  JA2UNR      30-Oct-2004 0151Z                                <W0MA>
+ 28498.6  JA7YRR      30-Oct-2004 0150Z  Zone 25                      <KD6UO>
+ 14330.0  JE1LFX      30-Oct-2004 0150Z                                <WY9T>
+ 21312.9  JA7NVF      30-Oct-2004 0148Z                                <K1GU>
+ 21325.1  JR1MQT      30-Oct-2004 0149Z                                <K9JY>
+ 14170.2  JR6EZE      30-Oct-2004 0149Z                                <W6YX>
+ 21322.2  JI3VUB      30-Oct-2004 0148Z                                <W0MA>
+ 21332.6  JA7YRR      30-Oct-2004 0148Z                                <K9JY>
+ 21353.7  JA2KSI      30-Oct-2004 0147Z                                <N6VH>
+ 21353.7  JA2KKI      30-Oct-2004 0146Z                                <K9JY>
+ 21339.0  JA5BJC      30-Oct-2004 0144Z                               <N9OUK>
+ 21356.1  JQ1BNL      30-Oct-2004 0144Z                                <K9JY>
+ 21286.3  JA7YAA      30-Oct-2004 0142Z                                <K1GU>
+ 14333.9  JA8RWU      30-Oct-2004 0143Z                               <W1EBI>
+ 28567.0  JG2TKH      30-Oct-2004 0143Z  25                           <K6III>
+ 21282.6  JR3RIY      30-Oct-2004 0138Z                                <N6VH>
+ 21398.6  JI2ZJS      30-Oct-2004 0138Z                                <K9JY>
+ 21403.3  JA3YBK      30-Oct-2004 0137Z                                <K9JY>
+ 21238.9  JA7ODY      30-Oct-2004 0135Z                                <K1GU>
+ 21235.9  JE1ZWT      30-Oct-2004 0134Z                                <K1GU>
+ 21419.5  JH8DEH      30-Oct-2004 0135Z                                <K9JY>
+ 21422.1  JS3CTQ      30-Oct-2004 0134Z                                <K9JY>
+ 21443.0  JH9URT      30-Oct-2004 0133Z                                <K9JY>
+ 14254.0  JA5BJC      30-Oct-2004 0132Z                                <WY9T>
+ 14334.0  JA8RWU      30-Oct-2004 0130Z  Zone 25                      <KD6UO>
+ 21304.1  JA3NTE      30-Oct-2004 0130Z                               <PY3OL>
+ 21407.3  JA1PCY      30-Oct-2004 0126Z  Zone 25                      <KD6UO>
+ 21407.4  JA1PCY      30-Oct-2004 0123Z                               <PY3OL>
+ 21388.0  JA3USA      30-Oct-2004 0123Z                                <K5NZ>
+ 21388.2  JA3USA      30-Oct-2004 0123Z                                <K5WW>
+ 28365.5  JA7YRR      30-Oct-2004 0120Z                               <K6III>
+ 28508.0  JF1OPL      30-Oct-2004 0119Z  Zone 25                      <KD6UO>
+ 28508.0  JF1OPL      30-Oct-2004 0118Z                                <N6VH>
+ 21235.9  JE1ZWT      30-Oct-2004 0118Z                               <PY3OL>
+ 28358.7  JA6WJL      30-Oct-2004 0117Z                                <K5NA>
+ 28358.5  JA6WJL      30-Oct-2004 0116Z                               <N5DRG>
+ 28582.1  JF3BFS      30-Oct-2004 0114Z  Zone 25                      <KD6UO>
+ 28582.3  JF3BFS      30-Oct-2004 0114Z                                <K5NA>
+ 28545.0  JH0EQN      30-Oct-2004 0113Z  Zone 25                      <KD6UO>
+ 28576.1  JG2SON      30-Oct-2004 0114Z                                <K5NA>
+ 28545.0  JH0EQN      30-Oct-2004 0113Z                                <K5NA>
+ 21427.7  JA0LBE      30-Oct-2004 0111Z                                <N3RS>
+ 28427.0  JA7OWD      30-Oct-2004 0108Z  kl1v                         <W0AIH>
+ 28497.7  JA5BJC      30-Oct-2004 0109Z  Zone 25                      <KD6UO>
+ 28338.0  JF2IWW      30-Oct-2004 0108Z  Zone 25                      <KD6UO>
+ 28497.7  JA5BJC      30-Oct-2004 0109Z                                <K5NA>
+ 21379.3  JM9LRQ      30-Oct-2004 0107Z  Zone 25                      <KD6UO>
+ 28338.0  JF2IWW      30-Oct-2004 0108Z                                <K6EU>
+ 28599.8  JJ1RDX      30-Oct-2004 0107Z                                <N6VH>
+ 21379.3  JM9LRQ      30-Oct-2004 0106Z                                <N3RS>
+ 28319.9  JA7MGP      30-Oct-2004 0106Z  Zone 25                      <KD6UO>
+ 21301.2  JI2UNR      30-Oct-2004 0105Z                              <WA3KYY>
+ 28319.9  JA7MGP      30-Oct-2004 0106Z                                <K6EU>
+ 21353.6  JA2KSI      30-Oct-2004 0105Z                                <N3RS>
+ 28376.0  JH1AZO      30-Oct-2004 0104Z                                <W6YX>
+ 21238.0  JA8YYY      30-Oct-2004 0102Z                                <W3PT>
+ 21238.9  JA7ODY      30-Oct-2004 0100Z                                <W3PT>
+ 21410.0  JA7YAA      30-Oct-2004 0100Z  Zone 25                      <KD6UO>
+ 21339.1  JA5BJC      30-Oct-2004 0106Z                               <N3HUV>
+ 21445.3  JQ1NGT      30-Oct-2004 0059Z                                <W6YX>
+ 21410.2  JA7YAA      30-Oct-2004 0058Z                                <WX3B>
+ 28427.0  JA7OWD      30-Oct-2004 0100Z                                <K5NA>
+ 21410.2  JA7YA       30-Oct-2004 0058Z                                <WX3B>
+ 28365.5  JA7YRR      30-Oct-2004 0058Z  Zone 25                      <KD6UO>
+ 21313.0  JA7NVF      30-Oct-2004 0057Z  Zone 25                      <KD6UO>
+ 28365.5  JA7YRR      30-Oct-2004 0055Z                                <K1GU>
+ 21335.6  JR1AIB      30-Oct-2004 0056Z                               <KO4BB>
+ 21313.2  JA7NVF      30-Oct-2004 0101Z                               <N3HUV>
+ 28341.2  JH4UTP      30-Oct-2004 0053Z                                <K1GU>
+ 21235.8  JE1ZWT      30-Oct-2004 0056Z                               <W2GDJ>
+ 28338.0  JF2IWW      30-Oct-2004 0051Z                                <K1GU>
+ 21362.9  JE1OHL      30-Oct-2004 0052Z                                <W3PT>
+ 28484.0  JE1RXJ      30-Oct-2004 0052Z                               <N5DRG>
+ 28418.8  JH1AGU      30-Oct-2004 0050Z                               <PY3OL>
+ 28586.8  JI2ZJS      30-Oct-2004 0049Z  Zone 25                      <KD6UO>
+ 28545.1  JH0EQN      30-Oct-2004 0049Z                               <KN4QS>
+ 28586.8  JI2ZJS      30-Oct-2004 0050Z                                <K6EU>
+ 28405.4  JA2BNN      30-Oct-2004 0050Z                                <K5NA>
+ 28582.3  JF3BFS      30-Oct-2004 0048Z                               <PY3OL>
+ 28620.8  JH1OCC      30-Oct-2004 0047Z                               <PY3OL>
+ 21403.5  JA3YBK      30-Oct-2004 0047Z                              <VE3XAP>
+ 28398.0  JE1MMX      30-Oct-2004 0047Z                                <K5NA>
+ 21370.0  JA1PCY      30-Oct-2004 0045Z                              <VE3XAP>
+ 21339.0  JA5BJC      30-Oct-2004 0044Z                                <W7GG>
+ 21339.1  JA5BJC      30-Oct-2004 0043Z  xtest                       <VE3XAP>
+ 21235.8  JE3ZWT      30-Oct-2004 0043Z                              <WA3KYY>
+ 21425.0  JK3DGX      30-Oct-2004 0043Z                                <W3PT>
+ 21332.9  JA7YRR      30-Oct-2004 0042Z  xtest                       <VE3XAP>
+ 28614.9  JA0EKI      30-Oct-2004 0045Z                                <KQ7W>
+ 21332.9  JA7YRR      30-Oct-2004 0041Z  xtest                       <VE3XAP>
+ 21369.8  JA1PCY      30-Oct-2004 0041Z                                <W7GG>
+ 21304.0  JA3NTE      30-Oct-2004 0041Z                               <KO4BB>
+ 28376.0  JH1AZO      30-Oct-2004 0042Z                                <K5NA>
+ 28582.1  JF3BFS      30-Oct-2004 0044Z                                <KQ7W>
+ 21403.2  JA3YBK      30-Oct-2004 0041Z                                <W3PT>
+ 21324.3  JJ1ZNF      30-Oct-2004 0040Z                                <WX3B>
+ 21301.4  JI2UNR      30-Oct-2004 0039Z  xtest                       <VE3XAP>
+ 28542.6  JF7PHE      30-Oct-2004 0039Z                                <N6VH>
+ 14334.0  JA8RWU      30-Oct-2004 0038Z                                <WT4Q>
+ 21379.9  JM1LRQ      30-Oct-2004 0038Z                              <KB9KEG>
+ 28322.2  JQ2IQW      30-Oct-2004 0038Z                               <PY3OL>
+ 21324.3  JJ1NZF      30-Oct-2004 0037Z  xtest                       <VE3XAP>
+ 28316.0  JH0HQP      30-Oct-2004 0037Z                               <PY3OL>
+ 28565.0  JS1NDM      30-Oct-2004 0038Z                               <XE2AC>
+ 28639.4  JF2QNM      30-Oct-2004 0036Z                               <PY3OL>
+ 28587.0  JI2ZJS      30-Oct-2004 0035Z                               <PY3OL>
+ 28582.1  JF3BFS      30-Oct-2004 0035Z  contest                      <K4YYL>
+ 28539.2  JO1ZYI      30-Oct-2004 0034Z                               <PY3OL>
+ 21324.1  JJ1ZNF      30-Oct-2004 0034Z                              <KB9KEG>
+ 21301.0  JI2UNR      30-Oct-2004 0034Z  Very Strong NOT from Jap      <W9FD>
+ 28599.6  JA7QFU      30-Oct-2004 0033Z  Contest                      <K4YYL>
+ 28497.7  JA5BJC      30-Oct-2004 0031Z                               <PY3OL>
+ 28489.8  JE1ZWT      30-Oct-2004 0033Z                                <KQ7W>
+ 28626.1  JH7RTQ      30-Oct-2004 0028Z                                <K1GU>
+ 21338.9  JA5BJC      30-Oct-2004 0029Z                                <K3II>
+ 28424.0  JA2ZJW      30-Oct-2004 0028Z                               <PY3OL>
+ 28397.2  JA3USA      30-Oct-2004 0025Z                                <K9JY>
+ 28620.6  JH1OCC      30-Oct-2004 0023Z                                <K1GU>
+ 21332.7  JA7YRR      30-Oct-2004 0025Z                               <K9OSH>
+ 21339.0  JA5BJC      30-Oct-2004 0024Z                               <PY3OL>
+ 28620.6  JA1OCC      30-Oct-2004 0024Z                               <XE2AC>
+ 28497.6  JA5BJC      30-Oct-2004 0022Z                                <W6YX>
+ 28605.3  JA1BPA      30-Oct-2004 0023Z                               <XE2AC>
+ 21379.9  JM1LRQ      30-Oct-2004 0021Z                                <N1DG>
+ 28548.0  JO7KMB      30-Oct-2004 0022Z                                <K6EU>
+ 28599.7  JA7QFU      30-Oct-2004 0023Z                               <XE2AC>
+ 28326.9  JM1NKT      30-Oct-2004 0024Z                                <KQ7W>
+ 28322.0  JQ2IQW      30-Oct-2004 0023Z                                <KQ7W>
+ 28319.9  JA7MGP      30-Oct-2004 0022Z                                <KQ7W>
+ 28315.9  JH0HQP      30-Oct-2004 0022Z                                <KQ7W>
+ 28567.9  JN2QCV      30-Oct-2004 0020Z                               <XE2AC>
+ 28539.2  JO1ZYI      30-Oct-2004 0020Z                                <K6EU>
+ 28548.1  JO7KMB      30-Oct-2004 0019Z                               <XE2AC>
+ 28545.0  JH0EQN      30-Oct-2004 0019Z                               <XE2AC>
+ 21335.7  JR1AIB      30-Oct-2004 0017Z                               <PY3OL>
+ 21313.3  JA7NVF      30-Oct-2004 0016Z  Go Naomi!                     <WX3B>
+ 28423.8  JA2ZJW      30-Oct-2004 0016Z                                <W6YX>
+ 21324.0  JJ1ZNF      30-Oct-2004 0016Z                               <PY3OL>
+ 21361.0  JR3NZC      30-Oct-2004 0013Z  Zone 25                      <KD6UO>
+ 21313.1  JA7NVF      30-Oct-2004 0012Z                               <N3MVX>
+ 21235.0  JE1ZWT      30-Oct-2004 0011Z                               <KO4BB>
+ 28576.1  JG2SON      30-Oct-2004 0011Z  Zone 25                      <KD6UO>
+ 21361.0  JR3NZC      30-Oct-2004 0010Z                                <W3PT>
+ 21370.0  JA1PCY      30-Oct-2004 0010Z                              <KB9KEG>
+ 28576.1  JG2SON      30-Oct-2004 0009Z                                <K0PC>
+ 28553.7  JS3CTQ      30-Oct-2004 0009Z                                <W6KK>
+ 28536.4  JA3YBK      30-Oct-2004 0009Z  Zone 25                      <KD6UO>
+ 28551.0  JA3USA      30-Oct-2004 0008Z                                <W6KK>
+ 28511.0  JO7KMB      30-Oct-2004 0008Z                                <KQ7W>
+ 28511.0  JO7JMB      30-Oct-2004 0008Z                                <KQ7W>
+ 28405.3  JA2BNN      30-Oct-2004 0009Z                                <K6EU>
+ 21301.1  JI2UNR      30-Oct-2004 0007Z  Zone 25                      <KD6UO>
+ 28536.4  JA3YBK      30-Oct-2004 0007Z                                <W6KK>
+ 28320.0  JA7MGP      30-Oct-2004 0005Z                                <N6VH>
+ 21339.0  JA5BJC      30-Oct-2004 0005Z                              <KB9KEG>
+ 21357.9  JH6QFJ      30-Oct-2004 0006Z                                <W2UP>
+ 21301.1  JI2UNR      30-Oct-2004 0004Z  QSX 21301.10                  <K1BX>
+ 21353.5  JA2KSI      30-Oct-2004 0004Z                              <KB9KEG>
+ 21358.1  JH6QFJ      30-Oct-2004 0004Z  Zone 25                      <KD6UO>
+ 21335.5  JR1AIB      30-Oct-2004 0004Z                              <JF1PJK>
+ 21339.0  JA5BHC      30-Oct-2004 0004Z                               <K8YAH>
+ 21235.5  JR1AIB      30-Oct-2004 0003Z                              <JF1PJK>
+ 21358.1  JH6QFJ      30-Oct-2004 0003Z                              <KB9KEG>
+ 21324.1  JJ1ZNF      30-Oct-2004 0002Z                              <W1AJT/VE3>
+ 28497.4  JA5BJC      30-Oct-2004 0002Z                                <W5WD>
+ 28418.8  JH1AGU      30-Oct-2004 0001Z                                <K5WW>
