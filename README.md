@@ -6,8 +6,7 @@
 
 A Perl Snippet for command line use.
 
-rin fukuda, jg1vgx@jarl.com, Nov 2004
-ver 0.02
+rin fukuda, jg1vgx@jarl.com
 
 REQUIREMENTS
 ------------
@@ -17,9 +16,11 @@ HOW TO USE
 ----------
 1. Use your favorite telnet program, connect your favorite node. Collect logs using commands like:
 
+    ```
     show/dx 50000 days 5-4
+    ```
 
-2. Edit the log obtained in (1) to remove unnecessary lines. Especially keep only spots for specific dates necessary for your analysis. Currently there are no function to specify dates in the perl snippet itself.
+2. Edit the log obtained in 1. to remove unnecessary lines. Especially keep only spots for specific dates necessary for your analysis. Currently there are no function to specify dates in the perl snippet itself.
  You can leave unrelated command lines safely. You only have to remove spots for unnecessary dates.
 
 3. Launch the perl snippet. It will ask log file name, then contest mode. The program currently only supports HF contests. It will automatically ignore WARC and VHF spots.
