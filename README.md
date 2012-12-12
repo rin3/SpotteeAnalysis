@@ -25,8 +25,8 @@ HOW TO USE
 3. Launch the perl snippet. It will ask log file name, then contest mode. The program currently only supports HF contests. It will automatically ignore WARC and VHF spots.
 
 4. The outputs are produced as below:
-    - "analyzed.txt" --- Spottee top list, in the descending order of total number of spots. Counts for each band are also shown.
-    - "unanalyzed.txt" --- Contains lines of input file which was unanalyzed. If you find something which should be analyzed, fix any problem (in the original input file) and try again. Such problems include wrong freq (eg. 142255.0 instead of 14225.5 for 20m SSB spot), busted callsigns etc.
+    - "analyzed.txt" - Spottee top list, in the descending order of total number of spots. Counts for each band are also shown.
+    - "unanalyzed.txt" - Contains lines of input file which was unanalyzed. If you find something which should be analyzed, fix any problem (in the original input file) and try again. Such problems include wrong freq (eg. 142255.0 instead of 14225.5 for 20m SSB spot), busted callsigns etc.
 
 5. Band mode map for selection is defined at the top of perl file. You can edit it if you like, especially for low bands.
 
